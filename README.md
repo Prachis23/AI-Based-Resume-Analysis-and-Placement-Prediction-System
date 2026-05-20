@@ -128,8 +128,8 @@ python app.py
 # Author
 
 Prachi Shirole
+Aarti Gunjal
 
-Final Year Engineering Student
 
 ---
 
