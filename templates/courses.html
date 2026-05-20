@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Courses Hub</title>
+    
+    <style>
+        /* General Styling */
+        body {
+            background-color: #f4f7f6;
+            margin: 0;
+        }
+        #courses-section {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            font-family: 'Arial', sans-serif;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+
+        /* Navigation Buttons */
+        .course-navigation {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 30px 0;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+        .nav-button {
+            padding: 10px 25px;
+            border: none;
+            background-color: #f0f0f0;
+            color: #333;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-radius: 5px 5px 0 0;
+        }
+        .nav-button.active {
+            background-color: #007bff;
+            color: white;
+            border-bottom: 2px solid #007bff;
+        }
+
+        /* Content Display Area and Grid */
+        #course-content-display {
+            padding: 20px;
+            min-height: 400px;
+            background-color: #ffffff;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        /* Course Card Style (Clickable) */
+        .course-card {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            border-top: 5px solid #007bff;
+            cursor: pointer; 
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .course-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Video Player and Back Button Styling */
+        .back-btn {
+            padding: 8px 15px;
+            background-color: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        /* For responsive video embed (16:9 ratio) */
+        .video-responsive {
+            position: relative; 
+            padding-bottom: 56.25%; 
+            height: 0; 
+            overflow: hidden; 
+            max-width: 100%; 
+            background: #000;
+        }
+        .video-responsive iframe {
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%;
+        }
+
+        /* Mock Test Interface */
+        .mock-test-interface {
+            border: 2px solid #dc3545;
+            padding: 30px;
+            background-color: #fff8f8;
+            border-radius: 8px;
+        }
+        .start-btn-inline { /* Used for Start Test buttons */
+            display: block;
+            width: 100%;
+            padding: 12px;
+            background-color: #dc3545; 
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-top: 15px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+    </style>
+    </head>
+<body>
+
+    <section id="courses-section">
+        <h1>Your Path to Placement Success</h1>
+        
+        <div class="course-navigation">
+            <button class="nav-button active" onclick="showContent('aptitude', this)" data-section="aptitude">Aptitude Courses</button>
+            <button class="nav-button" onclick="showContent('technical', this)" data-section="technical">Technical Courses</button>
+            <button class="nav-button" onclick="showContent('mock-tests', this)" data-section="mock-tests">Mock Tests</button>
+        </div>
+
+        <div id="course-content-display">
+            </div>
+    </section>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script> 
+</body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Placement Prediction Form</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: #f4f6f8;
+        color: #333;
+      }
+
+      nav {
+        background-color: #1f2937;
+        padding: 15px 0;
+        text-align: center;
+      }
+
+      nav a {
+        color: #ffffff;
+        text-decoration: none;
+        margin: 0 20px;
+        font-weight: 600;
+        font-size: 16px;
+      }
+
+      nav a:hover {
+        color: #fbbf24;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 50px auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      h2 {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #1f2937;
+      }
+
+      label {
+        display: block;
+        margin-top: 15px;
+        font-weight: 600;
+      }
+
+      input[type="text"],
+      input[type="number"],
+      select {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+
+      input[type="radio"] {
+        margin-right: 5px;
+      }
+
+      button {
+        margin-top: 30px;
+        width: 100%;
+        padding: 15px;
+        background-color: #3b82f6;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        font-size: 18px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #2563eb;
+      }
+    </style>
+  </head>
+  <body>
+    
+
+    <div class="container">
+      <h2>Placement Prediction Form</h2>
+      <form action="/predict_result" method="post">
+        <label>Name</label>
+        <input type="text" name="name" required />
+
+        <label>Skills (comma-separated)</label>
+        <input type="text" name="skills" required />
+
+        <label>Project Count</label>
+        <input type="number" name="project_count" min="0" required />
+
+       
+
+        <label>Internships</label>
+        <input type="radio" name="internship" value="Yes" required /> Yes
+        <input type="radio" name="internship" value="No" /> No
+
+        <label>Communication Rating (1-5)</label>
+        <input type="number" name="communication" min="1" max="5" required />
+
+        <label>Branch</label>
+        <select name="branch" required>
+          <option value="CSE">CSE</option>
+          <option value="ECE">ECE</option>
+          <option value="IT">IT</option>
+          <option value="Mechanical">Mechanical</option>
+          <option value="Electrical">Electrical</option>
+          <option value="Civil">Civil</option>
+          <option value="Other">Other</option>
+        </select>
+
+        <label>CGPA</label>
+        <input
+          type="number"
+          name="cgpa"
+          step="0.01"
+          min="0"
+          max="10"
+          required
+        />
+
+        <label>Certificates (comma-separated)</label>
+        <input type="text" name="certificates" />
+
+        <label>Backlogs</label>
+        <input type="radio" name="backlogs" value="Yes" required /> Yes
+        <input type="radio" name="backlogs" value="No" /> No
+
+        <label>10th Marks (%)</label>
+        <input
+          type="number"
+          name="marks_10"
+          min="0"
+          max="100"
+          step="0.01"
+          required
+        />
+
+        <label>12th Marks (%)</label>
+        <input
+          type="number"
+          name="marks_12"
+          min="0"
+          max="100"
+          step="0.01"
+          required
+        />
+
+        <label>Interest Domain</label>
+        <select name="interest_domain" required>
+          <option value="Data Science">Data Science</option>
+          <option value="AI">AI</option>
+          <option value="Cybersecurity">Cybersecurity</option>
+          <option value="Hardware">Hardware</option>
+          <option value="Web Development">Web Development</option>
+          <option value="Other">Other</option>
+        </select>
+
+        <button type="submit">Predict Placement</button>
+      </form>
+    </div>
+  </body>
+</html>

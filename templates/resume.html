@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional ATS Resume Analyzer</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <!-- Load Lucide Icons for professional-looking symbols -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --primary-color: #1f2937; /* Dark Slate Gray */
+            --secondary-color: #3b82f6; /* Blue 500 */
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6; /* Light gray background */
+        }
+        .card {
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 2, 0, 0.1);
+        }
+        .score-circle {
+            position: relative;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            border: 8px solid #e5e7eb;
+            transition: border-color 0.5s ease;
+        }
+        .score-circle.low { border-color: #ef4444; } /* Red */
+        .score-circle.medium { border-color: #f59e0b; } /* Amber */
+        .score-circle.high { border-color: #10b981; } /* Emerald */
+        .hidden-content {
+            opacity: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: opacity 0.5s ease-in-out, max-height 0.7s ease-in-out;
+        }
+        .visible-content {
+            opacity: 1;
+            max-height: 5000px; /* Large enough value to show content */
+        }
+        .tab-button.active {
+            border-color: #4f46e5;
+            color: #4f46e5;
+            background-color: #eef2ff;
+        }
+    </style>
+</head>
+<body class="p-4 sm:p-8">
+
+    <main class="max-w-7xl mx-auto">
+        <!-- HEADER -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl font-extrabold text-gray-800 tracking-tight mb-2">
+                ATS Resume Analysis Dashboard
+            </h1>
+            <p class="text-lg text-gray-500">
+                Instantly check compatibility and get personalized improvement suggestions.
+            </p>
+        </header>
+
+        <!-- UPLOAD SECTION -->
+        <section id="upload-section" class="card p-6 sm:p-8 mb-10">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4 flex items-center">
+                <i data-lucide="upload-cloud" class="w-6 h-6 text-indigo-500 mr-3"></i>
+                Upload & Define Target
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <!-- File Upload Slot -->
+                <div class="md:col-span-1 border-2 border-dashed border-gray-300 rounded-lg p-4 text-center hover:border-indigo-500 transition duration-200 cursor-pointer"
+                     onclick="document.getElementById('pdf-upload').click()">
+                    <input type="file" id="pdf-upload" accept=".pdf" class="hidden" onchange="handleFileUpload(event)">
+                    <i data-lucide="file-text" class="w-8 h-8 mx-auto text-gray-400 mb-2"></i>
+                    <p id="upload-text" class="text-gray-600 font-medium text-sm">Click to select a **PDF** resume.</p>
+                </div>
+                
+                <!-- Target Job Role Input -->
+                <div class="md:col-span-2">
+                    <label for="target-role" class="block text-sm font-medium text-gray-700 mb-1">Target Job Role (e.g., "Junior Frontend Developer")</label>
+                    <div class="relative rounded-md shadow-sm">
+                        <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
+                            <i data-lucide="briefcase" class="h-5 w-5 text-gray-400"></i>
+                        </div>
+                        <input type="text" id="target-role" class="block w-full rounded-md border-gray-300 pl-10 pr-4 py-2.5 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm border" placeholder="Enter target role for personalized suggestions">
+                    </div>
+                </div>
+            </div>
+
+            <button id="analyze-button" class="mt-6 w-full bg-indigo-600 text-white py-3 rounded-lg font-semibold shadow-lg hover:bg-indigo-700 transition duration-300 opacity-50 cursor-not-allowed" disabled onclick="startAnalysis()">
+                Start Comprehensive Analysis
+            </button>
+        </section>
+
+        <!-- ANALYSIS RESULTS SECTION (Initially Hidden) -->
+        <section id="results-section" class="hidden-content">
+            <div id="loading-spinner" class="text-center p-10 hidden card mb-8">
+                <div class="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-current border-r-transparent align-[-0.125em] text-indigo-500" role="status">
+                    <span class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Loading...</span>
+                </div>
+                <!-- Enhanced Loading Message -->
+                <p id="loading-message" class="mt-4 text-lg font-medium text-gray-600">Analyzing your resume for ATS compatibility...</p>
+                
+                <!-- Progress Bar -->
+                <div class="mt-4 w-full bg-gray-200 rounded-full h-2.5">
+                    <div id="progress-bar" class="bg-indigo-600 h-2.5 rounded-full transition-all duration-700 ease-out" style="width: 0%"></div>
+                </div>
+                
+                <!-- Detailed Error Display -->
+                <div id="error-display" class="mt-6 p-4 bg-red-100 border-2 border-red-400 text-red-700 rounded-lg hidden text-left">
+                    <p class="font-bold text-base flex items-center mb-1">
+                         <i data-lucide="x-circle" class="w-5 h-5 mr-2"></i> Analysis Failed:
+                    </p>
+                    <p id="error-detail" class="text-sm"></p>
+                    <p class="text-xs mt-2 text-red-600">Try reducing the file size or simplifying the resume format (e.g., remove complex tables).</p>
+                </div>
+                
+            </div>
+
+            <!-- TAB NAVIGATION -->
+            <div id="analysis-tabs" class="mb-6 flex space-x-2 border-b border-gray-200">
+                <button class="tab-button active flex items-center px-4 py-2 text-sm font-medium border-b-2 border-transparent transition duration-150" data-tab="ats-analysis" onclick="showTab('ats-analysis')">
+                    <i data-lucide="shield-check" class="w-4 h-4 mr-2"></i>
+                    ATS Score & Feedback
+                </button>
+                <button class="tab-button flex items-center px-4 py-2 text-sm font-medium border-b-2 border-transparent transition duration-150" data-tab="skill-gap" onclick="showTab('skill-gap')">
+                    <i data-lucide="graduation-cap" class="w-4 h-4 mr-2"></i>
+                    Skill Gap Recommender
+                </button>
+            </div>
+
+
+            <!-- TAB CONTENT CONTAINER -->
+            <div class="card p-6 sm:p-8">
+
+                <!-- 1. ATS SCORE & FEEDBACK TAB -->
+                <div id="ats-analysis" class="tab-content">
+                    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                        <!-- ATS SCORE CARD -->
+                        <div class="lg:col-span-1 p-4 text-center border-b lg:border-r lg:border-b-0 border-gray-100">
+                            <h2 class="text-xl font-bold text-gray-800 mb-4">
+                                ATS Compatibility Score
+                            </h2>
+                            <div id="score-display" class="score-circle mx-auto medium mb-4">
+                                --<span class="text-2xl ml-1 font-normal">%</span>
+                            </div>
+                            <p class="text-gray-500 text-sm">How well an automated system can read and parse your document.</p>
+                        </div>
+
+                        <!-- STRENGTHS & WEAKNESSES -->
+                        <div class="lg:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-6 pt-4 lg:pt-0">
+                            <!-- Strengths -->
+                            <div>
+                                <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
+                                    <i data-lucide="zap" class="w-5 h-5 text-green-500 mr-2"></i>
+                                    Key Strengths
+                                </h3>
+                                <ul id="strengths-list" class="space-y-3">
+                                    <li class="text-gray-500">Awaiting analysis...</li>
+                                </ul>
+                            </div>
+
+                            <!-- Weaknesses -->
+                            <div>
+                                <h3 class="text-lg font-semibold text-gray-800 mb-3 flex items-center">
+                                    <i data-lucide="alert-triangle" class="w-5 h-5 text-red-500 mr-2"></i>
+                                    Areas for Improvement
+                                </h3>
+                                <ul id="weaknesses-list" class="space-y-3">
+                                    <li class="text-gray-500">Awaiting analysis...</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SUGGESTED IMPROVEMENTS -->
+                    <div class="pt-8 mt-8 border-t border-gray-100">
+                        <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
+                            <i data-lucide="lightbulb" class="w-6 h-6 text-yellow-500 mr-3"></i>
+                            Specific Improvement Suggestions
+                        </h2>
+                        <div id="suggestions-container" class="space-y-6">
+                            <p class="text-gray-500">Awaiting analysis...</p>
+                        </div>
+                    </div>
+                    
+                    <!-- TEMPLATE RECOMMENDATIONS -->
+                    <div class="pt-8 mt-8 border-t border-gray-100">
+                        <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
+                            <i data-lucide="layout-template" class="w-6 h-6 text-fuchsia-500 mr-3"></i>
+                            Template & Structure Recommendations
+                        </h2>
+                        <div id="template-recommendations-container" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <p class="text-gray-500 md:col-span-2">Awaiting analysis...</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2. SKILL GAP RECOMMENDER TAB -->
+                <div id="skill-gap" class="tab-content hidden">
+                    <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
+                        <i data-lucide="brain-circuit" class="w-6 h-6 text-purple-600 mr-3"></i>
+                        Personalized Skill Gap Analysis for <span id="target-role-display" class="text-purple-600 ml-1 font-extrabold">...</span>
+                    </h2>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-6">
+                        <!-- Current Skills -->
+                        <div>
+                            <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center">
+                                <i data-lucide="rocket" class="w-5 h-5 text-indigo-500 mr-2"></i>
+                                Skills Found on Resume
+                            </h3>
+                            <ul id="current-skills-list" class="space-y-2 list-disc list-inside text-gray-700">
+                                <li>Waiting for analysis...</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Required Skills -->
+                        <div>
+                            <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center">
+                                <i data-lucide="target" class="w-5 h-5 text-teal-500 mr-2"></i>
+                                Key Skills Required for Target Role
+                            </h3>
+                            <ul id="required-skills-list" class="space-y-2 list-disc list-inside text-gray-700">
+                                <li>Waiting for analysis...</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="border-t pt-6 mt-6">
+                        <h3 class="text-xl font-semibold text-gray-800 mb-4 flex items-center">
+                            <i data-lucide="book-open" class="w-5 h-5 text-green-500 mr-2"></i>
+                            Recommended Learning Path
+                        </h3>
+                        <div id="recommendations-container" class="space-y-4">
+                            <!-- Populated by JS -->
+                            <p class="text-gray-500">Enter a target job role and upload your resume to see personalized recommendations.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <script>
+        // Initialize Lucide Icons
+        lucide.createIcons();
+
+        const uploadText = document.getElementById('upload-text');
+        const targetRoleInput = document.getElementById('target-role');
+        const analyzeButton = document.getElementById('analyze-button');
+        const resultsSection = document.getElementById('results-section');
+        const loadingSpinner = document.getElementById('loading-spinner');
+        const loadingMessage = document.getElementById('loading-message');
+        const progressBar = document.getElementById('progress-bar');
+        const errorDisplay = document.getElementById('error-display');
+        const errorDetail = document.getElementById('error-detail');
+
+        let uploadedFile = null;
+        const API_MODEL = "gemini-2.5-flash-preview-09-2025";
+        const API_KEY = "AIzaSyBpA67jdgrBGA5uZgl2k-84MvsbbcEWodU";
+        const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${API_MODEL}:generateContent?key=${API_KEY}`;
+        
+        // Detailed steps for the user
+        const analysisSteps = [
+            { message: "1/5: Preparing file for secure transmission.", percent: 15 },
+            { message: "2/5: Transmitting PDF data to the analysis engine.", percent: 35 },
+            { message: "3/5: AI is deeply analyzing ATS structure and content. (Optimized for speed now!)", percent: 65 },
+            { message: "4/5: Calculating ATS score and generating recommendations.", percent: 85 },
+            { message: "5/5: Structuring and formatting results for display.", percent: 95 }
+        ];
+
+        window.onload = () => {
+             lucide.createIcons();
+             populateResults({});
+             checkInputs();
+             // Ensure initial state is clean
+             progressBar.style.width = '0%';
+        }
+
+        // --- Core UI Functions ---
+
+        function updateLoading(stepIndex, isError = false) {
+            if (isError) {
+                progressBar.style.width = '100%';
+                progressBar.classList.remove('bg-indigo-600');
+                progressBar.classList.add('bg-red-600');
+                loadingMessage.textContent = "Analysis Failed. See details above.";
+                return;
+            }
+
+            const step = analysisSteps[stepIndex];
+            if (step) {
+                loadingMessage.textContent = step.message;
+                progressBar.style.width = `${step.percent}%`;
+                progressBar.classList.remove('bg-red-600');
+                progressBar.classList.add('bg-indigo-600');
+            }
+        }
+
+        function showTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.add('hidden');
+            });
+            document.getElementById(tabId).classList.remove('hidden');
+            
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+            document.querySelector(`.tab-button[data-tab="${tabId}"]`).classList.add('active');
+        }
+
+        function checkInputs() {
+            if (uploadedFile && targetRoleInput.value.trim().length > 3) {
+                analyzeButton.disabled = false;
+                analyzeButton.classList.remove('opacity-50', 'cursor-not-allowed');
+                analyzeButton.classList.add('shadow-indigo-500/50');
+            } else {
+                analyzeButton.disabled = true;
+                analyzeButton.classList.add('opacity-50', 'cursor-not-allowed');
+                analyzeButton.classList.remove('shadow-indigo-500/50');
+            }
+        }
+
+        function handleFileUpload(event) {
+            uploadedFile = event.target.files[0];
+            if (uploadedFile && uploadedFile.type === 'application/pdf') {
+                uploadText.innerHTML = `<span class="font-bold text-indigo-600">${uploadedFile.name}</span> selected.`;
+            } else {
+                uploadedFile = null;
+                uploadText.textContent = 'Click to select a PDF resume.';
+                if (event.target.files.length > 0) {
+                    showMessageBox('Error', 'Please select a PDF file only.');
+                }
+            }
+            checkInputs();
+        }
+
+        targetRoleInput.addEventListener('input', checkInputs);
+
+        function showMessageBox(title, message) {
+            console.warn(`${title}: ${message}`);
+            // If you wanted to use a modal, this is where you'd trigger it.
+        }
+
+
+        // --- API Helpers ---
+
+        function fileToBase64(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = () => {
+                    const base64String = reader.result.split(',')[1];
+                    resolve(base64String);
+                };
+                reader.onerror = error => reject(error);
+                reader.readAsDataURL(file);
+            });
+        }
+
+        async function exponentialBackoffFetch(url, payload, retries = 3) {
+            for (let i = 0; i < retries; i++) {
+                try {
+                    const response = await fetch(url, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(payload)
+                    });
+
+                    if (response.ok) {
+                        return await response.json();
+                    }
+
+                    if (response.status === 429) {
+                        if (i < retries - 1) {
+                            const delay = Math.pow(2, i) * 1000 + Math.random() * 1000;
+                            console.warn(`Rate limit hit (429). Retrying in ${Math.round(delay/1000)}s...`);
+                            await new Promise(resolve => setTimeout(resolve, delay));
+                            continue;
+                        }
+                    }
+
+                    const errorText = await response.text();
+                    throw new Error(`API call failed (Status ${response.status}): ${errorText.substring(0, 100)}...`);
+
+                } catch (error) {
+                    if (i < retries - 1) {
+                        const delay = Math.pow(2, i) * 1000 + Math.random() * 1000;
+                        await new Promise(resolve => setTimeout(resolve, delay));
+                        continue;
+                    }
+                    throw error;
+                }
+            }
+        }
+
+
+        // --- JSON Schemas ---
+        const analysisSchema = {
+            type: "OBJECT",
+            properties: {
+                ats: {
+                    type: "OBJECT",
+                    description: "ATS Compatibility Analysis",
+                    properties: {
+                        score: {
+                            type: "INTEGER",
+                            description: "The ATS compatibility score out of 100."
+                        },
+                        strengths: {
+                            type: "ARRAY",
+                            description: "A list of 3-5 key strengths.",
+                            items: { type: "STRING" }
+                        },
+                        weaknesses: {
+                            type: "ARRAY",
+                            description: "A list of 3-5 critical areas for improvement/weaknesses.",
+                            items: { type: "STRING" }
+                        },
+                        suggestions: {
+                            type: "ARRAY",
+                            description: "A list of 3-4 specific, actionable improvement suggestions.",
+                            items: {
+                                type: "OBJECT",
+                                properties: {
+                                    type: { 
+                                        type: "STRING", 
+                                        enum: ["Keywords", "Formatting", "Content", "Quantification", "Length"],
+                                    },
+                                    detail: { type: "STRING" }
+                                },
+                                propertyOrdering: ["type", "detail"]
+                            }
+                        },
+                        template_recommendations: {
+                            type: "ARRAY",
+                            description: "A list of 2 specific, actionable template or format recommendations, explicitly referencing Overleaf (LaTeX) and Novoresume (modern format).",
+                            items: {
+                                type: "OBJECT",
+                                properties: {
+                                    platform: { type: "STRING", description: "Template platform name (e.g., Overleaf, Novoresume, Canva)." },
+                                    reason: { type: "STRING", description: "Why this template platform is recommended based on the resume/target role." }
+                                },
+                                propertyOrdering: ["platform", "reason"]
+                            }
+                        }
+                    },
+                    propertyOrdering: ["score", "strengths", "weaknesses", "suggestions", "template_recommendations"]
+                },
+                skill_gap: {
+                    type: "OBJECT",
+                    description: "Skill Gap and Learning Path Analysis",
+                    properties: {
+                        current_skills: {
+                            type: "ARRAY",
+                            description: "List of 5-8 relevant skills clearly found on the user's resume.",
+                            items: { type: "STRING" }
+                        },
+                        required_skills: {
+                            type: "ARRAY",
+                            description: "List of 5-8 key skills required for the target job role.",
+                            items: { type: "STRING" }
+                        },
+                        recommendations: {
+                            type: "ARRAY",
+                            description: "3-4 actionable recommendations for courses or projects to close the gap.",
+                            items: {
+                                type: "OBJECT",
+                                properties: {
+                                    focus: { 
+                                        type: "STRING", 
+                                        description: "The main area of focus for this recommendation (e.g., Python Libraries, Cloud Basics)."
+                                    },
+                                    action: { 
+                                        type: "STRING",
+                                        description: "The suggested action (e.g., 'Complete an advanced course on X', 'Build a project using Y')."
+                                    }
+                                },
+                                propertyOrdering: ["focus", "action"]
+                            }
+                        }
+                    },
+                    propertyOrdering: ["current_skills", "required_skills", "recommendations"]
+                }
+            },
+            propertyOrdering: ["ats", "skill_gap"]
+        };
+
+
+        // --- Main Analysis Logic ---
+
+        async function startAnalysis() {
+            if (!uploadedFile || analyzeButton.disabled) return;
+
+            const targetRole = targetRoleInput.value.trim();
+            if (targetRole.length < 4) {
+                showMessageBox('Input Required', 'Please enter a valid Target Job Role.');
+                return;
+            }
+            
+            // 1. Prepare UI for loading
+            document.getElementById('upload-section').classList.add('opacity-30', 'pointer-events-none');
+            resultsSection.classList.remove('visible-content');
+            resultsSection.classList.add('hidden-content');
+            loadingSpinner.classList.remove('hidden');
+            document.getElementById('target-role-display').textContent = targetRole;
+            errorDisplay.classList.add('hidden'); // Clear previous error
+            
+            populateResults({}); // Reset results content
+            updateLoading(0); // Step 1: Preparing file
+
+            try {
+                // 2. Convert PDF to Base64
+                updateLoading(1); // Step 2: Transmitting data
+                const base64Data = await fileToBase64(uploadedFile);
+
+                // 3. Construct API Payload (Speed Optimized Prompts)
+                const systemPrompt = `You are a career development expert. Analyze the uploaded PDF resume ONLY to provide data for the strict JSON schema. **PRIORITIZE SPEED and CONCISENESS** in your output. Do not include any filler text outside the JSON structure.`;
+                
+                const userQuery = `Analyze the entire uploaded resume document. The user is targeting the role of: **${targetRole}**. 
+                Provide a high-speed, structured analysis including the ATS compatibility score, strengths, weaknesses, specific improvement suggestions, 2 template recommendations (one for Overleaf/LaTeX, one for a modern builder like Novoresume/Canva), current skills, required skills for the target role, and 3-4 actionable learning path recommendations. Output the JSON object immediately.`;
+
+                const payload = {
+                    contents: [
+                        {
+                            role: "user",
+                            parts: [
+                                { text: userQuery },
+                                {
+                                    inlineData: {
+                                        mimeType: "application/pdf",
+                                        data: base64Data
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    systemInstruction: {
+                        parts: [{ text: systemPrompt }]
+                    },
+                    generationConfig: {
+                        responseMimeType: "application/json",
+                        responseSchema: analysisSchema,
+                        // Lower temperature for faster, less exploratory token generation.
+                        temperature: 0.3 
+                    }
+                };
+                
+                // 4. Call the Gemini API 
+                updateLoading(2); // Step 3: Deep AI analysis
+                const result = await exponentialBackoffFetch(API_URL, payload);
+
+                // 5. Process the response
+                updateLoading(3); // Step 4: Calculating results
+                const candidate = result.candidates?.[0];
+                if (candidate && candidate.content?.parts?.[0]?.text) {
+                    const json = candidate.content.parts[0].text;
+                    const analysisData = JSON.parse(json);
+                    
+                    updateLoading(4); // Step 5: Formatting results
+                    
+                    // 6. Populate results
+                    populateResults(analysisData);
+                    showTab('ats-analysis'); // Show ATS tab first
+
+                } else {
+                    throw new Error("API returned an unexpected structure or empty content. The analysis might have been too complex for the model's output constraints.");
+                }
+                
+                // Final success state
+                progressBar.style.width = '100%'; 
+
+            } catch (error) {
+                console.error("Analysis Error:", error);
+                
+                // Show detailed error message
+                errorDetail.textContent = error.message || 'An unknown network error occurred.';
+                errorDisplay.classList.remove('hidden');
+                
+                // Set loading state to error
+                updateLoading(0, true); 
+                
+                const errorData = {
+                    ats: { 
+                        score: 0, 
+                        strengths: ["Analysis Failed. Check file size/format."], 
+                        weaknesses: ["See error message above for details."], 
+                        suggestions: [{ type: "Error", detail: "The analysis could not be completed." }],
+                        template_recommendations: [{ platform: "N/A", reason: "Analysis failed to provide template advice." }]
+                    },
+                    skill_gap: { current_skills: ["Analysis failed."], required_skills: ["Analysis failed."], recommendations: [{ focus: "Technical Review", action: "Check your console for the full error log." }] }
+                };
+                populateResults(errorData);
+
+            } finally {
+                // 7. Final UI adjustments
+                loadingSpinner.classList.add('hidden');
+                resultsSection.classList.remove('hidden-content');
+                resultsSection.classList.add('visible-content');
+                document.getElementById('upload-section').classList.remove('opacity-30', 'pointer-events-none');
+                
+                lucide.createIcons();
+                resultsSection.scrollIntoView({ behavior: 'smooth' });
+                
+                // Reset bar for the next run (0% and indigo)
+                setTimeout(() => { 
+                    progressBar.style.width = '0%';
+                    progressBar.classList.remove('bg-red-600');
+                    progressBar.classList.add('bg-indigo-600');
+                }, 1000);
+            }
+        }
+
+        // Populates the DOM with the structured analysis data (UPDATED with links)
+        function populateResults(data) {
+            const scoreDisplay = document.getElementById('score-display');
+            const strengthsList = document.getElementById('strengths-list');
+            const weaknessesList = document.getElementById('weaknesses-list');
+            const suggestionsContainer = document.getElementById('suggestions-container');
+            const templateRecommendationsContainer = document.getElementById('template-recommendations-container'); 
+
+            const currentSkillsList = document.getElementById('current-skills-list');
+            const requiredSkillsList = document.getElementById('required-skills-list');
+            const recommendationsContainer = document.getElementById('recommendations-container');
+            
+            [strengthsList, weaknessesList, suggestionsContainer, templateRecommendationsContainer, currentSkillsList, requiredSkillsList, recommendationsContainer].forEach(el => el.innerHTML = '');
+
+            const defaultText = '<li class="text-gray-500">Awaiting analysis...</li>';
+
+            const atsData = data.ats;
+            if (atsData && atsData.score !== undefined) {
+                const score = Math.max(0, Math.min(100, parseInt(atsData.score)));
+                scoreDisplay.textContent = `${score}%`;
+                scoreDisplay.className = 'score-circle mx-auto mb-4';
+                if (score < 50) { scoreDisplay.classList.add('low'); } 
+                else if (score < 80) { scoreDisplay.classList.add('medium'); } 
+                else { scoreDisplay.classList.add('high'); }
+
+                strengthsList.innerHTML = (atsData.strengths || []).map(s => `
+                    <li class="flex items-start text-gray-700 text-sm">
+                        <i data-lucide="check-circle" class="w-5 h-5 text-green-500 mr-2 mt-1 flex-shrink-0"></i>
+                        ${s}
+                    </li>
+                `).join('') || defaultText;
+
+                weaknessesList.innerHTML = (atsData.weaknesses || []).map(w => `
+                    <li class="flex items-start text-gray-700 text-sm">
+                        <i data-lucide="x-octagon" class="w-5 h-5 text-red-500 mr-2 mt-1 flex-shrink-0"></i>
+                        ${w}
+                    </li>
+                `).join('') || defaultText;
+
+                suggestionsContainer.innerHTML = (atsData.suggestions || []).map(s => `
+                    <div class="border-l-4 border-yellow-500 pl-4 py-2 bg-yellow-50 rounded-r-lg">
+                        <h4 class="font-semibold text-gray-800 flex items-center mb-1">
+                            <span class="text-xs font-bold text-yellow-700 bg-yellow-200 px-2 py-0.5 rounded-full mr-2">${s.type || 'General'}</span>
+                        </h4>
+                        <p class="text-gray-700">${s.detail}</p>
+                    </div>
+                `).join('') || `<p class="text-gray-500">No immediate, specific suggestions found for ATS.</p>`;
+
+                // UPDATED: Populate Template Recommendations with Clickable Links
+                templateRecommendationsContainer.innerHTML = (atsData.template_recommendations || []).map(r => {
+                    let platformName = r.platform || 'Template Platform';
+                    let platformLink = platformName;
+
+                    // Logic to create a hyperlink based on the platform name
+                    if (platformName.toLowerCase().includes('overleaf')) {
+                        platformLink = `<a href="https://www.overleaf.com/" target="_blank" class="text-indigo-600 hover:text-indigo-700 hover:underline font-extrabold transition-colors duration-150">${platformName}</a>`;
+                    } else if (platformName.toLowerCase().includes('novoresume')) {
+                        platformLink = `<a href="https://novoresume.com/" target="_blank" class="text-indigo-600 hover:text-indigo-700 hover:underline font-extrabold transition-colors duration-150">${platformName}</a>`;
+                    } else if (platformName.toLowerCase().includes('canva')) {
+                        platformLink = `<a href="https://www.canva.com/resumes/" target="_blank" class="text-indigo-600 hover:text-indigo-700 hover:underline font-extrabold transition-colors duration-150">${platformName}</a>`;
+                    }
+
+                    return `
+                        <div class="card p-4 border border-fuchsia-200 bg-fuchsia-50">
+                            <h4 class="font-bold text-lg text-fuchsia-700 flex items-center mb-1">
+                                <i data-lucide="link" class="w-4 h-4 mr-2"></i>
+                                ${platformLink}
+                            </h4>
+                            <p class="text-sm text-gray-700">${r.reason}</p>
+                        </div>
+                    `;
+                }).join('') || `<p class="text-gray-500 md:col-span-2">Awaiting analysis...</p>`;
+
+
+            } else {
+                scoreDisplay.textContent = '--%';
+                scoreDisplay.className = 'score-circle mx-auto mb-4 medium';
+                strengthsList.innerHTML = defaultText;
+                weaknessesList.innerHTML = defaultText;
+                suggestionsContainer.innerHTML = `<p class="text-gray-500">Awaiting analysis...</p>`;
+                templateRecommendationsContainer.innerHTML = `<p class="text-gray-500 md:col-span-2">Awaiting analysis...</p>`;
+            }
+
+            const skillGapData = data.skill_gap;
+            if (skillGapData) {
+                currentSkillsList.innerHTML = (skillGapData.current_skills || []).map(s => `<li>${s}</li>`).join('') || defaultText;
+                requiredSkillsList.innerHTML = (skillGapData.required_skills || []).map(s => `<li>${s}</li>`).join('') || defaultText;
+
+                recommendationsContainer.innerHTML = (skillGapData.recommendations || []).map(r => `
+                    <div class="border-l-4 border-green-500 pl-4 py-2 bg-green-50 rounded-r-lg">
+                        <h4 class="font-semibold text-gray-800 flex items-center mb-1">
+                            <i data-lucide="chevrons-right" class="w-4 h-4 text-green-600 mr-2"></i>
+                            <span class="text-sm font-bold text-green-700">${r.focus || 'Development'}</span>
+                        </h4>
+                        <p class="text-gray-700">${r.action}</p>
+                    </div>
+                `).join('') || `<p class="text-gray-500">Skill alignment looks good, or more details are needed!</p>`;
+            } else {
+                currentSkillsList.innerHTML = defaultText;
+                requiredSkillsList.innerHTML = defaultText;
+                recommendationsContainer.innerHTML = `<p class="text-gray-500">Enter a target job role and upload your resume to see personalized recommendations.</p>`;
+            }
+
+            lucide.createIcons();
+        }
+    </script>
+
+</body>
+</html>

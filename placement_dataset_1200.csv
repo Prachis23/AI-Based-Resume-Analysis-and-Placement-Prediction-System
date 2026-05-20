@@ -1,0 +1,1201 @@
+name,skills,project_count,internship,communication,branch,cgpa,certificates,backlogs,marks_10,marks_12,interest_domain,placed
+Aarav Nair,"Deep Learning, Computer Vision, Arduino, Python",3,Yes,2,Other,8.24,Python for Everybody,No,72.4,84.97,Artificial Intelligence,1
+Ananya Khan,"Computer Vision, Blockchain",0,No,2,IT,6.62,Deep Learning Specialization,No,91.68,73.57,Computer Vision,1
+Kabir Pandey,"JavaScript, HTML",1,No,4,CSE,8.71,Google IT Support Certificate,No,83.26,82.25,Web Development,1
+Aarav Bhatt,"Embedded Systems, Python, Solidity",1,No,1,IT,4.29,"CS50 Certificate, Certified Ethical Hacker",Yes,81.68,56.44,Blockchain Technology,0
+Rohit Saxena,"ETL, Blockchain",0,No,3,Electrical,7.06,AWS Certified Solutions Architect,No,77.59,67.75,Business Intelligence,0
+Ishaan Saxena,"CI/CD, Kubernetes, Machine Learning",3,Yes,5,Electrical,5.27,Coursera Python,No,95.67,62.06,DevOps,0
+Riya Garg,"Linux, Python",0,No,2,Mechanical,8.07,"Power BI Certification, fast.ai course",Yes,74.59,82.95,UI/UX Design,0
+Isha Kapoor,PyTorch,2,No,2,Civil,6.76,"Coursera Python, Coursera ML",No,94.75,72.64,Embedded Systems,0
+Ananya Kapoor,"UI/UX Design, Figma, Kubernetes",2,No,2,Mechanical,7.93,Google IT Support,Yes,79.53,73.44,UI/UX Design,0
+Kavya Bhat,"HTML, Hadoop, SQL, Database Design",0,No,2,CSE,6.01,UI/UX Design Certificate,No,76.1,76.8,Database Management,0
+Isha Singh,"OpenCV, Computer Vision",0,No,2,Civil,7.45,TensorFlow Specialization,Yes,77.65,85.31,Computer Vision,1
+Prachi Bhat,"Spark, HTML",3,No,3,ECE,7.0,PMP basics,No,90.03,73.67,Big Data Analytics,0
+Leena Malhotra,Network Security,1,No,3,Electrical,8.21,Deep Learning Specialization,No,74.85,80.01,Networking,1
+Simran Khan,"Angular, C/C++, SQL",2,Yes,3,CSE,6.53,PMP Certification,No,65.82,72.24,Embedded Systems,1
+Manish Garg,"Java, Machine Learning",0,No,2,Civil,8.66,Google IT Support,No,75.0,84.4,Automation,0
+Rohit Kapoor,"Swift, Android Development, Kotlin",2,Yes,4,IT,6.42,CS50 Certificate,No,77.52,66.77,Mobile Application Development,0
+Neha Rao,"Data Analysis, AWS, Python, Machine Learning",1,No,1,Electrical,6.55,Deep Learning Specialization,No,81.78,77.84,Machine Learning,1
+Sneha Singh,"Unity, Automation",1,No,4,Electrical,7.67,UI/UX Design Certificate,No,78.64,76.34,Software Testing,0
+Prachi Nair,"OpenCV, PyTorch, Arduino",0,No,2,Other,8.78,Power BI Certification,No,78.7,91.73,Augmented Reality (AR) / Virtual Reality (VR),0
+Pooja Bhat,"Data Analysis, SEO, Python, Machine Learning",1,Yes,3,Other,5.0,Deep Learning Specialization,No,88.9,48.43,Data Science,0
+Kavya Khan,"Deep Learning, Docker",1,Yes,3,ECE,7.22,Google IT Support Certificate,No,81.24,74.7,DevOps,0
+Kavya Rao,"JavaScript, Embedded Systems, Linux",1,No,3,IT,7.0,Python for Everybody,No,77.74,74.48,Embedded Systems,1
+Neha Malhotra,"C++, Selenium, Java, Data Structures",1,No,3,Electrical,7.75,UI/UX Design Certificate,No,83.78,74.56,Software Development,0
+Karan Bhat,Figma,0,No,2,IT,6.4,UI/UX Design Certificate,No,82.59,67.39,UI/UX Design,0
+Aditya Nair,"Automation, Selenium, Software Testing",0,No,1,CSE,8.27,Cisco CCNA,No,70.26,83.55,Software Testing,1
+Simran Verma,"Automation, Azure",2,No,4,Other,7.17,"freeCodeCamp Certificate, Kaggle Micro-Course, Coursera Python",No,80.48,78.23,Software Testing,1
+Kabir Rao,"Embedded Systems, Python",2,Yes,3,Civil,7.12,AWS Cloud Practitioner,No,78.39,75.46,Internet of Things (IoT),1
+Ishaan Joshi,"Networking, Data Analysis, Cyber Security, Linux",3,Yes,4,CSE,5.46,UI/UX Design Certificate,Yes,85.85,68.18,Cyber Security,0
+Karan Iyer,"JavaScript, Tableau, Android Development",0,No,3,CSE,7.16,"NPTEL DBMS, Google IT Support",No,79.15,69.16,Embedded Systems,0
+Manish Kumar,"Deep Learning, Data Analysis, Machine Learning",3,No,2,Electrical,8.1,CS50 Introduction to CS,No,70.71,89.08,Machine Learning,0
+Aarav Mehta,ETL,0,No,3,ECE,5.09,AWS Certified Solutions Architect,Yes,71.24,63.16,Data Engineering,1
+Karan Garg,"Agile, React, Project Management, Azure",0,No,4,Other,6.83,Deep Learning Specialization,No,74.36,84.41,Project Management,0
+Sakshi Malhotra,"OpenCV, SQL, Data Analysis, Python",0,No,4,Civil,7.62,freeCodeCamp Certificate,No,93.13,79.16,Data Science,1
+Tanvi Patel,"VHDL, Cryptography, Cyber Security, Solidity",3,Yes,4,ECE,6.91,Java Programming Masterclass,No,89.22,67.96,Blockchain Technology,1
+Vedant Iyer,"Docker, Kubernetes",0,Yes,4,ECE,6.48,UI/UX Design Certificate,No,78.26,68.3,DevOps,0
+Kabir Singh,Deep Learning,2,Yes,4,Civil,7.7,Azure Fundamentals,No,77.24,73.49,Hardware Design,0
+Ananya Sharma,"Cloud Computing, Docker, Linux, Kubernetes",1,Yes,5,Other,6.07,Deep Learning Specialization,No,82.82,73.49,Cloud Computing,1
+Aarav Verma,"JavaScript, CSS, HTML",3,Yes,3,Mechanical,7.26,Data Science Professional Certificate,No,87.9,77.01,Web Development,1
+Kavya Khan,PyTorch,0,No,2,ECE,6.38,"AWS Cloud Practitioner, IBM Data Science Professional Certificate, Coursera ML",No,78.59,71.45,Business Intelligence,1
+Riya Kumar,Power BI,0,No,3,ECE,4.65,"Coursera ML, Kaggle Micro-Course",Yes,94.4,56.12,Data Engineering,0
+Neha Saxena,"Deep Learning, OpenCV, Computer Vision",1,Yes,2,IT,8.23,Deep Learning Specialization,No,73.09,75.59,Computer Vision,1
+Prachi Desai,CSS,1,No,4,Other,4.63,IBM Data Science Professional Certificate,No,81.45,52.48,Embedded Systems,0
+Simran Gupta,"Cisco, Networking",1,No,2,Civil,6.54,"AWS Cloud Practitioner, Azure Fundamentals, Power BI Certification",No,82.64,63.81,Networking,0
+Isha Sharma,"Data Analysis, Python",2,Yes,3,Civil,6.84,Data Science Professional Certificate,Yes,80.77,67.27,Robotics,1
+Tara Jain,"Android Development, JavaScript, CSS, HTML, Cyber Security",0,No,3,IT,7.26,"NPTEL DBMS, AWS Cloud Practitioner, freeCodeCamp Certificate",No,77.96,77.45,Web Development,0
+Vihaan Khan,"Cryptography, Figma, Solidity, Blockchain, CSS",2,No,1,Other,7.94,Coursera ML,No,84.82,85.6,Blockchain Technology,0
+Vedant Roy,"Linux, Deep Learning, Docker, Kubernetes, Cloud Computing, HTML",1,No,3,Other,5.94,Google UX Design,Yes,87.1,57.91,Cloud Computing,0
+Leena Rao,"Data Analysis, Data Structures, Python",0,No,3,IT,6.24,"AWS Cloud Practitioner, IBM Data Science Professional Certificate, NPTEL DBMS",No,72.41,70.44,Software Development,1
+Simran Roy,"TensorFlow, Automation, Software Testing, Kotlin",2,Yes,2,CSE,8.68,Certified Ethical Hacker,No,71.97,90.2,Software Testing,1
+Ananya Joshi,JavaScript,0,No,3,CSE,6.85,UI/UX Design Certificate,No,88.47,75.55,Business Intelligence,0
+Isha Chopra,,0,Yes,4,Other,6.13,PMP basics,No,77.05,79.01,Augmented Reality (AR) / Virtual Reality (VR),0
+Sakshi Singh,"TensorFlow, C++, CI/CD",1,Yes,3,CSE,7.82,Java Programming Masterclass,No,91.21,75.59,UI/UX Design,0
+Vihaan Das,"Deep Learning, Power BI, Machine Learning",3,No,4,Other,7.63,AWS Certified Solutions Architect,No,80.4,76.33,Machine Learning,0
+Ishaan Roy,"Automation, Networking, JavaScript, Linux, HTML, Swift",2,Yes,1,CSE,6.06,Data Science Professional Certificate,Yes,70.85,65.37,Web Development,1
+Kavya Joshi,Deep Learning,0,No,2,Electrical,8.85,Tableau Certification,No,74.81,96.79,Computer Vision,0
+Pooja Roy,Cyber Security,2,Yes,4,CSE,7.34,Google IT Support,No,79.81,78.12,Game Development,1
+Leena Pandey,"CI/CD, Docker, Linux, Kubernetes",3,No,2,Civil,5.39,"Coursera ML, Tableau Certification, fast.ai course",Yes,79.04,61.82,DevOps,0
+Vihaan Roy,"Angular, NLP",1,No,1,CSE,7.56,UI/UX Design Certificate,No,83.85,78.04,Game Development,0
+Leena Shah,Big Data,0,No,4,Electrical,6.46,"Kaggle Micro-Course, CS50 Certificate, Certified Ethical Hacker",No,84.21,63.68,Data Engineering,0
+Neha Khan,"SQL, CSS",1,No,4,Mechanical,7.33,AWS Certified Solutions Architect,No,91.77,75.75,Business Intelligence,0
+Ananya Desai,"Deep Learning, ETL",2,No,3,CSE,7.44,UI/UX Design Certificate,No,88.24,69.89,Data Engineering,0
+Rohit Bhat,"Tableau, Figma, Docker, Kubernetes, Cloud Computing",4,Yes,1,Other,5.97,Certified Ethical Hacker,Yes,79.12,68.31,Cloud Computing,0
+Tanvi Rao,"Automation, C++, Selenium",1,No,5,CSE,8.16,"PMP basics, Android Certification",No,69.69,75.06,Software Testing,1
+Sneha Bhatt,"C/C++, Automation",0,No,4,Civil,6.9,Tableau Certification,No,84.24,75.48,Internet of Things (IoT),0
+Aarav Joshi,"Angular, Java, Swift",1,Yes,4,Civil,5.75,"Google IT Support, Azure Fundamentals",No,80.24,67.27,Mobile Application Development,0
+Simran Iyer,SQL,5,Yes,5,CSE,8.48,Python for Everybody,No,68.38,80.89,Business Intelligence,1
+Rohit Sharma,"JavaScript, Data Analysis, Kotlin",3,Yes,4,Mechanical,7.95,CS50 Certificate,No,70.97,86.57,Game Development,1
+Tara Saxena,"JavaScript, NLP, Swift, VHDL",0,Yes,3,Mechanical,7.38,CS50 Introduction to CS,No,71.97,80.34,Automation,1
+Tara Kumar,"Figma, Kubernetes",1,No,3,ECE,6.59,Google IT Support Certificate,No,78.96,71.07,DevOps,0
+Manish Das,"VHDL, Deep Learning, Arduino, Linux",1,Yes,2,Mechanical,5.54,PMP Certification,Yes,77.93,54.48,Machine Learning,0
+Vihaan Sharma,"UI/UX Design, Figma",1,Yes,3,Mechanical,7.37,CS50 Introduction to CS,No,87.67,86.17,UI/UX Design,0
+Ananya Khan,,1,Yes,4,Mechanical,6.33,freeCodeCamp Certificate,No,76.25,68.02,Game Development,0
+Ananya Gupta,Automation,2,Yes,4,ECE,8.51,Certified Ethical Hacker,No,75.78,91.11,Software Testing,0
+Tanvi Bhat,UI/UX Design,3,Yes,3,Mechanical,7.46,Java Programming Masterclass,No,75.76,74.91,UI/UX Design,1
+Manish Kumar,"ETL, Machine Learning",1,No,3,Other,6.45,"Android Certification, fast.ai course, TensorFlow Specialization",No,78.36,60.18,Data Engineering,0
+Manish Roy,Azure,0,Yes,4,IT,7.97,Android Certification,No,72.35,78.78,Game Development,1
+Tara Saxena,"JavaScript, Cyber Security",1,Yes,2,Civil,10.0,AWS Cloud Practitioner,No,76.01,99.0,Electronics Design,1
+Ananya Joshi,"CI/CD, Docker",2,Yes,2,Civil,7.67,Certified Ethical Hacker,No,85.49,79.13,DevOps,1
+Pooja Mehta,Data Analysis,0,No,4,Other,6.85,Certified Ethical Hacker,No,75.82,73.42,Game Development,1
+Rahul Bhatt,"Embedded Systems, C++",3,Yes,4,Electrical,8.2,"Google IT Support, IBM Data Science Professional Certificate",No,81.08,83.74,Cyber Security,1
+Sakshi Singh,"Cloud Computing, Power BI, Kubernetes",0,Yes,4,Mechanical,5.63,CS50 Introduction to CS,Yes,77.23,74.62,Cloud Computing,0
+Karan Roy,"Kotlin, Cryptography, Java, Solidity, Blockchain",2,Yes,3,ECE,6.83,PMP Certification,No,79.03,72.16,Blockchain Technology,1
+Pooja Joshi,SQL,1,No,3,Electrical,7.51,Data Science Professional Certificate,No,87.92,69.47,Data Engineering,0
+Aditya Das,PyTorch,0,No,4,ECE,5.65,Cisco CCNA,Yes,86.84,67.46,Electronics Design,0
+Vihaan Iyer,"Hadoop, Cyber Security",1,No,3,ECE,4.84,UI/UX Design Certificate,No,60.44,64.61,Big Data Analytics,1
+Pooja Saxena,"SQL, ETL",1,Yes,3,Civil,6.92,UI/UX Design Certificate,No,81.6,75.16,Data Engineering,0
+Pooja Gupta,"Linux, Cyber Security, Networking",2,Yes,3,CSE,5.19,Certified Ethical Hacker,No,87.14,61.04,Cyber Security,1
+Riya Saxena,"Deep Learning, OpenCV, Computer Vision",0,Yes,2,IT,6.3,PMP Certification,No,80.89,61.4,Computer Vision,0
+Kabir Pandey,"React, IT Support, Networking",0,Yes,5,IT,7.08,Data Science Professional Certificate,No,67.01,74.56,Information Technology (IT) Support,1
+Tara Nair,"Embedded Systems, NLP, Figma, Python",1,Yes,3,Electrical,5.81,Google IT Support Certificate,Yes,74.63,64.44,Robotics,1
+Maya Roy,"Hadoop, Automation, Linux",0,No,4,ECE,4.87,CS50 Introduction to CS,No,72.23,53.44,Software Testing,1
+Aditya Desai,"Data Structures, Python",1,No,3,Other,6.89,TensorFlow Specialization,No,67.35,71.86,Software Development,0
+Karan Verma,,3,Yes,2,IT,7.9,Google IT Support Certificate,No,76.62,85.8,Game Development,0
+Maya Pandey,"Automation, Software Testing",1,Yes,3,Mechanical,6.79,Coursera Python,No,81.33,66.18,Software Testing,0
+Arjun Mehta,"Embedded Systems, C/C++",0,No,2,ECE,6.81,AWS Certified Solutions Architect,No,99.0,74.46,Embedded Systems,1
+Kavya Nair,,1,Yes,2,Civil,6.75,Java Programming Masterclass,No,77.82,75.32,Electronics Design,0
+Manish Bhat,"iOS Development, SEO, Solidity, Blockchain",1,No,4,CSE,6.86,Python for Everybody,No,80.67,67.4,Blockchain Technology,0
+Aarav Mehta,"Swift, Java, Solidity, Kotlin",3,No,3,Mechanical,8.11,CS50 Introduction to CS,No,81.41,90.14,Mobile Application Development,1
+Ananya Gupta,"C/C++, Embedded Systems, Data Analysis, Python, Tableau",1,No,3,CSE,7.39,"AWS Cloud Practitioner, Android Certification",No,78.15,66.07,Internet of Things (IoT),0
+Maya Gupta,"Embedded Systems, Data Analysis, Tableau",1,No,3,Electrical,7.76,Azure Fundamentals,No,72.78,77.0,Embedded Systems,1
+Tanvi Iyer,"Swift, Java, Android Development, Kotlin",0,Yes,4,Electrical,7.65,Data Science Professional Certificate,No,79.31,86.7,Mobile Application Development,1
+Pooja Pandey,IT Support,2,Yes,3,CSE,6.69,PMP Certification,No,64.09,68.57,Information Technology (IT) Support,0
+Kabir Bhatt,Networking,1,No,3,IT,7.66,NPTEL DBMS,No,78.92,73.88,Automation,1
+Aditya Bhat,Tableau,2,Yes,4,ECE,7.31,Power BI Certification,No,90.23,80.03,Blockchain Technology,0
+Vedant Joshi,"Hadoop, Figma",3,No,3,Mechanical,4.79,PMP Certification,Yes,78.71,52.64,UI/UX Design,0
+Isha Roy,"Angular, SEO, Solidity",1,Yes,4,Civil,7.9,"Azure Fundamentals, Android Certification, fast.ai course",Yes,73.47,80.7,Digital Marketing,1
+Aditya Malhotra,Cisco,1,No,3,Mechanical,7.99,AWS Certified Solutions Architect,No,70.86,80.12,Networking,0
+Karan Roy,"JavaScript, Cloud Computing, Docker, Linux",0,No,2,ECE,6.65,UI/UX Design Certificate,No,92.86,73.9,Cloud Computing,1
+Leena Rao,"Embedded Systems, PyTorch",1,No,5,ECE,5.5,CS50 Introduction to CS,No,84.9,67.56,Augmented Reality (AR) / Virtual Reality (VR),0
+Aditya Roy,Java,2,No,4,ECE,8.47,Google IT Support Certificate,No,84.78,78.28,Machine Learning,0
+Isha Singh,"Java, Figma, Linux, Docker, Cloud Computing",0,Yes,4,Civil,6.71,Data Science Professional Certificate,No,67.49,73.48,Cloud Computing,0
+Tanvi Khan,"Deep Learning, Computer Vision, Solidity",0,Yes,4,ECE,7.11,Cisco CCNA,No,66.48,70.8,Computer Vision,1
+Manish Singh,,0,No,1,Civil,6.46,AWS Certified Solutions Architect,No,85.03,65.01,Business Intelligence,1
+Manish Chopra,"Deep Learning, OpenCV, AWS, Computer Vision",2,No,3,ECE,8.28,Deep Learning Specialization,No,76.11,81.25,Computer Vision,1
+Karan Mehta,"Data Analysis, Machine Learning",2,Yes,4,Civil,7.21,PMP Certification,No,83.69,73.44,Data Science,0
+Tara Garg,Android Development,0,No,4,IT,6.54,AWS Cloud Practitioner,No,81.42,67.65,Augmented Reality (AR) / Virtual Reality (VR),0
+Karan Desai,"Hardware, IT Support, Networking",2,No,4,IT,5.85,Certified Ethical Hacker,No,84.8,57.42,Information Technology (IT) Support,1
+Vihaan Kumar,Project Management,0,No,3,Mechanical,7.98,"TensorFlow Specialization, Azure Fundamentals, CS50 Certificate",No,75.61,76.99,Project Management,0
+Sakshi Desai,Selenium,3,Yes,3,ECE,6.76,Deep Learning Specialization,No,76.52,77.55,Automation,0
+Maya Das,"AWS, Solidity",2,No,3,Other,5.09,Udemy Full Stack,Yes,92.93,64.81,Blockchain Technology,1
+Kavya Roy,"ETL, SEO",2,Yes,4,Other,7.78,"Google IT Support, fast.ai course",No,79.19,85.22,Automation,0
+Pooja Kapoor,Tableau,0,No,3,Electrical,6.42,Android Certification,No,65.2,75.0,Data Engineering,0
+Rahul Joshi,"Cyber Security, Networking",0,No,3,Other,5.98,Kaggle Micro-Course,No,82.4,77.86,Cyber Security,1
+Isha Iyer,Software Testing,1,No,4,Electrical,7.54,Data Science Professional Certificate,No,71.77,73.95,Software Testing,0
+Prachi Garg,"Embedded Systems, Hadoop, C/C++",1,Yes,4,CSE,7.78,PMP Certification,No,90.77,72.47,Embedded Systems,1
+Manish Garg,"JavaScript, CSS, HTML",1,No,4,Other,7.39,Data Science Professional Certificate,No,81.99,77.05,Web Development,1
+Ananya Khan,SQL,1,No,3,Civil,7.63,AWS Certified Solutions Architect,No,90.68,76.52,Data Engineering,0
+Isha Desai,Database Design,0,No,5,Other,5.75,Certified Ethical Hacker,Yes,97.08,58.32,Database Management,0
+Manish Singh,"Embedded Systems, Cyber Security, Linux",0,Yes,2,ECE,8.28,CS50 Introduction to CS,No,80.26,75.21,Cyber Security,1
+Vedant Mehta,"SQL, Database Design, Python, PyTorch",1,No,3,Civil,5.3,AWS Certified Solutions Architect,No,83.63,69.21,Database Management,1
+Rahul Iyer,Blockchain,4,No,5,Other,6.57,Python for Everybody,No,76.3,64.03,Blockchain Technology,1
+Aarav Desai,"ETL, Solidity",0,No,4,Other,7.09,CS50 Introduction to CS,No,82.53,73.19,Blockchain Technology,0
+Sakshi Bhatt,Figma,2,Yes,4,Other,7.88,Cisco CCNA,Yes,92.63,92.32,UI/UX Design,0
+Simran Kapoor,"Java, Android Development",0,No,3,Electrical,6.03,Deep Learning Specialization,Yes,75.67,65.33,Software Development,0
+Kavya Shah,"JavaScript, Tableau, Blockchain",0,No,2,CSE,6.9,PMP Certification,No,90.03,77.24,Web Development,0
+Prachi Kapoor,"Kotlin, iOS Development, Linux, Solidity, Docker, Kubernetes",1,Yes,4,ECE,8.66,Azure Fundamentals,No,78.32,82.69,Cloud Computing,1
+Ananya Kumar,"TensorFlow, Linux, ETL",2,No,4,ECE,6.42,"Power BI Certification, Certified Ethical Hacker, fast.ai course",No,73.6,71.29,Hardware Design,1
+Tanvi Roy,"Unity, SEO, Blockchain",0,Yes,3,CSE,6.6,Google IT Support Certificate,No,94.29,76.15,Database Management,0
+Vihaan Chopra,"Deep Learning, OpenCV, Computer Vision",0,No,3,Electrical,5.38,Certified Ethical Hacker,Yes,67.03,59.98,Computer Vision,0
+Leena Malhotra,"Deep Learning, SQL",2,Yes,2,Civil,8.72,Azure Fundamentals,No,83.42,85.97,Data Engineering,1
+Simran Nair,"Power BI, Database Design",1,No,2,Civil,6.9,AWS Cloud Practitioner,Yes,81.09,71.07,Database Management,0
+Rahul Pandey,,3,Yes,3,Mechanical,8.42,TensorFlow Specialization,No,84.25,87.89,Hardware Design,1
+Kavya Roy,Deep Learning,3,No,3,IT,8.43,AWS Certified Solutions Architect,No,90.42,78.09,Artificial Intelligence,0
+Vihaan Mehta,"Cryptography, Machine Learning",0,No,5,Civil,7.49,Python for Everybody,No,87.1,78.51,Blockchain Technology,0
+Simran Patel,"Cryptography, HTML, Solidity, Blockchain",1,No,3,IT,7.69,AWS Certified Solutions Architect,No,77.43,91.58,Blockchain Technology,0
+Simran Gupta,"Angular, Data Analysis, Machine Learning",2,Yes,4,Electrical,6.91,Java Programming Masterclass,No,84.39,83.31,Machine Learning,0
+Simran Saxena,Embedded Systems,1,No,2,Electrical,5.82,PMP Certification,Yes,87.89,64.71,Robotics,0
+Prachi Joshi,"Big Data, SQL, Unity, ETL",1,Yes,4,IT,6.34,"PMP basics, Certified Ethical Hacker",No,80.71,76.81,Data Engineering,0
+Tara Desai,"Tableau, Kubernetes",0,No,3,IT,7.08,"Tableau Certification, freeCodeCamp Certificate",No,82.62,78.36,DevOps,1
+Sneha Nair,"Cyber Security, iOS Development, Linux, Networking",1,No,3,Electrical,8.06,fast.ai course,No,76.36,83.02,Cyber Security,1
+Sneha Roy,SEO,0,No,4,Other,7.98,Python for Everybody,No,78.96,78.55,Digital Marketing,0
+Aarav Chopra,Angular,3,No,2,Civil,5.4,Data Science Professional Certificate,Yes,90.46,54.36,Game Development,0
+Tanvi Singh,"Embedded Systems, Control Systems, Python",1,No,2,IT,7.35,UI/UX Design Certificate,No,78.74,78.48,Robotics,1
+Riya Bhat,ETL,3,No,2,Civil,7.23,"Azure Fundamentals, freeCodeCamp Certificate",No,83.16,83.46,Electronics Design,1
+Manish Das,"Docker, Kubernetes",1,Yes,4,Electrical,5.88,AWS Certified Solutions Architect,No,85.35,66.54,Cloud Computing,0
+Arjun Bhatt,"JavaScript, Deep Learning, HTML, VHDL",2,Yes,2,ECE,6.98,PMP Certification,No,77.77,68.08,Web Development,1
+Karan Malhotra,JavaScript,4,No,3,Other,7.33,"Udemy Full Stack, AWS Cloud Practitioner, Tableau Certification",No,78.64,72.99,Web Development,0
+Rohit Saxena,Figma,1,Yes,3,CSE,8.71,Coursera Python,No,84.85,88.1,UI/UX Design,0
+Sakshi Gupta,"C/C++, iOS Development, SEO",1,No,4,Other,7.44,AWS Cloud Practitioner,No,73.2,80.9,Embedded Systems,0
+Ananya Saxena,"VHDL, Digital Marketing, Swift",2,Yes,4,Civil,6.41,Python for Everybody,No,87.27,64.06,Digital Marketing,1
+Ananya Desai,React,1,Yes,3,Civil,5.49,CS50 Introduction to CS,Yes,78.22,67.99,Web Development,0
+Kabir Shah,"C++, NLP, Data Structures",3,No,4,Electrical,6.7,Data Science Professional Certificate,No,92.05,64.11,Software Development,0
+Rahul Bhatt,PyTorch,0,No,5,IT,6.64,CS50 Certificate,No,78.69,74.4,Hardware Design,1
+Isha Singh,"Selenium, Arduino",0,No,3,IT,7.03,PMP Certification,No,81.62,74.2,Robotics,0
+Kavya Garg,"Machine Learning, Android Development, Data Analysis, Python, Deep Learning, OpenCV, HTML",1,Yes,3,Mechanical,7.43,AWS Certified Solutions Architect,No,83.76,76.12,Machine Learning,1
+Neha Bhat,"JavaScript, SQL",2,Yes,5,ECE,8.23,Java Programming Masterclass,No,81.3,91.49,Data Engineering,0
+Rohit Gupta,Kotlin,0,No,2,Electrical,8.5,TensorFlow Specialization,No,91.6,89.61,Game Development,1
+Riya Iyer,Hardware,0,No,4,IT,6.5,Deep Learning Specialization,No,85.67,73.36,Information Technology (IT) Support,1
+Vihaan Mehta,SQL,0,No,3,Mechanical,6.18,UI/UX Design Certificate,No,77.51,63.15,Game Development,1
+Isha Bhat,"Big Data, SQL, ETL",0,Yes,5,Civil,6.7,UI/UX Design Certificate,No,83.25,71.94,Data Engineering,0
+Sakshi Joshi,"Automation, Software Testing, SEO",4,Yes,3,Civil,4.17,Google IT Support Certificate,No,82.12,54.53,Software Testing,1
+Kavya Iyer,"Deep Learning, Data Analysis, Python, Machine Learning",1,No,4,ECE,4.54,CS50 Introduction to CS,No,81.97,56.26,Machine Learning,1
+Kavya Pandey,"Embedded Systems, C/C++, Linux, Android Development",3,Yes,5,IT,6.95,"Tableau Certification, Android Certification",No,76.64,65.77,Embedded Systems,1
+Vedant Roy,"SQL, Data Analysis, SEO, Machine Learning",0,Yes,3,ECE,8.02,Google IT Support,Yes,71.9,79.99,Data Science,0
+Kabir Mehta,OpenCV,2,Yes,2,Electrical,7.23,Coursera Python,Yes,74.61,77.54,Computer Vision,0
+Karan Jain,"Cyber Security, Networking",2,Yes,3,Mechanical,6.89,"Cisco CCNA, Coursera Python",No,76.51,72.21,Cyber Security,0
+Ishaan Chopra,SQL,2,No,4,Mechanical,5.94,PMP basics,Yes,77.16,70.31,Hardware Design,0
+Rohit Nair,NLP,2,No,2,Electrical,7.86,Certified Ethical Hacker,No,74.16,77.28,Natural Language Processing (NLP),1
+Karan Pandey,"Embedded Systems, Control Systems, Python",1,Yes,4,Electrical,7.77,Certified Ethical Hacker,No,76.04,78.43,Robotics,0
+Prachi Shah,Machine Learning,2,Yes,2,Civil,6.53,CS50 Introduction to CS,No,89.17,69.7,Automation,0
+Aditya Roy,Docker,2,Yes,2,Civil,8.0,Android Certification,No,89.17,76.17,DevOps,0
+Rohit Khan,"OpenCV, Solidity",1,Yes,3,IT,5.08,"CS50 Certificate, Udemy Full Stack",No,89.21,56.98,Computer Vision,0
+Ishaan Khan,Data Structures,2,No,3,CSE,8.2,Android Certification,No,83.96,84.18,Software Development,1
+Pooja Joshi,VHDL,2,Yes,4,Electrical,6.21,Deep Learning Specialization,No,72.67,73.46,Hardware Design,1
+Riya Kapoor,"C++, Solidity",0,No,5,IT,6.74,"Google UX Design, PMP basics",No,83.38,71.96,Hardware Design,1
+Pooja Nair,"Cloud Computing, Docker, Linux, Kubernetes",3,Yes,5,Civil,6.14,PMP Certification,No,63.08,74.36,Cloud Computing,1
+Pooja Khan,"SEO, Digital Marketing",1,Yes,3,Civil,7.08,AWS Certified Solutions Architect,No,79.85,76.16,Digital Marketing,1
+Riya Bhat,"Deep Learning, Big Data, SQL, ETL",2,Yes,5,IT,7.57,Python for Everybody,No,75.36,82.11,Data Engineering,1
+Neha Nair,HTML,1,Yes,3,Civil,6.48,Coursera ML,No,79.63,60.07,Game Development,0
+Rahul Verma,"SQL, ETL",1,No,2,CSE,8.36,Certified Ethical Hacker,No,78.94,97.48,Data Engineering,0
+Isha Singh,"Automation, Machine Learning, Kotlin, PyTorch, Python, Deep Learning, Computer Vision",1,No,5,ECE,5.88,Google IT Support Certificate,No,68.63,68.39,Artificial Intelligence,0
+Kabir Desai,"Angular, SQL, Database Design",1,No,2,Mechanical,7.52,Java Programming Masterclass,No,76.79,73.01,Database Management,0
+Manish Malhotra,"Digital Marketing, Azure",2,Yes,2,IT,6.5,UI/UX Design Certificate,No,76.18,69.37,Digital Marketing,0
+Vihaan Khan,"Cisco, React, Networking",2,Yes,1,CSE,6.14,Certified Ethical Hacker,No,80.55,66.8,Networking,0
+Vihaan Verma,SEO,0,No,4,Electrical,7.09,"Coursera Python, Azure Fundamentals, Google IT Support",No,74.44,65.76,Game Development,1
+Vihaan Desai,UI/UX Design,0,No,2,ECE,5.6,Certified Ethical Hacker,Yes,81.16,70.94,UI/UX Design,0
+Kabir Sharma,"HTML, Embedded Systems, Control Systems, Python",5,Yes,3,Other,9.0,Data Science Professional Certificate,No,73.24,87.81,Robotics,1
+Sneha Bhatt,Data Analysis,1,No,3,Mechanical,6.09,Google IT Support,No,88.89,64.7,Automation,1
+Karan Jain,"C/C++, Python",4,No,2,IT,6.59,CS50 Introduction to CS,No,92.8,72.9,Internet of Things (IoT),0
+Ananya Saxena,"Cryptography, SEO, Solidity, Blockchain",1,No,5,IT,6.95,Data Science Professional Certificate,No,74.58,71.2,Blockchain Technology,1
+Sneha Khan,"Deep Learning, React, Docker, Machine Learning",1,No,2,Mechanical,6.48,freeCodeCamp Certificate,No,85.79,70.56,Machine Learning,0
+Ananya Kapoor,"C/C++, Python",1,Yes,3,ECE,7.35,UI/UX Design Certificate,No,81.11,83.34,Internet of Things (IoT),0
+Manish Khan,"React, SEO",1,No,3,Other,6.87,Power BI Certification,No,82.84,72.3,Digital Marketing,0
+Rohit Jain,"JavaScript, Embedded Systems, Unity, C/C++",3,Yes,1,CSE,7.84,Google IT Support Certificate,No,79.82,88.79,Internet of Things (IoT),0
+Simran Pandey,Kubernetes,1,No,3,Civil,8.12,Certified Ethical Hacker,No,77.83,74.13,Automation,1
+Sneha Desai,"Embedded Systems, C++, Python, Kotlin",0,No,3,IT,6.87,AWS Certified Solutions Architect,No,89.15,73.43,Internet of Things (IoT),1
+Pooja Das,"Java, Android Development, Kotlin",0,No,2,ECE,6.38,Deep Learning Specialization,No,68.4,61.66,Mobile Application Development,1
+Maya Mehta,"Transformers, Tableau, CI/CD",0,Yes,4,Other,9.73,"Kaggle Micro-Course, Certified Ethical Hacker",No,85.98,97.59,Natural Language Processing (NLP),1
+Manish Desai,"Embedded Systems, Python",2,Yes,3,ECE,7.17,Google IT Support,No,81.27,80.73,Data Science,0
+Kavya Roy,,2,No,5,ECE,7.46,Kaggle Micro-Course,No,85.91,72.12,Hardware Design,0
+Sneha Malhotra,Computer Vision,3,Yes,3,CSE,6.66,"Certified Ethical Hacker, Udemy Full Stack, IBM Data Science Professional Certificate",No,76.82,76.33,Artificial Intelligence,0
+Neha Jain,"Angular, Docker, Linux, Kubernetes",1,No,3,Electrical,7.09,freeCodeCamp Certificate,No,65.03,70.3,Cloud Computing,0
+Karan Iyer,"NLP, Solidity, Android Development",1,No,2,CSE,9.52,"TensorFlow Specialization, freeCodeCamp Certificate, Azure Fundamentals",No,94.61,81.63,Mobile Application Development,0
+Aarav Garg,Transformers,0,No,4,Other,7.93,Certified Ethical Hacker,No,83.22,95.33,Natural Language Processing (NLP),0
+Prachi Mehta,AWS,1,No,4,Mechanical,7.95,Tableau Certification,No,86.63,85.92,Business Intelligence,0
+Arjun Chopra,"Embedded Systems, Control Systems",0,No,4,Other,7.55,CS50 Introduction to CS,No,85.21,77.1,Robotics,0
+Kabir Pandey,"CSS, HTML, Networking",1,No,4,Civil,7.09,UI/UX Design Certificate,No,60.11,73.44,Web Development,0
+Arjun Kapoor,"Deep Learning, Python",2,No,4,Civil,7.13,Google UX Design,No,79.12,70.97,Machine Learning,1
+Ananya Chopra,"Power BI, Azure",0,Yes,4,ECE,7.63,Kaggle Micro-Course,No,83.46,90.09,Software Testing,1
+Tanvi Das,Java,0,No,3,Civil,6.85,Google IT Support Certificate,No,80.49,80.47,Automation,1
+Arjun Mehta,"Agile, Project Management",1,No,3,Mechanical,8.21,PMP basics,No,82.4,87.42,Project Management,1
+Aditya Rao,"React, HTML",1,No,2,Other,6.71,Deep Learning Specialization,No,81.3,70.3,Web Development,1
+Kavya Bhatt,"Cloud Computing, Docker, Linux, Azure",1,Yes,3,ECE,7.26,Certified Ethical Hacker,No,92.93,83.46,Cloud Computing,1
+Sneha Pandey,CSS,0,No,3,ECE,7.45,Coursera ML,No,91.02,82.51,Web Development,0
+Manish Garg,"Unity, Cyber Security, Linux",1,No,4,Mechanical,7.4,CS50 Certificate,Yes,78.6,78.59,Cyber Security,0
+Manish Sharma,"UI/UX Design, Figma, Cyber Security, Kubernetes",1,Yes,3,CSE,8.26,Data Science Professional Certificate,No,84.03,83.2,UI/UX Design,1
+Ananya Das,"NLP, Python, Docker, ETL, Transformers",0,No,3,Civil,8.43,"Certified Ethical Hacker, Google UX Design, CS50 Certificate",No,70.05,86.59,Natural Language Processing (NLP),0
+Aditya Chopra,CSS,0,No,1,ECE,7.99,Google IT Support Certificate,Yes,83.7,80.07,Automation,1
+Riya Patel,"UI/UX Design, Figma, Solidity, Kotlin",0,Yes,4,Civil,7.12,PMP Certification,No,79.43,66.86,UI/UX Design,1
+Kabir Das,"Deep Learning, Data Analysis",1,No,2,CSE,8.4,IBM Data Science Professional Certificate,No,68.98,77.59,Machine Learning,0
+Isha Patel,"Linux, Computer Vision",2,No,4,IT,5.38,Azure Fundamentals,No,79.75,49.31,Computer Vision,0
+Vihaan Malhotra,"Embedded Systems, C/C++, Networking",0,No,2,Electrical,6.3,Data Science Professional Certificate,No,78.65,64.69,Embedded Systems,1
+Sneha Patel,"Power BI, Cyber Security",1,No,3,ECE,4.39,"Coursera ML, Android Certification, Power BI Certification",Yes,86.45,62.27,Augmented Reality (AR) / Virtual Reality (VR),0
+Aarav Chopra,Automation,0,Yes,3,CSE,6.92,"NPTEL DBMS, TensorFlow Specialization",No,77.27,81.79,Hardware Design,1
+Sneha Desai,Data Analysis,0,No,2,IT,7.56,Google IT Support Certificate,No,90.97,80.32,Machine Learning,0
+Tanvi Gupta,"React, Machine Learning, AWS, Deep Learning, Spark, CI/CD",3,Yes,3,ECE,6.72,"TensorFlow Specialization, NPTEL DBMS, Google UX Design",No,82.25,71.1,Artificial Intelligence,1
+Rohit Rao,"C++, SQL, ETL",4,Yes,4,ECE,5.11,UI/UX Design Certificate,Yes,82.18,68.66,Data Engineering,0
+Isha Shah,"PyTorch, Networking, Network Security",2,No,3,Electrical,7.01,Google IT Support Certificate,No,77.35,69.42,Networking,1
+Aarav Patel,"AWS, OpenCV, Selenium, Software Testing",1,No,4,ECE,8.66,Coursera Python,No,85.34,88.16,Software Testing,1
+Prachi Jain,Networking,0,No,4,ECE,6.95,Android Certification,No,87.41,80.23,Internet of Things (IoT),0
+Riya Sharma,,0,No,3,ECE,8.06,Tableau Certification,No,87.59,75.1,Augmented Reality (AR) / Virtual Reality (VR),0
+Simran Bhatt,HTML,2,Yes,4,Mechanical,4.98,Python for Everybody,No,86.71,67.6,Game Development,0
+Tara Gupta,"Spark, SEO, Digital Marketing",1,Yes,4,CSE,4.29,CS50 Introduction to CS,Yes,78.29,45.8,Digital Marketing,0
+Kavya Khan,"Android Development, JavaScript, Python, CSS, CI/CD, HTML",0,No,4,ECE,6.64,"Google IT Support, Udemy Full Stack",No,80.09,76.97,Web Development,1
+Maya Kumar,"SQL, Machine Learning, Embedded Systems, Data Analysis, Python",1,Yes,3,ECE,7.96,freeCodeCamp Certificate,No,77.12,70.33,Data Science,0
+Manish Bhat,NLP,1,Yes,3,ECE,8.2,"Cisco CCNA, CS50 Certificate, Android Certification",No,69.35,78.39,Augmented Reality (AR) / Virtual Reality (VR),0
+Tara Bhatt,C++,1,Yes,3,ECE,5.42,Deep Learning Specialization,No,73.9,69.28,Project Management,0
+Rahul Roy,"SQL, ETL",0,No,3,ECE,6.95,UI/UX Design Certificate,No,70.57,77.43,Data Engineering,1
+Arjun Malhotra,"OpenCV, C++, SEO",2,Yes,4,Civil,7.53,UI/UX Design Certificate,No,78.6,78.13,Computer Vision,0
+Riya Roy,Kubernetes,0,No,3,CSE,8.3,Deep Learning Specialization,No,83.36,80.71,Augmented Reality (AR) / Virtual Reality (VR),0
+Tara Das,"SQL, Machine Learning, Data Analysis, Python, Deep Learning",2,Yes,2,CSE,7.66,NPTEL DBMS,No,81.26,74.37,Data Science,0
+Aarav Shah,"NLP, CSS, HTML, Python",1,Yes,4,IT,7.74,"Udemy Full Stack, IBM Data Science Professional Certificate",No,73.34,77.29,Web Development,0
+Tara Singh,"Java, Data Structures, Python",2,Yes,3,Mechanical,6.27,Certified Ethical Hacker,No,63.06,62.61,Software Development,1
+Tara Khan,"Hardware, iOS Development, IT Support",1,No,3,ECE,8.27,Coursera Python,No,82.21,82.33,Information Technology (IT) Support,1
+Kavya Joshi,OpenCV,1,Yes,4,Mechanical,7.0,"Coursera Python, Certified Ethical Hacker",No,61.72,75.5,Computer Vision,1
+Karan Nair,,3,No,3,Civil,7.02,UI/UX Design Certificate,No,80.1,68.61,Networking,0
+Tara Saxena,NLP,3,Yes,3,Mechanical,7.55,Google IT Support,No,76.78,76.41,Database Management,1
+Manish Kumar,"Transformers, TensorFlow, Python",1,Yes,1,IT,5.95,Udemy Full Stack,Yes,78.47,67.26,Natural Language Processing (NLP),1
+Vihaan Bhatt,"Spark, Automation, Software Testing, Docker",3,No,3,IT,9.15,Deep Learning Specialization,No,68.33,95.54,Software Testing,0
+Vihaan Shah,"Spark, Selenium, Solidity, Blockchain",2,No,3,ECE,5.89,UI/UX Design Certificate,Yes,71.09,66.19,Cloud Computing,0
+Sakshi Jain,"Transformers, Tableau, Python",3,Yes,3,Mechanical,7.55,Deep Learning Specialization,No,77.06,79.43,Natural Language Processing (NLP),0
+Sneha Verma,"Android Development, Kotlin",2,Yes,3,Electrical,4.31,CS50 Introduction to CS,Yes,76.64,54.1,Mobile Application Development,0
+Aarav Mehta,"Spark, Linux",1,No,3,CSE,5.49,Java Programming Masterclass,Yes,88.2,62.52,Computer Vision,1
+Prachi Khan,Node.js,1,No,3,Civil,7.24,"Coursera ML, CS50 Certificate, freeCodeCamp Certificate",No,83.05,73.01,Augmented Reality (AR) / Virtual Reality (VR),1
+Kavya Iyer,,2,Yes,2,Mechanical,7.67,Udemy Full Stack,No,82.94,83.33,Automation,0
+Ishaan Verma,"Android Development, Kotlin, Embedded Systems, TensorFlow, Java, Spark, HTML",2,No,3,Other,7.6,AWS Cloud Practitioner,No,80.58,92.61,Mobile Application Development,0
+Vedant Iyer,"Swift, Java, Android Development, Kotlin",1,No,3,ECE,8.67,AWS Certified Solutions Architect,No,73.31,80.54,Mobile Application Development,0
+Tara Pandey,"Python, Machine Learning",0,Yes,4,Electrical,8.14,PMP Certification,No,79.78,80.55,Artificial Intelligence,1
+Leena Iyer,Unity,1,Yes,3,IT,6.59,Python for Everybody,No,69.23,78.21,Data Engineering,1
+Manish Gupta,Node.js,1,No,3,Civil,7.6,UI/UX Design Certificate,No,79.67,89.95,Game Development,1
+Neha Garg,SEO,2,Yes,3,IT,8.36,Cisco CCNA,No,78.32,83.97,Business Intelligence,0
+Rahul Khan,"Embedded Systems, Automation, Python",1,No,5,ECE,7.84,PMP Certification,No,77.38,84.58,Artificial Intelligence,0
+Vihaan Verma,C/C++,2,Yes,4,ECE,5.7,"Cisco CCNA, AWS Cloud Practitioner, NPTEL DBMS",No,76.83,65.91,Embedded Systems,0
+Kavya Joshi,React,1,Yes,3,Other,8.51,Cisco CCNA,No,79.8,93.3,Game Development,1
+Maya Singh,Blockchain,0,No,3,Mechanical,7.75,AWS Certified Solutions Architect,No,74.49,84.43,Electronics Design,1
+Tanvi Gupta,"React, Java, Networking",1,Yes,5,IT,8.14,"IBM Data Science Professional Certificate, Tableau Certification",Yes,75.42,75.27,Digital Marketing,0
+Maya Joshi,Cyber Security,0,No,5,ECE,6.8,Coursera ML,No,74.14,85.06,Electronics Design,0
+Aarav Chopra,"Hadoop, Spark",2,Yes,2,Electrical,8.33,Udemy Full Stack,No,77.62,90.9,Big Data Analytics,0
+Sakshi Chopra,Figma,0,No,3,Other,6.48,Java Programming Masterclass,No,80.92,71.98,UI/UX Design,1
+Pooja Singh,"AWS, Linux, Cyber Security, Networking",2,Yes,3,Mechanical,8.45,Data Science Professional Certificate,Yes,77.42,94.23,Cyber Security,0
+Neha Bhatt,Cyber Security,2,No,3,Mechanical,6.59,"Power BI Certification, Google IT Support, AWS Cloud Practitioner",No,81.89,74.74,Cyber Security,1
+Isha Bhatt,"Deep Learning, Docker, Networking",4,No,2,Electrical,6.63,UI/UX Design Certificate,No,63.4,65.12,Business Intelligence,0
+Arjun Shah,"Deep Learning, Data Analysis, Python, Blockchain",0,No,3,Civil,10.0,PMP Certification,No,90.09,94.33,Machine Learning,1
+Tanvi Saxena,"Machine Learning, TensorFlow, Python, Deep Learning, HTML, Computer Vision",3,Yes,2,Civil,5.18,Certified Ethical Hacker,Yes,83.96,60.79,Artificial Intelligence,0
+Rohit Patel,"SEO, Digital Marketing",0,No,5,Civil,5.83,AWS Certified Solutions Architect,Yes,80.6,56.42,Digital Marketing,1
+Simran Bhatt,"Java, Power BI, Python",2,No,3,ECE,5.62,Java Programming Masterclass,No,78.63,68.86,Big Data Analytics,1
+Sakshi Joshi,"Node.js, OpenCV, Computer Vision",6,Yes,2,ECE,8.13,Java Programming Masterclass,No,79.96,84.9,Computer Vision,0
+Tanvi Nair,"Deep Learning, Spark, Power BI, Python",0,No,4,ECE,7.11,AWS Certified Solutions Architect,No,84.22,72.03,Machine Learning,0
+Neha Roy,"Cyber Security, Computer Vision, Machine Learning",1,Yes,4,CSE,7.86,Azure Fundamentals,No,78.02,82.27,Artificial Intelligence,1
+Rahul Kumar,"SQL, CSS, ETL",1,Yes,4,CSE,7.76,Kaggle Micro-Course,No,79.72,87.74,Data Engineering,1
+Simran Sharma,Docker,0,Yes,4,Mechanical,7.41,CS50 Certificate,No,88.27,81.04,Cloud Computing,0
+Aditya Kapoor,"Cloud Computing, Docker, Linux, Solidity",0,No,3,ECE,7.99,Google IT Support Certificate,No,77.3,77.17,Cloud Computing,0
+Vihaan Shah,Arduino,3,Yes,2,CSE,8.79,Certified Ethical Hacker,No,78.18,80.95,Digital Marketing,1
+Tanvi Gupta,"Agile, CSS",3,Yes,5,ECE,7.42,Data Science Professional Certificate,No,83.72,74.93,Project Management,1
+Arjun Mehta,Kubernetes,1,Yes,3,Mechanical,8.22,Google IT Support Certificate,No,76.35,82.23,Game Development,0
+Manish Kapoor,"Cloud Computing, Arduino, Kubernetes",0,No,3,Civil,5.66,CS50 Introduction to CS,Yes,74.46,59.86,Cloud Computing,0
+Ishaan Das,SEO,1,No,2,Mechanical,5.16,Deep Learning Specialization,Yes,84.51,66.72,Hardware Design,0
+Maya Kapoor,iOS Development,2,Yes,4,Civil,8.89,Data Science Professional Certificate,Yes,67.77,95.91,DevOps,1
+Arjun Pandey,"Node.js, React, Android Development, Kotlin",3,No,3,Civil,7.05,Coursera Python,No,76.93,75.54,Mobile Application Development,1
+Pooja Kapoor,,0,No,3,Electrical,7.82,"Android Certification, Certified Ethical Hacker, fast.ai course",No,90.78,81.68,UI/UX Design,0
+Pooja Pandey,"SQL, Data Analysis, Java, Python, Hadoop",2,No,4,CSE,7.1,AWS Certified Solutions Architect,No,82.47,85.48,Data Science,0
+Tanvi Jain,"Cryptography, Solidity",0,No,2,Electrical,8.46,Java Programming Masterclass,No,71.47,94.55,Blockchain Technology,1
+Pooja Jain,UI/UX Design,3,Yes,5,ECE,7.34,CS50 Introduction to CS,No,79.08,75.06,UI/UX Design,1
+Neha Desai,"Big Data, ETL",4,No,4,Civil,6.9,Android Certification,No,86.14,65.65,Data Engineering,0
+Prachi Shah,"Docker, Linux",1,No,3,IT,7.23,"Google IT Support, TensorFlow Specialization, NPTEL DBMS",No,77.79,77.42,Cloud Computing,0
+Isha Saxena,Swift,1,No,2,Mechanical,6.99,Java Programming Masterclass,Yes,83.36,77.7,Electronics Design,1
+Leena Verma,Unity,2,Yes,2,ECE,6.76,UI/UX Design Certificate,No,90.22,68.48,Hardware Design,0
+Tanvi Kapoor,SQL,1,Yes,5,Civil,6.49,PMP Certification,No,84.98,63.91,Data Engineering,0
+Sneha Pandey,,1,No,2,Mechanical,7.8,Udemy Full Stack,No,78.84,90.71,Big Data Analytics,0
+Aarav Iyer,"Embedded Systems, Cisco, SQL, Networking",0,No,5,Electrical,8.6,Java Programming Masterclass,No,88.34,91.41,Networking,0
+Kabir Chopra,Selenium,0,No,4,Electrical,5.14,Certified Ethical Hacker,Yes,65.01,63.4,Software Testing,1
+Arjun Kapoor,"Node.js, Data Analysis, Python, Machine Learning",0,No,3,ECE,9.82,"Coursera ML, AWS Cloud Practitioner, Azure Fundamentals",No,89.93,92.8,Data Science,1
+Karan Singh,"Automation, Selenium, Kubernetes, Android Development",2,No,4,Other,5.14,Google IT Support Certificate,Yes,73.0,58.98,Automation,1
+Prachi Jain,Agile,1,No,4,Mechanical,7.47,"Power BI Certification, Udemy Full Stack",No,87.48,83.15,Project Management,0
+Ishaan Mehta,,0,No,2,Civil,6.96,Certified Ethical Hacker,No,85.13,82.76,Big Data Analytics,0
+Karan Verma,Deep Learning,1,No,4,IT,8.58,PMP Certification,No,74.86,84.86,Hardware Design,1
+Vedant Singh,"JavaScript, React, HTML, Machine Learning",2,Yes,3,Other,8.73,AWS Certified Solutions Architect,No,75.87,76.86,Web Development,0
+Arjun Desai,TensorFlow,3,Yes,2,Civil,7.2,PMP Certification,No,84.5,72.98,Data Science,1
+Tara Verma,"SQL, Database Design",1,No,3,Other,8.69,PMP Certification,No,71.05,87.04,Database Management,1
+Ananya Patel,"NLP, Docker, Networking",2,Yes,3,Other,5.26,AWS Certified Solutions Architect,Yes,73.21,64.18,Networking,0
+Kavya Das,"Embedded Systems, C/C++",0,Yes,2,ECE,7.43,AWS Certified Solutions Architect,No,80.55,71.96,Internet of Things (IoT),1
+Kavya Desai,"Docker, Linux, Swift",2,Yes,3,ECE,8.03,Google IT Support,No,85.78,80.8,Cloud Computing,1
+Neha Bhat,"React, Java, CSS",0,No,2,CSE,7.28,freeCodeCamp Certificate,No,75.86,78.22,Web Development,1
+Rohit Sharma,"C/C++, Python",2,No,3,IT,9.06,PMP basics,No,66.87,98.94,Internet of Things (IoT),0
+Simran Pandey,"CSS, Swift",1,No,5,Mechanical,7.68,fast.ai course,No,78.8,79.97,Data Engineering,1
+Vihaan Singh,"Automation, Machine Learning, Power BI, Linux, Deep Learning",0,Yes,3,IT,6.49,Certified Ethical Hacker,No,83.58,73.21,Artificial Intelligence,1
+Sakshi Joshi,"OpenCV, Docker, Kubernetes",1,Yes,3,Mechanical,8.65,Python for Everybody,No,77.3,90.08,DevOps,1
+Isha Das,"C++, Java, Data Structures",1,Yes,3,Mechanical,6.6,Coursera ML,No,87.55,78.67,Software Development,1
+Karan Kapoor,Hadoop,2,No,2,IT,8.75,Deep Learning Specialization,No,76.98,88.73,Business Intelligence,1
+Sneha Kumar,"UI/UX Design, C++",2,No,4,Civil,6.56,Tableau Certification,No,65.2,79.21,UI/UX Design,0
+Sakshi Verma,"VHDL, Embedded Systems, Python",1,Yes,4,Other,6.39,Data Science Professional Certificate,No,67.34,65.19,Robotics,1
+Vihaan Singh,Selenium,2,Yes,4,ECE,6.91,Coursera Python,No,91.18,65.64,Automation,1
+Vihaan Iyer,"Linux, SEO",2,Yes,2,CSE,7.9,Python for Everybody,No,87.57,78.25,Digital Marketing,0
+Ananya Rao,,3,Yes,4,Other,7.26,AWS Cloud Practitioner,No,85.98,65.84,Augmented Reality (AR) / Virtual Reality (VR),1
+Leena Iyer,Agile,1,No,3,Electrical,8.14,NPTEL DBMS,No,78.33,83.7,Project Management,0
+Tara Roy,"Cloud Computing, Java",0,No,4,Other,6.84,Coursera ML,No,77.2,56.47,Cloud Computing,0
+Simran Iyer,SEO,0,No,1,CSE,6.17,"Cisco CCNA, IBM Data Science Professional Certificate",No,80.87,65.34,Digital Marketing,0
+Simran Mehta,"Big Data, SQL",1,Yes,3,Other,6.69,Google UX Design,No,85.22,73.68,Data Engineering,0
+Kavya Patel,"Hardware, IT Support, Figma",2,No,4,Mechanical,5.95,Tableau Certification,Yes,79.24,66.65,Information Technology (IT) Support,0
+Manish Jain,Python,1,No,2,Electrical,6.36,Power BI Certification,No,89.85,66.26,Data Science,0
+Karan Malhotra,"Automation, Java, Python, Data Structures, C++",1,Yes,3,Mechanical,6.09,Kaggle Micro-Course,No,81.06,75.49,Software Development,1
+Manish Rao,,1,No,4,ECE,8.11,Data Science Professional Certificate,No,77.3,79.24,Machine Learning,1
+Rahul Gupta,"Deep Learning, Blockchain, Python, Machine Learning",0,No,4,Electrical,7.29,AWS Certified Solutions Architect,No,77.77,71.92,Artificial Intelligence,0
+Prachi Garg,"Java, Kotlin",2,No,2,Other,6.15,UI/UX Design Certificate,No,74.26,73.08,Mobile Application Development,0
+Arjun Das,"Automation, Selenium, Software Testing",3,No,3,CSE,9.24,Cisco CCNA,No,76.01,86.51,Software Testing,0
+Kabir Iyer,"IT Support, Networking, SEO, Hardware, Swift",0,Yes,5,ECE,8.06,Tableau Certification,Yes,74.48,88.63,Information Technology (IT) Support,1
+Kavya Das,"Linux, Kubernetes",0,No,4,Electrical,7.54,freeCodeCamp Certificate,No,72.53,78.85,Cloud Computing,1
+Karan Pandey,TensorFlow,2,No,2,Mechanical,6.96,Deep Learning Specialization,Yes,68.35,72.72,Hardware Design,0
+Vedant Khan,"Docker, Kubernetes",2,Yes,3,Electrical,7.84,"Google IT Support, Cisco CCNA",No,74.41,80.95,Electronics Design,1
+Aditya Iyer,"CSS, Linux, Networking",3,No,3,Civil,7.34,AWS Certified Solutions Architect,No,75.48,79.49,Cyber Security,1
+Sneha Joshi,"Networking, Network Security, JavaScript, Cisco, Azure",3,No,3,Civil,7.3,NPTEL DBMS,No,80.98,73.74,Networking,1
+Vihaan Rao,Spark,0,Yes,5,IT,6.17,"Kaggle Micro-Course, Coursera Python",No,82.85,67.72,Big Data Analytics,0
+Rohit Shah,Networking,3,No,3,Mechanical,7.47,Udemy Full Stack,No,73.49,80.67,Cyber Security,1
+Kabir Joshi,"Agile, Python, Project Management",2,Yes,3,CSE,7.05,fast.ai course,No,78.38,78.59,Project Management,1
+Kavya Jain,"React, SQL, Data Analysis, Python",2,Yes,4,ECE,5.95,Power BI Certification,Yes,82.75,63.68,Data Science,1
+Vedant Mehta,"VHDL, Linux, Python, Agile, Cyber Security",1,Yes,3,Electrical,6.2,Azure Fundamentals,No,70.06,74.47,Project Management,1
+Leena Das,"Cryptography, SQL, Docker, Solidity",4,Yes,3,Civil,7.14,Azure Fundamentals,No,74.71,70.54,Blockchain Technology,0
+Ishaan Nair,"JavaScript, Computer Vision",0,No,2,Civil,6.85,Data Science Professional Certificate,No,82.02,69.22,Computer Vision,0
+Vihaan Singh,"Embedded Systems, Figma, OpenCV, Control Systems, HTML",2,No,4,IT,7.0,"fast.ai course, Udemy Full Stack, Coursera Python",No,82.68,68.78,Robotics,1
+Vedant Desai,"iOS Development, Azure",2,No,2,Other,6.22,Google IT Support Certificate,No,81.62,62.83,Robotics,0
+Isha Mehta,"Data Structures, Kotlin",2,No,4,Mechanical,5.8,AWS Certified Solutions Architect,Yes,76.79,60.2,Software Development,0
+Pooja Verma,"Node.js, Cyber Security",0,No,3,IT,7.25,"Cisco CCNA, NPTEL DBMS",Yes,80.32,79.7,Electronics Design,1
+Tara Iyer,"SQL, Data Analysis, Python, Swift",1,No,3,Mechanical,7.12,Python for Everybody,No,71.75,79.96,Data Science,1
+Vihaan Shah,"OpenCV, SQL, Data Analysis, Azure",1,No,2,ECE,6.54,CS50 Certificate,No,87.63,70.32,Data Science,1
+Manish Chopra,"Transformers, PyTorch",2,No,3,IT,8.12,"Google UX Design, Android Certification, freeCodeCamp Certificate",No,91.73,82.45,Natural Language Processing (NLP),0
+Ananya Pandey,Java,3,No,2,ECE,8.45,Google IT Support Certificate,No,72.07,82.25,Hardware Design,0
+Maya Shah,"SQL, Python",3,Yes,3,Mechanical,9.12,"Udemy Full Stack, Cisco CCNA, Azure Fundamentals",No,75.37,83.73,Data Science,1
+Vedant Verma,"OpenCV, Selenium, Software Testing",2,Yes,5,IT,5.17,Cisco CCNA,No,87.88,50.68,Software Testing,1
+Manish Khan,"Networking, Blockchain",2,Yes,3,ECE,5.79,UI/UX Design Certificate,No,79.35,56.87,Networking,0
+Neha Bhat,Python,1,Yes,3,Electrical,8.91,CS50 Introduction to CS,No,99.0,86.94,Hardware Design,0
+Tanvi Verma,Automation,4,Yes,4,Other,5.65,Coursera Python,No,80.16,68.24,Project Management,1
+Vihaan Desai,"Machine Learning, Python, Deep Learning, Computer Vision, Azure",1,Yes,4,Civil,7.09,Google UX Design,No,82.02,79.98,Artificial Intelligence,1
+Vedant Khan,"Automation, Selenium, Software Testing, Figma",0,No,3,Other,6.77,Java Programming Masterclass,No,78.02,68.46,Software Testing,0
+Karan Shah,Networking,2,Yes,3,Mechanical,8.1,Power BI Certification,No,79.77,78.29,Augmented Reality (AR) / Virtual Reality (VR),1
+Aarav Rao,"Tableau, Cryptography, Machine Learning, Blockchain",0,No,4,IT,7.25,PMP Certification,No,74.58,83.56,Blockchain Technology,0
+Prachi Das,Figma,1,Yes,2,ECE,6.49,Java Programming Masterclass,No,77.78,79.45,Game Development,0
+Neha Gupta,NLP,1,No,5,Other,5.44,AWS Certified Solutions Architect,Yes,73.65,61.3,Automation,0
+Ananya Bhatt,"Automation, Linux, Blockchain, Node.js, Cyber Security",2,No,2,IT,6.42,Certified Ethical Hacker,No,91.59,77.8,Cyber Security,1
+Manish Roy,"Transformers, Solidity",0,No,4,ECE,7.9,Java Programming Masterclass,No,80.54,85.79,Natural Language Processing (NLP),0
+Tanvi Gupta,NLP,0,No,2,ECE,7.15,CS50 Certificate,Yes,88.02,82.28,Natural Language Processing (NLP),0
+Riya Kapoor,"SQL, Power BI",1,No,3,CSE,7.57,Cisco CCNA,No,81.41,81.3,Data Engineering,0
+Rahul Rao,Machine Learning,2,No,3,Mechanical,8.73,Power BI Certification,No,76.03,94.41,Machine Learning,1
+Leena Bhatt,"Spark, Kubernetes",0,No,3,Mechanical,5.11,PMP basics,No,67.54,57.52,UI/UX Design,0
+Riya Khan,"Hadoop, Big Data, CSS, Spark",3,Yes,2,CSE,5.87,"Google IT Support, Tableau Certification",No,81.39,65.09,Big Data Analytics,1
+Riya Sharma,"React, Project Management",0,No,2,Mechanical,5.43,Udemy Full Stack,Yes,78.3,63.82,Project Management,1
+Ananya Singh,"C++, Data Structures, Python",2,Yes,1,IT,7.58,"Azure Fundamentals, Tableau Certification",No,88.28,71.93,Software Development,1
+Manish Kumar,"Java, Networking, Swift",2,Yes,3,ECE,6.25,Python for Everybody,No,81.39,66.11,Mobile Application Development,1
+Kabir Nair,"Hadoop, Docker",1,Yes,2,IT,6.56,Certified Ethical Hacker,No,78.6,71.23,Big Data Analytics,0
+Maya Gupta,"Transformers, Embedded Systems, Python",2,Yes,3,IT,6.68,"Google IT Support, Coursera ML, CS50 Certificate",No,87.56,69.68,Natural Language Processing (NLP),1
+Sakshi Roy,,5,No,2,Other,8.17,Certified Ethical Hacker,No,72.46,89.02,Game Development,1
+Prachi Nair,Java,3,Yes,3,Electrical,6.82,Certified Ethical Hacker,No,69.62,76.09,Business Intelligence,0
+Simran Kumar,"SQL, Kotlin",1,Yes,3,Mechanical,7.17,Google IT Support,No,94.61,67.58,Data Engineering,0
+Manish Bhat,Selenium,0,No,5,IT,7.02,Azure Fundamentals,No,81.95,77.36,Information Technology (IT) Support,0
+Manish Khan,"Angular, Swift",0,Yes,3,Other,4.69,Python for Everybody,No,73.83,54.69,Project Management,0
+Simran Singh,,2,No,3,Mechanical,5.45,Data Science Professional Certificate,No,79.97,66.93,Electronics Design,0
+Arjun Rao,"JavaScript, React, CSS",1,Yes,3,Other,7.68,CS50 Introduction to CS,No,81.24,80.75,Web Development,0
+Ishaan Saxena,iOS Development,2,No,2,Civil,6.95,Python for Everybody,No,77.4,80.55,Automation,0
+Ananya Das,,0,No,3,Other,7.0,Certified Ethical Hacker,No,74.15,78.67,Database Management,0
+Manish Gupta,AWS,0,No,3,Electrical,8.85,"Coursera ML, Azure Fundamentals",No,82.04,77.93,Augmented Reality (AR) / Virtual Reality (VR),0
+Kavya Khan,Tableau,1,Yes,2,Electrical,7.31,Certified Ethical Hacker,No,75.97,76.65,Automation,0
+Simran Khan,"C/C++, NLP, Embedded Systems, Data Analysis, Linux, Python",1,No,3,Mechanical,7.03,AWS Cloud Practitioner,No,80.66,69.98,Internet of Things (IoT),1
+Aditya Shah,Angular,1,Yes,4,Civil,7.23,Google UX Design,No,82.08,70.18,Software Development,0
+Isha Patel,"JavaScript, Cryptography, Linux, Blockchain",1,No,3,ECE,6.11,PMP Certification,No,76.83,60.92,Blockchain Technology,0
+Neha Verma,"Big Data, Python",3,Yes,3,IT,6.33,Data Science Professional Certificate,No,89.42,71.58,Big Data Analytics,1
+Simran Bhatt,,3,No,5,ECE,7.56,Data Science Professional Certificate,No,82.86,74.72,Web Development,0
+Kavya Das,"JavaScript, HTML",1,No,3,Other,7.46,"Android Certification, Google UX Design",No,67.39,73.79,Web Development,0
+Vihaan Malhotra,"Android Development, Machine Learning, Data Analysis, Python, CI/CD",1,No,5,ECE,8.34,AWS Certified Solutions Architect,No,72.85,83.35,Machine Learning,1
+Rahul Pandey,"Cisco, Data Analysis, PyTorch, Networking",1,No,2,CSE,6.14,CS50 Introduction to CS,No,90.12,74.54,Networking,0
+Pooja Rao,"Angular, Java, SQL",2,Yes,3,CSE,7.44,Coursera ML,No,77.03,73.97,Hardware Design,1
+Ishaan Patel,Arduino,1,Yes,4,Mechanical,9.56,Deep Learning Specialization,No,79.87,92.91,Electronics Design,0
+Ishaan Joshi,"CI/CD, iOS Development",1,Yes,4,Electrical,6.07,Android Certification,No,89.1,68.93,Game Development,0
+Arjun Pandey,"C++, Android Development, Kotlin",1,Yes,1,IT,6.64,CS50 Introduction to CS,No,75.19,71.78,Mobile Application Development,0
+Rahul Shah,"Angular, Android Development",1,Yes,2,ECE,6.92,Python for Everybody,No,75.75,82.97,Mobile Application Development,0
+Sakshi Pandey,HTML,1,No,3,Civil,6.23,Python for Everybody,No,82.14,61.27,Hardware Design,1
+Arjun Das,Cyber Security,1,Yes,5,Electrical,5.88,Deep Learning Specialization,Yes,79.38,68.23,Game Development,0
+Aditya Khan,"Unity, Kubernetes",2,Yes,1,Mechanical,5.99,"Kaggle Micro-Course, Cisco CCNA, Udemy Full Stack",Yes,66.08,65.8,DevOps,0
+Isha Roy,Data Analysis,0,No,3,Electrical,4.13,CS50 Introduction to CS,Yes,89.62,45.91,Business Intelligence,0
+Arjun Kapoor,"C/C++, SEO, Embedded Systems, Python",4,Yes,5,IT,6.98,Data Science Professional Certificate,No,79.76,74.61,Internet of Things (IoT),1
+Karan Gupta,"Deep Learning, Spark, Embedded Systems, Computer Vision",0,No,2,CSE,10.0,Coursera ML,No,79.07,94.12,Computer Vision,1
+Arjun Chopra,"React, Database Design",1,No,2,Mechanical,6.88,NPTEL DBMS,No,68.6,65.75,Database Management,0
+Aditya Shah,Linux,0,No,3,Mechanical,6.75,"Android Certification, fast.ai course, PMP basics",No,77.41,72.96,Embedded Systems,0
+Isha Saxena,"JavaScript, HTML",2,No,5,Mechanical,6.63,Android Certification,No,73.33,61.78,Web Development,1
+Riya Gupta,Networking,2,Yes,3,ECE,7.7,UI/UX Design Certificate,Yes,91.14,80.8,Electronics Design,1
+Sakshi Roy,"Data Analysis, ETL",0,Yes,4,Electrical,7.99,Python for Everybody,No,87.33,75.91,Game Development,1
+Aditya Singh,Figma,1,No,1,Other,8.08,UI/UX Design Certificate,No,78.37,78.58,Hardware Design,1
+Kabir Kumar,"CI/CD, Kubernetes",1,No,3,ECE,8.33,Tableau Certification,No,84.7,89.74,DevOps,1
+Ishaan Rao,"Deep Learning, OpenCV",0,No,1,Electrical,8.88,Java Programming Masterclass,No,81.87,83.19,Computer Vision,0
+Tanvi Shah,,2,Yes,5,Mechanical,8.93,NPTEL DBMS,Yes,77.82,85.31,Automation,1
+Pooja Roy,"C++, Kubernetes",2,Yes,4,Other,5.65,"Certified Ethical Hacker, CS50 Certificate",Yes,80.56,67.98,Internet of Things (IoT),0
+Rohit Kumar,"Machine Learning, Unity, Solidity, Python, Deep Learning",1,No,3,Electrical,6.29,Python for Everybody,No,87.06,59.25,Machine Learning,1
+Aarav Malhotra,Linux,0,Yes,3,Mechanical,7.06,Certified Ethical Hacker,No,84.59,73.99,Electronics Design,0
+Tanvi Malhotra,"TensorFlow, Azure",0,No,3,CSE,8.26,Android Certification,No,87.28,78.84,Automation,1
+Karan Bhatt,"Power BI, Linux, Figma",5,Yes,3,Other,7.37,UI/UX Design Certificate,Yes,88.02,81.94,Game Development,0
+Tara Nair,C/C++,0,No,3,Civil,7.54,"CS50 Certificate, Coursera ML",No,65.46,72.9,Embedded Systems,0
+Karan Desai,"CSS, Software Testing",0,Yes,3,Other,8.5,PMP Certification,No,79.18,79.44,Software Testing,0
+Rohit Iyer,"JavaScript, CSS, HTML, AWS",2,Yes,3,CSE,6.85,"IBM Data Science Professional Certificate, CS50 Certificate",No,85.57,60.28,Web Development,1
+Vedant Iyer,"C++, Data Structures, Android Development",3,No,3,ECE,7.69,Google UX Design,No,95.97,83.74,Software Development,0
+Kavya Kumar,"Cisco, Networking, Network Security",1,No,2,IT,7.0,Java Programming Masterclass,No,76.93,70.0,Networking,1
+Maya Kapoor,"SQL, Data Analysis",2,No,1,Mechanical,7.04,Certified Ethical Hacker,No,65.91,74.71,Database Management,1
+Prachi Kumar,Angular,1,Yes,3,ECE,7.33,"TensorFlow Specialization, Power BI Certification, AWS Cloud Practitioner",No,77.76,70.29,Automation,1
+Leena Mehta,Kubernetes,2,Yes,4,Mechanical,7.93,CS50 Introduction to CS,No,68.44,76.18,Cloud Computing,1
+Tara Verma,"CI/CD, Embedded Systems, React, C/C++",4,Yes,4,Civil,8.55,IBM Data Science Professional Certificate,Yes,81.05,95.77,Internet of Things (IoT),0
+Rohit Iyer,"C++, SEO, Kubernetes, Android Development",1,No,3,Other,7.12,IBM Data Science Professional Certificate,No,76.04,70.57,Data Science,1
+Ananya Rao,Tableau,3,No,5,Electrical,7.06,Deep Learning Specialization,No,71.89,81.23,DevOps,0
+Aditya Das,"Android Development, Kotlin, Java, Cyber Security, Swift",2,Yes,2,ECE,6.13,Udemy Full Stack,No,85.29,69.12,Mobile Application Development,1
+Isha Rao,SEO,1,No,3,Electrical,7.03,Deep Learning Specialization,No,94.25,69.46,Digital Marketing,1
+Maya Desai,"Node.js, SEO, Swift",1,Yes,2,Civil,7.1,Google IT Support Certificate,No,81.99,72.59,Big Data Analytics,1
+Aditya Kumar,Angular,0,No,5,ECE,8.66,AWS Certified Solutions Architect,No,84.17,88.03,Game Development,0
+Prachi Patel,Embedded Systems,1,No,3,CSE,8.58,CS50 Introduction to CS,No,86.28,88.97,DevOps,1
+Arjun Desai,Kotlin,6,Yes,2,Civil,7.14,"Power BI Certification, NPTEL DBMS",No,77.52,68.68,DevOps,0
+Arjun Das,"CI/CD, Docker",2,Yes,4,Civil,5.99,UI/UX Design Certificate,Yes,77.24,62.99,DevOps,0
+Arjun Kapoor,Spark,4,No,4,Civil,5.72,fast.ai course,No,96.05,63.91,Big Data Analytics,1
+Karan Kumar,JavaScript,1,Yes,3,ECE,9.52,UI/UX Design Certificate,No,93.12,91.29,Web Development,0
+Riya Pandey,"Hadoop, Cyber Security, Digital Marketing",3,Yes,3,IT,6.21,"Udemy Full Stack, Azure Fundamentals, IBM Data Science Professional Certificate",No,78.35,68.6,Digital Marketing,0
+Arjun Pandey,"Embedded Systems, SQL, Python, Android Development",0,Yes,3,IT,8.48,PMP Certification,No,91.32,82.71,Robotics,1
+Pooja Pandey,"IT Support, Networking, Unity, HTML, Hadoop, Hardware",1,No,2,Civil,8.23,Google IT Support Certificate,No,81.97,81.67,Information Technology (IT) Support,1
+Karan Roy,"JavaScript, Embedded Systems, Python",1,Yes,4,Civil,5.77,AWS Certified Solutions Architect,No,85.67,69.83,Robotics,1
+Arjun Verma,"Deep Learning, Computer Vision, Machine Learning",0,Yes,2,IT,5.52,Azure Fundamentals,Yes,76.56,58.82,Computer Vision,0
+Vedant Saxena,"NLP, Power BI, Blockchain, Swift",2,No,5,Electrical,6.97,CS50 Certificate,No,79.09,79.22,Electronics Design,1
+Pooja Chopra,"C++, iOS Development, Cyber Security",1,No,2,ECE,4.78,UI/UX Design Certificate,Yes,84.51,62.13,Cyber Security,0
+Vedant Verma,"Embedded Systems, Control Systems, Docker",4,Yes,5,Civil,6.31,TensorFlow Specialization,No,79.0,70.45,Robotics,1
+Tara Bhatt,Machine Learning,5,Yes,2,ECE,7.2,Java Programming Masterclass,No,88.83,72.81,Electronics Design,1
+Sakshi Verma,"JavaScript, Data Analysis, Unity, Java",0,No,3,Other,7.84,Android Certification,No,78.18,77.11,Data Science,0
+Kabir Nair,"Linux, Spark, Cyber Security, Networking",0,No,2,CSE,5.77,Certified Ethical Hacker,Yes,77.23,61.79,Cyber Security,0
+Sakshi Bhat,"SQL, ETL",0,No,5,Other,8.67,Google IT Support Certificate,No,84.22,83.48,Data Engineering,0
+Kabir Das,Cyber Security,2,No,4,Mechanical,7.71,Google UX Design,No,72.35,71.69,Cyber Security,0
+Rahul Chopra,,1,No,3,Electrical,9.24,UI/UX Design Certificate,No,88.01,86.8,Automation,0
+Vedant Khan,Cloud Computing,1,No,3,CSE,9.78,Data Science Professional Certificate,No,76.58,92.63,Cloud Computing,0
+Prachi Singh,React,1,Yes,3,Other,7.46,Python for Everybody,No,86.5,78.41,Hardware Design,1
+Isha Jain,Networking,1,No,2,IT,6.36,Google IT Support Certificate,No,70.91,74.02,Automation,0
+Rahul Rao,HTML,0,No,1,Civil,5.81,"AWS Cloud Practitioner, Google UX Design, fast.ai course",No,79.72,65.88,Electronics Design,0
+Vedant Rao,OpenCV,1,Yes,4,ECE,6.3,UI/UX Design Certificate,No,66.86,63.86,Automation,0
+Ishaan Sharma,"iOS Development, Hardware, Arduino",0,Yes,5,Civil,5.57,Power BI Certification,Yes,70.95,64.44,Information Technology (IT) Support,0
+Aditya Gupta,Tableau,0,No,4,CSE,8.58,AWS Certified Solutions Architect,No,77.65,86.43,Automation,1
+Kavya Bhatt,"Machine Learning, Kotlin",0,No,3,Other,4.13,Android Certification,No,91.95,55.92,Hardware Design,0
+Pooja Desai,"CI/CD, Docker, Arduino",3,Yes,2,Civil,8.06,Kaggle Micro-Course,No,80.23,77.13,DevOps,0
+Rohit Khan,,2,No,4,CSE,7.05,fast.ai course,No,84.46,69.92,Electronics Design,1
+Tara Sharma,CI/CD,1,No,4,ECE,8.4,UI/UX Design Certificate,No,83.14,82.87,Augmented Reality (AR) / Virtual Reality (VR),0
+Kavya Das,C/C++,0,Yes,3,IT,9.23,Deep Learning Specialization,No,82.86,90.89,Embedded Systems,1
+Maya Das,Unity,1,No,5,Mechanical,5.53,PMP basics,Yes,80.04,60.93,Electronics Design,0
+Leena Rao,"Tableau, Cyber Security, Networking",3,No,3,CSE,8.1,Coursera Python,No,82.63,85.1,Cyber Security,1
+Simran Mehta,"UI/UX Design, Unity, Figma, Power BI",1,No,2,CSE,6.84,freeCodeCamp Certificate,No,66.41,58.04,UI/UX Design,1
+Ishaan Kapoor,"C/C++, Arduino, Azure",0,No,5,IT,8.26,Java Programming Masterclass,No,76.13,90.62,Embedded Systems,0
+Rahul Mehta,"UI/UX Design, Figma",2,No,2,ECE,5.68,Kaggle Micro-Course,No,81.63,52.95,UI/UX Design,1
+Karan Roy,"Automation, Android Development, Machine Learning",0,No,3,CSE,9.16,AWS Cloud Practitioner,No,72.94,84.18,Data Science,0
+Tara Singh,"OpenCV, Hadoop, Big Data",1,Yes,4,CSE,6.97,CS50 Introduction to CS,No,87.72,77.69,Big Data Analytics,1
+Leena Saxena,"C++, Selenium, Software Testing",1,No,4,Civil,7.55,Deep Learning Specialization,No,85.4,79.63,Software Testing,0
+Aarav Pandey,"CI/CD, HTML, Docker, Kubernetes",0,No,2,Electrical,8.12,fast.ai course,No,84.51,83.67,DevOps,0
+Ishaan Gupta,"AWS, ETL",0,No,4,Civil,7.37,Data Science Professional Certificate,No,87.64,86.79,Business Intelligence,0
+Karan Verma,"Angular, Python",0,No,4,IT,6.28,"Coursera Python, Tableau Certification",No,69.69,68.19,Artificial Intelligence,0
+Tanvi Iyer,Python,2,Yes,4,IT,6.71,PMP basics,No,66.56,70.73,Digital Marketing,1
+Vihaan Kapoor,"OpenCV, Computer Vision",2,Yes,3,ECE,8.89,"Kaggle Micro-Course, Azure Fundamentals",No,78.02,83.81,Computer Vision,1
+Neha Kumar,Cyber Security,0,No,2,Electrical,8.5,Data Science Professional Certificate,No,83.42,92.65,Cyber Security,1
+Neha Joshi,"Node.js, Embedded Systems, VHDL",1,No,2,Civil,6.05,Tableau Certification,No,83.76,62.36,Embedded Systems,0
+Pooja Chopra,"Cloud Computing, Linux",0,No,4,Civil,7.04,Android Certification,No,82.69,79.55,Cloud Computing,0
+Rahul Joshi,Big Data,3,Yes,3,Civil,6.27,Certified Ethical Hacker,No,87.87,70.66,Data Engineering,1
+Aarav Iyer,"Spark, Python",0,No,3,ECE,5.6,Azure Fundamentals,Yes,72.62,64.0,Machine Learning,1
+Vihaan Kumar,ETL,1,No,2,Mechanical,6.55,PMP Certification,No,82.26,63.31,Business Intelligence,1
+Ishaan Verma,"Automation, Unity, PyTorch, Linux, SEO, Kubernetes",1,No,5,Mechanical,7.42,Google IT Support Certificate,No,87.71,73.84,Software Testing,0
+Riya Patel,Data Analysis,0,Yes,3,ECE,7.17,fast.ai course,No,68.42,75.83,Augmented Reality (AR) / Virtual Reality (VR),1
+Karan Verma,"Selenium, Automation",3,No,4,IT,7.94,Azure Fundamentals,No,72.26,84.34,Game Development,1
+Sakshi Bhat,"C/C++, Java, OpenCV, Tableau",2,Yes,1,ECE,6.19,AWS Certified Solutions Architect,No,73.36,73.92,Embedded Systems,0
+Isha Bhat,"IT Support, Networking, Kotlin, Angular, Embedded Systems",1,Yes,3,IT,7.64,CS50 Introduction to CS,No,73.08,79.49,Information Technology (IT) Support,0
+Aarav Saxena,"HTML, SEO, Digital Marketing",1,No,2,CSE,7.5,CS50 Introduction to CS,No,81.77,82.39,Digital Marketing,1
+Neha Kapoor,"Cyber Security, Linux",2,Yes,3,Electrical,6.79,CS50 Introduction to CS,No,77.37,82.69,Cyber Security,1
+Riya Desai,"Hadoop, Big Data, Spark, Blockchain",0,Yes,4,CSE,8.53,Google IT Support Certificate,Yes,95.47,86.4,Big Data Analytics,0
+Prachi Desai,"Automation, Software Testing, Kubernetes",1,Yes,5,IT,6.34,"Kaggle Micro-Course, CS50 Certificate",No,72.07,73.44,Software Testing,1
+Manish Verma,,3,No,5,Mechanical,4.73,PMP Certification,No,77.12,57.56,UI/UX Design,0
+Ishaan Chopra,"Transformers, NLP, Python",1,No,2,IT,5.69,Certified Ethical Hacker,No,85.57,69.62,Natural Language Processing (NLP),0
+Ishaan Bhatt,Linux,1,No,3,ECE,7.88,"Kaggle Micro-Course, CS50 Certificate, Coursera ML",No,80.24,91.37,Automation,0
+Leena Sharma,"Hadoop, Big Data",0,No,3,Civil,7.92,Data Science Professional Certificate,No,79.22,74.1,Big Data Analytics,0
+Aditya Nair,"Transformers, NLP",1,Yes,3,ECE,6.19,Udemy Full Stack,No,75.87,78.32,Natural Language Processing (NLP),0
+Aditya Kumar,Deep Learning,6,Yes,3,Other,5.37,Data Science Professional Certificate,Yes,84.78,63.98,Embedded Systems,1
+Karan Mehta,"Java, Python",0,No,4,IT,7.47,UI/UX Design Certificate,No,79.28,77.54,Software Development,1
+Tanvi Khan,"Deep Learning, Computer Vision, Swift",1,No,3,Other,5.59,Coursera Python,Yes,75.18,66.02,Computer Vision,1
+Maya Verma,"Cryptography, Solidity, Blockchain",0,No,3,ECE,7.41,AWS Certified Solutions Architect,No,69.35,82.01,Blockchain Technology,0
+Pooja Pandey,"JavaScript, CSS",1,No,3,Electrical,8.12,Power BI Certification,No,87.72,97.55,Web Development,0
+Aditya Verma,Networking,4,No,4,CSE,6.62,Certified Ethical Hacker,No,73.64,66.73,Information Technology (IT) Support,1
+Karan Chopra,JavaScript,1,No,4,CSE,8.25,Google IT Support Certificate,No,81.66,94.39,Business Intelligence,0
+Kavya Iyer,"Unity, Kubernetes",1,No,4,Civil,6.92,"IBM Data Science Professional Certificate, AWS Cloud Practitioner, Android Certification",No,90.93,66.25,DevOps,0
+Riya Khan,"TensorFlow, Embedded Systems, OpenCV, Control Systems, Node.js",1,No,4,ECE,8.04,Certified Ethical Hacker,No,86.14,74.15,Robotics,0
+Tanvi Desai,"Embedded Systems, NLP, Python",2,Yes,2,Civil,8.85,Java Programming Masterclass,Yes,76.55,83.86,Natural Language Processing (NLP),1
+Prachi Jain,"VHDL, Embedded Systems, Networking, Python",3,Yes,3,Civil,7.08,Data Science Professional Certificate,No,86.18,75.59,Robotics,0
+Tanvi Pandey,"TensorFlow, Embedded Systems, Networking",1,Yes,2,Other,5.85,Deep Learning Specialization,Yes,79.46,53.42,Robotics,0
+Aditya Joshi,"Automation, Selenium, Azure",2,No,4,Electrical,6.49,Google IT Support Certificate,No,84.08,68.62,Software Testing,1
+Sneha Desai,"TensorFlow, ETL",2,No,3,IT,5.73,AWS Certified Solutions Architect,Yes,84.09,66.94,Data Engineering,0
+Arjun Chopra,Linux,1,No,3,Electrical,8.91,Google UX Design,No,82.63,91.5,Cyber Security,0
+Sakshi Khan,"OpenCV, React, Selenium, Hadoop",0,Yes,1,ECE,7.65,Python for Everybody,No,90.13,77.29,Software Testing,0
+Leena Pandey,Embedded Systems,0,No,4,Other,9.37,Udemy Full Stack,No,86.48,94.6,Internet of Things (IoT),1
+Tanvi Verma,"NLP, Automation, Machine Learning, Arduino, Python, Transformers",3,Yes,4,Mechanical,8.58,"Android Certification, Kaggle Micro-Course",No,88.33,82.0,Natural Language Processing (NLP),1
+Manish Patel,"Azure, Kotlin",0,No,5,Electrical,6.77,"Udemy Full Stack, Kaggle Micro-Course, PMP basics",No,83.68,75.44,Project Management,0
+Simran Iyer,Machine Learning,4,Yes,3,CSE,7.18,Udemy Full Stack,No,81.95,72.9,Machine Learning,1
+Kavya Singh,"Android Development, Swift",1,No,5,IT,5.82,IBM Data Science Professional Certificate,No,82.23,60.5,Mobile Application Development,0
+Vedant Das,"Unity, CSS, Solidity",1,No,4,Civil,9.07,PMP Certification,No,87.22,86.75,Game Development,1
+Tara Joshi,"JavaScript, NLP",2,No,2,Other,8.21,Google IT Support Certificate,No,77.34,89.06,Web Development,0
+Pooja Das,"Embedded Systems, SQL, SEO",0,No,4,IT,5.7,Cisco CCNA,No,96.04,65.68,Data Engineering,0
+Tanvi Rao,"SQL, AWS",1,Yes,3,ECE,8.57,Deep Learning Specialization,No,72.68,90.07,Data Science,1
+Isha Shah,Embedded Systems,2,Yes,2,Electrical,7.57,AWS Certified Solutions Architect,No,86.13,87.02,Robotics,1
+Manish Bhat,"Agile, Project Management",1,No,2,ECE,9.98,PMP Certification,No,93.28,99.0,Project Management,1
+Sneha Joshi,"Java, PyTorch, Android Development, Kotlin",1,No,5,Electrical,7.29,CS50 Introduction to CS,No,63.24,80.67,Mobile Application Development,1
+Tanvi Singh,"TensorFlow, Tableau, HTML, Automation",2,No,3,ECE,7.82,AWS Certified Solutions Architect,No,73.54,67.57,Electronics Design,0
+Riya Chopra,"Kotlin, Data Analysis, Java, Cyber Security, Swift",2,Yes,3,Other,7.1,Coursera Python,Yes,69.49,82.64,Mobile Application Development,0
+Vihaan Patel,"Transformers, Embedded Systems, NLP, Python",3,No,3,Mechanical,8.33,AWS Certified Solutions Architect,No,78.64,79.26,Natural Language Processing (NLP),1
+Karan Mehta,"Tableau, Big Data, ETL",3,No,4,Other,4.66,Certified Ethical Hacker,Yes,72.14,60.81,Data Engineering,0
+Ishaan Sharma,"Deep Learning, Data Analysis, Machine Learning",1,Yes,2,CSE,6.49,Google IT Support,No,75.59,65.86,Machine Learning,0
+Pooja Kumar,"IT Support, Networking, Kotlin",4,Yes,3,Other,6.3,Deep Learning Specialization,No,69.7,64.24,Information Technology (IT) Support,1
+Simran Das,"Embedded Systems, C/C++, Cyber Security",1,Yes,4,Electrical,5.71,PMP Certification,Yes,80.05,64.76,Internet of Things (IoT),0
+Pooja Malhotra,"Cisco, Docker, Networking",1,No,5,CSE,8.18,Java Programming Masterclass,No,83.61,82.76,Networking,0
+Riya Roy,"Embedded Systems, SEO, Networking",1,Yes,3,Other,7.1,AWS Certified Solutions Architect,No,80.9,79.18,Hardware Design,1
+Sneha Patel,"Transformers, NLP",3,Yes,2,Other,9.24,Tableau Certification,No,93.26,98.65,Natural Language Processing (NLP),1
+Rahul Joshi,,0,No,4,Electrical,7.73,Google IT Support Certificate,No,75.07,73.12,Natural Language Processing (NLP),0
+Vedant Kapoor,Tableau,1,No,3,Mechanical,7.58,Python for Everybody,No,85.83,70.63,Software Testing,1
+Kabir Joshi,"Cryptography, Solidity, Blockchain",1,No,5,Civil,5.32,Data Science Professional Certificate,No,78.59,58.6,Blockchain Technology,0
+Tara Singh,"Python, Software Testing, Kubernetes, Kotlin",0,Yes,4,Mechanical,7.31,Power BI Certification,No,74.51,73.08,Software Testing,1
+Manish Jain,"OpenCV, SQL, Data Analysis, Python",2,Yes,5,CSE,6.99,Python for Everybody,No,82.48,79.74,Data Science,1
+Manish Verma,"Cisco, Network Security",3,Yes,5,CSE,7.39,UI/UX Design Certificate,No,83.34,81.67,Networking,1
+Aditya Rao,"Android Development, Kotlin",0,No,3,IT,7.67,"NPTEL DBMS, Power BI Certification",No,67.56,86.54,Mobile Application Development,1
+Kabir Joshi,OpenCV,0,No,2,Other,5.59,"Udemy Full Stack, fast.ai course",No,85.74,60.79,Project Management,0
+Neha Saxena,Digital Marketing,0,Yes,3,Mechanical,4.77,"TensorFlow Specialization, Coursera Python",Yes,85.03,60.93,Digital Marketing,0
+Arjun Garg,Java,1,Yes,2,ECE,6.36,Cisco CCNA,No,75.49,70.42,Software Development,0
+Pooja Kumar,"UI/UX Design, CSS, Figma, Python",1,Yes,2,Electrical,9.11,fast.ai course,No,87.49,89.82,UI/UX Design,0
+Simran Verma,"IT Support, ETL, Networking",3,No,4,Other,7.66,AWS Cloud Practitioner,No,71.48,81.47,Information Technology (IT) Support,1
+Maya Gupta,Hadoop,1,Yes,4,Civil,7.59,Deep Learning Specialization,No,76.17,76.5,Hardware Design,0
+Aditya Pandey,,2,No,3,Other,6.87,"freeCodeCamp Certificate, Android Certification",No,76.69,74.56,Hardware Design,0
+Kabir Rao,"Automation, Angular, Arduino, OpenCV, Node.js",2,No,3,Mechanical,7.52,Python for Everybody,No,73.95,74.02,Augmented Reality (AR) / Virtual Reality (VR),1
+Sneha Rao,Deep Learning,3,Yes,1,Electrical,7.78,Java Programming Masterclass,No,81.96,80.73,Automation,1
+Isha Garg,Selenium,3,No,3,Other,7.56,CS50 Certificate,No,80.0,82.04,Game Development,0
+Prachi Das,"JavaScript, Tableau, HTML",1,Yes,4,Mechanical,5.74,IBM Data Science Professional Certificate,Yes,76.75,63.39,Web Development,1
+Rohit Malhotra,"VHDL, Deep Learning, Tableau",2,No,2,Civil,5.05,CS50 Introduction to CS,Yes,89.13,65.98,Artificial Intelligence,0
+Rohit Garg,"Deep Learning, NLP, Python",2,Yes,2,ECE,9.34,Data Science Professional Certificate,No,73.72,99.0,Machine Learning,1
+Neha Das,"CI/CD, SQL, Data Analysis, Python",1,No,2,Civil,7.49,PMP Certification,No,78.71,72.63,Data Science,1
+Rohit Nair,Linux,2,Yes,2,Civil,6.31,Google IT Support,No,90.03,70.07,Business Intelligence,0
+Prachi Nair,"Deep Learning, Computer Vision, Machine Learning",1,No,3,Civil,5.4,PMP Certification,No,83.8,68.49,Artificial Intelligence,0
+Maya Das,"Android Development, Java, Docker, Node.js, Swift",0,No,4,Civil,6.55,Java Programming Masterclass,No,91.95,76.49,Mobile Application Development,1
+Sneha Desai,"Automation, Software Testing, Networking",1,No,4,CSE,4.0,AWS Certified Solutions Architect,Yes,80.75,53.07,Software Testing,0
+Ishaan Garg,"Embedded Systems, C/C++",1,Yes,2,CSE,7.53,Udemy Full Stack,No,70.88,67.06,Internet of Things (IoT),0
+Vihaan Roy,"Data Analysis, SQL, Python",0,No,4,Electrical,7.27,"Certified Ethical Hacker, AWS Cloud Practitioner",No,78.43,73.2,Machine Learning,0
+Vihaan Nair,"Swift, Android Development, Kotlin",1,No,5,IT,7.3,Coursera ML,No,82.72,77.23,Mobile Application Development,1
+Neha Verma,Linux,1,Yes,3,ECE,7.01,"Power BI Certification, PMP basics",No,87.36,73.72,Game Development,1
+Tanvi Malhotra,"Solidity, Blockchain",0,No,2,CSE,7.68,Tableau Certification,No,91.04,76.41,Blockchain Technology,0
+Kavya Gupta,TensorFlow,0,No,5,IT,7.17,CS50 Introduction to CS,No,75.52,74.1,Digital Marketing,1
+Riya Kumar,"Power BI, ETL, Kubernetes",1,No,3,Electrical,8.68,UI/UX Design Certificate,No,81.21,93.48,DevOps,1
+Isha Pandey,"C/C++, Power BI, Embedded Systems, Figma",1,No,5,IT,6.3,IBM Data Science Professional Certificate,Yes,77.83,66.8,Internet of Things (IoT),0
+Ananya Bhat,"SQL, Data Analysis, Android Development",2,Yes,5,CSE,7.02,"Coursera ML, Google UX Design, Tableau Certification",No,81.41,73.0,Data Science,0
+Kavya Verma,"Solidity, Azure",2,Yes,3,Mechanical,8.42,Certified Ethical Hacker,No,88.8,90.86,Business Intelligence,1
+Tara Gupta,"Automation, SQL, Database Design",4,Yes,5,Electrical,7.23,CS50 Certificate,No,80.27,71.67,Database Management,1
+Aditya Kumar,Selenium,1,Yes,2,Civil,5.08,PMP Certification,Yes,85.13,55.05,Embedded Systems,0
+Ishaan Patel,"SQL, Machine Learning, Angular, Data Analysis, Python",2,Yes,3,IT,7.34,UI/UX Design Certificate,No,81.71,83.22,Data Science,0
+Karan Singh,"Linux, Unity, Cyber Security, Networking",0,No,5,ECE,9.14,Android Certification,No,75.77,89.02,Cyber Security,1
+Karan Das,CI/CD,2,Yes,2,Electrical,5.42,Tableau Certification,No,81.65,64.74,Electronics Design,0
+Tanvi Bhat,"SQL, Python",1,Yes,4,Other,7.79,"AWS Cloud Practitioner, fast.ai course, PMP basics",No,72.92,90.62,Natural Language Processing (NLP),0
+Leena Patel,"Cryptography, Figma, Solidity",3,No,2,CSE,6.29,"Google UX Design, NPTEL DBMS",No,78.51,75.98,Blockchain Technology,0
+Neha Bhat,"C/C++, SQL",2,Yes,3,ECE,7.8,AWS Cloud Practitioner,No,80.34,78.92,Embedded Systems,1
+Karan Pandey,Angular,1,No,3,IT,8.63,freeCodeCamp Certificate,No,74.45,90.54,Robotics,1
+Manish Chopra,"CI/CD, Selenium, Docker, Kubernetes",1,No,3,CSE,6.07,Python for Everybody,No,75.91,55.93,DevOps,0
+Neha Bhatt,"Data Analysis, Python, Machine Learning",0,No,4,IT,5.07,Google IT Support Certificate,Yes,73.29,57.52,Data Science,0
+Aditya Verma,"Deep Learning, OpenCV, ETL, Tableau",4,No,3,Civil,6.83,fast.ai course,No,71.54,70.76,Computer Vision,0
+Kabir Sharma,"Power BI, Embedded Systems, Selenium",2,Yes,5,CSE,6.41,Android Certification,No,79.55,68.94,Software Testing,1
+Prachi Nair,"CI/CD, SEO, Digital Marketing",0,No,5,IT,7.93,CS50 Certificate,No,71.65,79.37,Digital Marketing,1
+Vihaan Nair,"SQL, Database Design",2,No,4,Civil,8.6,PMP Certification,No,84.35,85.11,Database Management,1
+Vedant Jain,"Hadoop, Python, Android Development",4,Yes,5,CSE,7.0,Power BI Certification,No,73.18,74.03,Natural Language Processing (NLP),0
+Aditya Mehta,Spark,1,No,3,Civil,8.5,Certified Ethical Hacker,No,76.63,79.02,Digital Marketing,0
+Maya Bhat,"UI/UX Design, Figma, Power BI",2,No,3,Electrical,6.52,Cisco CCNA,No,84.31,72.51,UI/UX Design,0
+Isha Nair,"Java, Kotlin",2,No,5,Other,5.24,Certified Ethical Hacker,No,87.92,54.48,Mobile Application Development,0
+Arjun Iyer,"VHDL, Embedded Systems, Azure",1,No,4,Electrical,8.28,Java Programming Masterclass,No,84.04,85.15,Robotics,0
+Kabir Roy,"Hardware, IT Support, Android Development",4,No,2,CSE,6.02,UI/UX Design Certificate,No,82.62,72.31,Information Technology (IT) Support,0
+Sakshi Chopra,"Spark, Android Development",2,No,4,Mechanical,5.26,Certified Ethical Hacker,Yes,96.26,61.33,Big Data Analytics,0
+Ishaan Roy,"C/C++, React",0,No,4,Mechanical,7.68,freeCodeCamp Certificate,No,73.07,84.17,Embedded Systems,0
+Isha Malhotra,"Project Management, Swift",2,No,5,CSE,6.57,CS50 Introduction to CS,No,82.2,74.71,Project Management,1
+Neha Roy,"Deep Learning, Swift, Android Development, Machine Learning",3,No,4,Civil,7.85,Java Programming Masterclass,No,61.88,73.1,Machine Learning,0
+Aarav Gupta,"Cisco, Networking, Network Security",4,Yes,3,Mechanical,6.81,Google IT Support Certificate,No,70.92,73.19,Networking,1
+Ananya Patel,"IT Support, Docker, Networking",1,No,2,ECE,7.29,Data Science Professional Certificate,No,79.7,80.44,Information Technology (IT) Support,1
+Kabir Garg,"Embedded Systems, AWS, Python",1,Yes,5,Electrical,7.16,Data Science Professional Certificate,No,81.15,68.6,Robotics,1
+Kavya Jain,"Big Data, Docker",0,Yes,3,Electrical,8.46,Data Science Professional Certificate,No,83.33,90.02,Big Data Analytics,1
+Aarav Chopra,"Deep Learning, Hadoop, Big Data, Spark",1,Yes,3,CSE,6.26,Deep Learning Specialization,No,80.68,64.26,Big Data Analytics,1
+Karan Verma,"SEO, Digital Marketing",4,Yes,2,Other,7.29,"AWS Cloud Practitioner, Android Certification, fast.ai course",No,84.27,79.39,Digital Marketing,1
+Isha Mehta,"Embedded Systems, ETL, Android Development",3,No,2,ECE,6.92,Python for Everybody,No,84.56,76.93,DevOps,0
+Leena Rao,iOS Development,0,No,3,ECE,7.13,Java Programming Masterclass,No,86.14,66.82,DevOps,1
+Aditya Khan,Arduino,1,Yes,5,Electrical,5.3,Deep Learning Specialization,Yes,80.99,60.78,Big Data Analytics,0
+Tara Rao,"Figma, Linux, Docker, Kubernetes, C++",1,No,3,IT,5.11,Deep Learning Specialization,Yes,73.43,67.99,Cloud Computing,1
+Tara Nair,"Hardware, Networking",1,No,3,Electrical,6.96,Power BI Certification,No,76.97,72.59,Information Technology (IT) Support,1
+Aditya Nair,React,1,No,2,ECE,6.09,"Tableau Certification, NPTEL DBMS, Kaggle Micro-Course",Yes,74.98,70.21,Business Intelligence,0
+Manish Patel,,2,No,2,Mechanical,7.26,Udemy Full Stack,No,76.97,75.8,Automation,1
+Simran Kapoor,Unity,2,No,4,IT,5.59,TensorFlow Specialization,No,78.72,56.57,Big Data Analytics,0
+Karan Garg,"SQL, Power BI",3,No,3,Civil,4.49,AWS Certified Solutions Architect,Yes,86.84,57.3,Database Management,0
+Aditya Saxena,"Selenium, SEO, Digital Marketing",2,No,2,IT,8.66,Google IT Support Certificate,Yes,93.02,82.69,Digital Marketing,0
+Tanvi Bhatt,"Agile, Embedded Systems",1,Yes,1,CSE,7.69,CS50 Introduction to CS,Yes,72.07,87.26,Project Management,1
+Vihaan Garg,CSS,0,No,2,ECE,5.14,freeCodeCamp Certificate,Yes,90.59,62.18,Database Management,0
+Ishaan Shah,SEO,0,No,2,Civil,5.35,UI/UX Design Certificate,Yes,70.28,61.07,Digital Marketing,0
+Tara Shah,Arduino,0,No,2,CSE,7.42,Java Programming Masterclass,No,76.92,82.04,Electronics Design,0
+Karan Kapoor,"UI/UX Design, Figma, Docker",1,Yes,4,IT,7.59,Coursera ML,No,85.27,83.1,UI/UX Design,1
+Ananya Jain,"Automation, Selenium",1,Yes,3,ECE,7.23,"Kaggle Micro-Course, Cisco CCNA",No,82.64,74.52,Software Testing,1
+Manish Joshi,"UI/UX Design, Figma, Swift",3,No,4,ECE,5.86,Udemy Full Stack,Yes,77.76,59.0,UI/UX Design,1
+Prachi Jain,"Agile, React, Project Management",3,No,5,ECE,6.01,CS50 Introduction to CS,No,79.65,62.54,Project Management,0
+Tanvi Khan,"Unity, Power BI, SEO",1,No,2,IT,6.84,AWS Certified Solutions Architect,No,74.19,72.59,Automation,0
+Prachi Kapoor,"Automation, Machine Learning",1,No,1,Other,8.08,AWS Certified Solutions Architect,No,80.72,79.57,Augmented Reality (AR) / Virtual Reality (VR),1
+Simran Verma,"SQL, Data Analysis, Python, Machine Learning",1,Yes,2,Civil,7.81,CS50 Introduction to CS,No,88.14,80.24,Data Science,1
+Karan Gupta,Spark,0,No,2,Electrical,6.89,PMP Certification,No,79.19,73.9,Big Data Analytics,0
+Manish Gupta,Database Design,0,No,5,CSE,6.63,CS50 Certificate,No,88.68,81.15,Database Management,1
+Tanvi Kumar,"Node.js, Embedded Systems, Cyber Security, Kubernetes",2,No,4,Other,6.83,Data Science Professional Certificate,No,72.89,75.41,Embedded Systems,0
+Manish Iyer,"Deep Learning, Python",2,Yes,3,Civil,7.23,TensorFlow Specialization,No,72.32,65.58,Artificial Intelligence,0
+Aditya Bhatt,"Cisco, Networking, Network Security",0,No,3,CSE,6.43,UI/UX Design Certificate,No,83.94,69.43,Networking,0
+Simran Kumar,"Hadoop, Arduino",2,Yes,4,Mechanical,6.58,"Coursera Python, IBM Data Science Professional Certificate, Azure Fundamentals",No,82.29,74.81,Big Data Analytics,0
+Maya Das,"Data Analysis, Android Development",1,Yes,4,ECE,8.65,Google IT Support Certificate,No,83.81,85.53,Data Science,1
+Vedant Chopra,"React, CSS, HTML, Blockchain",2,Yes,4,Civil,9.26,Certified Ethical Hacker,No,82.3,92.18,Web Development,1
+Maya Bhat,VHDL,1,No,2,Other,5.99,Python for Everybody,Yes,71.69,72.73,Game Development,0
+Aarav Bhat,"CI/CD, JavaScript",1,No,3,CSE,8.47,"freeCodeCamp Certificate, Azure Fundamentals",No,90.53,88.27,Hardware Design,1
+Kavya Kumar,,1,Yes,1,CSE,6.54,Java Programming Masterclass,No,80.77,74.46,Mobile Application Development,0
+Manish Singh,Hadoop,2,No,2,CSE,8.39,Data Science Professional Certificate,No,74.64,87.65,Big Data Analytics,0
+Ishaan Joshi,Power BI,2,No,2,Mechanical,5.25,Deep Learning Specialization,Yes,78.7,73.61,Electronics Design,0
+Sneha Saxena,Deep Learning,4,No,5,IT,6.72,TensorFlow Specialization,No,80.73,71.68,Artificial Intelligence,1
+Kabir Roy,"HTML, SEO",0,No,4,Other,6.82,Azure Fundamentals,No,63.21,70.52,Digital Marketing,0
+Sakshi Kapoor,Selenium,1,No,4,Civil,6.76,AWS Certified Solutions Architect,No,90.27,71.79,Natural Language Processing (NLP),1
+Karan Garg,"CI/CD, Docker, Android Development",1,No,3,Civil,8.18,Deep Learning Specialization,No,85.86,87.96,DevOps,1
+Riya Jain,"Embedded Systems, Control Systems, Python",2,No,4,Civil,5.66,CS50 Introduction to CS,Yes,77.75,66.18,Robotics,0
+Ananya Rao,"Linux, Kubernetes",1,Yes,4,Electrical,4.72,Data Science Professional Certificate,Yes,75.76,53.59,Cloud Computing,0
+Simran Nair,"Cloud Computing, Docker",5,Yes,1,Other,5.84,Certified Ethical Hacker,No,87.54,60.93,Cloud Computing,0
+Maya Kapoor,"C/C++, PyTorch",0,No,4,ECE,4.97,Deep Learning Specialization,No,86.15,57.27,Internet of Things (IoT),1
+Riya Gupta,"TensorFlow, Docker, JavaScript",2,No,3,Mechanical,7.68,Python for Everybody,No,76.6,84.24,DevOps,0
+Tanvi Patel,"Hadoop, Spark, PyTorch, Networking",2,Yes,3,IT,7.21,Python for Everybody,No,83.26,73.19,Big Data Analytics,1
+Aditya Gupta,"Kotlin, PyTorch, Python, Deep Learning, Computer Vision",5,No,2,Mechanical,5.69,Kaggle Micro-Course,No,69.48,60.02,Artificial Intelligence,0
+Rohit Garg,"Kubernetes, Hadoop, Hardware, Networking",1,Yes,3,CSE,8.59,IBM Data Science Professional Certificate,No,86.43,84.24,Information Technology (IT) Support,0
+Leena Malhotra,Docker,1,Yes,3,Mechanical,7.15,Google UX Design,Yes,84.51,71.74,Electronics Design,0
+Tanvi Gupta,JavaScript,1,No,3,ECE,6.92,fast.ai course,No,70.37,80.4,Big Data Analytics,1
+Ishaan Singh,Cyber Security,2,No,4,Other,6.78,fast.ai course,No,76.02,63.09,Cyber Security,1
+Neha Chopra,Node.js,1,Yes,2,Civil,6.22,"NPTEL DBMS, Coursera ML, Android Certification",No,93.12,72.34,Augmented Reality (AR) / Virtual Reality (VR),1
+Leena Bhat,"Hadoop, Android Development",1,No,2,Other,6.51,Google IT Support Certificate,No,72.0,76.59,Electronics Design,1
+Vihaan Patel,Cryptography,0,No,3,Mechanical,6.85,Python for Everybody,No,79.18,82.16,Blockchain Technology,0
+Rahul Saxena,Linux,0,No,3,IT,10.0,"CS50 Certificate, Coursera ML",No,68.07,95.15,Cyber Security,0
+Manish Saxena,"C/C++, Python",2,No,3,Electrical,6.87,CS50 Introduction to CS,No,86.21,73.31,Internet of Things (IoT),1
+Prachi Bhatt,"Docker, Cyber Security, Networking, Azure",3,Yes,3,Other,6.45,Certified Ethical Hacker,No,87.96,77.21,Cyber Security,1
+Arjun Mehta,"Hadoop, Big Data, Spark",2,No,2,CSE,5.26,"PMP basics, Coursera ML",Yes,79.92,62.69,Big Data Analytics,0
+Neha Gupta,Big Data,0,No,2,Other,6.79,"Udemy Full Stack, Power BI Certification, Kaggle Micro-Course",No,77.41,81.3,Big Data Analytics,1
+Pooja Jain,"C/C++, Python",2,Yes,2,Civil,6.78,Android Certification,No,88.84,78.67,Internet of Things (IoT),1
+Arjun Nair,UI/UX Design,1,No,1,IT,6.7,PMP Certification,No,84.86,76.7,UI/UX Design,1
+Leena Malhotra,"Cisco, Networking, Network Security",0,No,4,ECE,7.47,"NPTEL DBMS, CS50 Certificate, Azure Fundamentals",No,78.12,75.32,Networking,1
+Sneha Kapoor,Kubernetes,1,No,4,Mechanical,5.8,Python for Everybody,Yes,92.44,63.42,Game Development,0
+Pooja Jain,"C/C++, Tableau",2,Yes,3,Electrical,6.37,Deep Learning Specialization,No,78.6,70.43,Embedded Systems,1
+Aarav Roy,Transformers,1,Yes,4,IT,5.78,"freeCodeCamp Certificate, Android Certification",Yes,78.89,69.64,Natural Language Processing (NLP),0
+Vihaan Rao,"C++, Data Structures",0,Yes,4,Electrical,7.14,AWS Certified Solutions Architect,No,82.26,74.9,Software Development,0
+Prachi Kumar,"Agile, Project Management, Azure",4,Yes,3,IT,7.1,Certified Ethical Hacker,No,88.48,70.69,Project Management,1
+Riya Chopra,C++,1,No,5,Other,7.0,"Udemy Full Stack, TensorFlow Specialization, Cisco CCNA",No,86.9,72.48,Mobile Application Development,0
+Pooja Iyer,"Agile, Automation, SEO, Solidity",1,No,3,ECE,6.0,UI/UX Design Certificate,No,71.08,67.56,Project Management,1
+Neha Malhotra,"Machine Learning, Kotlin, Python, Solidity",0,No,4,CSE,6.0,"Google IT Support, Android Certification, fast.ai course",No,79.18,64.99,Internet of Things (IoT),0
+Leena Chopra,"TensorFlow, VHDL",1,Yes,1,Civil,6.52,CS50 Certificate,No,74.72,76.04,Electronics Design,1
+Leena Garg,Docker,1,Yes,2,Other,6.57,"NPTEL DBMS, Cisco CCNA, PMP basics",No,79.56,74.09,DevOps,0
+Aarav Jain,"IT Support, Figma, Networking",2,No,1,Civil,7.04,Google IT Support Certificate,No,82.05,74.97,Information Technology (IT) Support,0
+Leena Desai,Azure,1,No,4,Mechanical,5.55,Java Programming Masterclass,Yes,81.51,65.7,Internet of Things (IoT),0
+Neha Gupta,Power BI,0,No,2,ECE,6.85,UI/UX Design Certificate,No,74.52,74.76,Augmented Reality (AR) / Virtual Reality (VR),0
+Arjun Mehta,"CI/CD, Docker, Kubernetes, PyTorch",2,No,3,IT,8.44,Cisco CCNA,No,84.82,94.05,DevOps,1
+Rohit Iyer,"Big Data, Android Development",2,Yes,2,IT,8.21,"fast.ai course, Google IT Support",No,88.55,82.31,Data Engineering,1
+Maya Pandey,Swift,2,Yes,1,Electrical,8.08,Coursera ML,No,87.23,77.86,Business Intelligence,0
+Pooja Rao,"Linux, Networking",2,Yes,4,Mechanical,8.91,UI/UX Design Certificate,No,85.1,82.78,Cloud Computing,1
+Prachi Nair,SQL,2,No,4,IT,7.19,Certified Ethical Hacker,No,90.2,75.65,Database Management,0
+Sakshi Iyer,"Automation, Azure",1,Yes,1,Mechanical,8.54,Certified Ethical Hacker,No,83.14,70.23,Automation,1
+Aarav Gupta,"Embedded Systems, Tableau",0,No,4,Civil,6.75,Udemy Full Stack,No,76.35,66.97,Internet of Things (IoT),0
+Kabir Gupta,"Automation, Software Testing",1,No,3,CSE,7.51,Java Programming Masterclass,No,76.79,77.2,Software Testing,1
+Vihaan Nair,"Embedded Systems, C/C++, Python",1,Yes,3,Electrical,6.75,fast.ai course,No,77.32,76.45,Internet of Things (IoT),0
+Kabir Chopra,C/C++,2,Yes,3,CSE,7.0,Deep Learning Specialization,No,82.91,76.27,Embedded Systems,0
+Vihaan Chopra,"React, Networking, Machine Learning, JavaScript, OpenCV, HTML",1,No,4,ECE,5.67,Deep Learning Specialization,Yes,74.55,70.83,Web Development,0
+Isha Gupta,"Deep Learning, Computer Vision, Python, Machine Learning",4,No,3,ECE,7.08,freeCodeCamp Certificate,No,72.08,75.62,Artificial Intelligence,1
+Simran Kapoor,Cisco,2,Yes,4,CSE,6.5,Data Science Professional Certificate,No,68.86,66.01,Networking,1
+Pooja Singh,"Deep Learning, Python",3,Yes,2,Mechanical,7.58,CS50 Introduction to CS,No,91.95,67.73,Machine Learning,0
+Tanvi Pandey,"UI/UX Design, HTML, Selenium, ETL",2,Yes,4,IT,6.79,CS50 Certificate,No,82.85,75.65,UI/UX Design,1
+Sakshi Pandey,"NLP, Automation, Python",2,Yes,2,Other,7.07,Deep Learning Specialization,No,82.64,64.64,Natural Language Processing (NLP),0
+Vihaan Singh,"SQL, Docker, Data Analysis, Machine Learning",2,No,4,Civil,8.05,IBM Data Science Professional Certificate,No,78.25,78.59,Data Science,0
+Arjun Singh,"Hardware, Deep Learning, IT Support, Networking",0,Yes,3,Other,7.66,Google IT Support,No,74.32,83.52,Information Technology (IT) Support,0
+Leena Pandey,Java,0,No,3,Mechanical,6.9,"Android Certification, Azure Fundamentals",No,90.93,70.72,Automation,1
+Maya Pandey,"Selenium, Software Testing, Blockchain",2,Yes,5,IT,7.74,IBM Data Science Professional Certificate,No,92.15,82.47,Software Testing,1
+Rahul Garg,"Solidity, Swift",1,No,3,CSE,7.77,"Cisco CCNA, IBM Data Science Professional Certificate, CS50 Certificate",No,82.32,78.21,Blockchain Technology,1
+Vihaan Rao,"CI/CD, Tableau, TensorFlow, Figma",4,No,5,CSE,7.54,UI/UX Design Certificate,No,72.07,67.61,UI/UX Design,0
+Arjun Iyer,"Hadoop, Big Data, Solidity",2,No,3,ECE,6.15,Azure Fundamentals,No,73.46,74.51,Big Data Analytics,0
+Ishaan Malhotra,C++,0,No,3,Mechanical,5.21,UI/UX Design Certificate,No,73.21,55.63,Electronics Design,0
+Ananya Nair,Machine Learning,0,No,3,IT,6.12,Google IT Support Certificate,No,69.8,69.6,Artificial Intelligence,1
+Tanvi Garg,React,0,No,5,CSE,6.63,CS50 Introduction to CS,No,89.26,73.5,Cyber Security,0
+Tara Roy,Networking,0,Yes,3,Electrical,7.6,Certified Ethical Hacker,No,99.0,78.5,Hardware Design,0
+Sneha Saxena,Hardware,1,No,3,Other,6.22,"Google IT Support, TensorFlow Specialization, NPTEL DBMS",Yes,84.1,58.64,Information Technology (IT) Support,0
+Neha Gupta,"SQL, SEO, Digital Marketing",2,Yes,3,Electrical,7.9,Java Programming Masterclass,No,82.98,83.18,Digital Marketing,1
+Ananya Bhat,"C++, Java, Python",0,No,5,Civil,6.56,Android Certification,No,76.29,67.94,Software Development,0
+Kabir Singh,"SQL, Database Design",1,Yes,3,Other,9.45,AWS Cloud Practitioner,No,69.3,88.09,Database Management,1
+Maya Verma,Swift,2,No,3,Civil,6.16,Google IT Support Certificate,No,81.42,62.54,Automation,0
+Ishaan Sharma,C++,3,No,2,CSE,7.49,Data Science Professional Certificate,No,80.02,84.45,Business Intelligence,0
+Kavya Gupta,Azure,1,No,5,Civil,7.78,AWS Certified Solutions Architect,No,75.76,76.32,Automation,0
+Pooja Jain,"React, CSS",1,Yes,2,Electrical,7.85,AWS Certified Solutions Architect,No,71.03,71.31,Web Development,0
+Manish Shah,"JavaScript, Deep Learning, Hadoop, HTML",0,Yes,4,Electrical,7.54,Data Science Professional Certificate,No,73.4,83.54,Computer Vision,1
+Tara Patel,"Android Development, Java, Python, Data Structures, C++",0,No,2,IT,9.23,Certified Ethical Hacker,No,93.45,82.93,Software Development,0
+Ishaan Garg,Data Analysis,3,No,3,Other,7.98,PMP Certification,No,84.78,70.98,Electronics Design,0
+Maya Mehta,"Deep Learning, iOS Development, Computer Vision, Tableau",1,No,3,Other,8.01,Google UX Design,Yes,80.21,76.39,Computer Vision,1
+Pooja Roy,"Unity, Linux, Docker, Kubernetes, Cloud Computing",3,No,3,IT,5.63,UI/UX Design Certificate,Yes,84.26,56.39,Cloud Computing,0
+Riya Iyer,Kubernetes,0,No,4,Other,10.0,Python for Everybody,No,80.34,99.0,DevOps,1
+Sneha Iyer,"Power BI, SQL, CSS",0,No,2,Mechanical,6.3,Google IT Support Certificate,No,90.5,72.74,Web Development,1
+Ananya Khan,Networking,1,Yes,4,Electrical,8.01,AWS Certified Solutions Architect,No,75.68,85.86,Game Development,0
+Isha Bhatt,Automation,2,No,3,Mechanical,6.52,Azure Fundamentals,No,77.23,69.29,Software Testing,1
+Vedant Jain,"JavaScript, OpenCV, React, HTML",1,No,4,CSE,4.94,Java Programming Masterclass,Yes,88.52,75.23,Web Development,1
+Aditya Patel,"Android Development, Swift",3,No,2,ECE,6.71,Android Certification,No,77.22,72.47,Mobile Application Development,0
+Aarav Shah,Swift,0,Yes,1,Mechanical,8.2,CS50 Certificate,Yes,87.26,75.7,Game Development,0
+Pooja Das,"Embedded Systems, iOS Development, C/C++, Python",0,No,3,Civil,6.51,Cisco CCNA,No,83.22,72.31,Internet of Things (IoT),0
+Simran Saxena,"Hadoop, Big Data, HTML, Spark",1,Yes,4,Electrical,7.98,Udemy Full Stack,No,69.99,90.95,Big Data Analytics,1
+Arjun Rao,"Hardware, IT Support, Networking, Machine Learning",2,Yes,4,Other,7.39,Data Science Professional Certificate,No,86.07,72.81,Information Technology (IT) Support,0
+Rahul Sharma,"CI/CD, Linux",3,Yes,4,Mechanical,5.98,Power BI Certification,Yes,75.09,62.09,Automation,1
+Prachi Gupta,"Embedded Systems, C/C++",2,No,2,Other,6.92,Data Science Professional Certificate,Yes,82.39,69.65,Internet of Things (IoT),0
+Riya Iyer,"CI/CD, Kubernetes",0,No,1,CSE,6.65,IBM Data Science Professional Certificate,No,90.88,75.3,DevOps,0
+Isha Mehta,"CI/CD, Selenium, Kubernetes, VHDL",2,Yes,4,CSE,6.99,TensorFlow Specialization,No,93.94,82.65,DevOps,0
+Aarav Roy,SQL,0,No,3,Civil,9.59,Power BI Certification,No,86.7,99.0,Data Engineering,1
+Tanvi Mehta,"Agile, Project Management",1,No,4,Civil,5.31,UI/UX Design Certificate,No,80.49,59.38,Project Management,1
+Sakshi Bhat,"iOS Development, Big Data, ETL",2,Yes,3,Other,6.02,Python for Everybody,No,85.66,69.17,Data Engineering,0
+Aarav Sharma,"Hardware, Networking",1,No,4,Mechanical,6.57,IBM Data Science Professional Certificate,No,89.31,81.03,Information Technology (IT) Support,0
+Aarav Verma,iOS Development,1,No,3,Mechanical,6.24,Data Science Professional Certificate,No,86.3,70.96,Automation,0
+Arjun Gupta,"Hadoop, SQL, HTML, Networking",1,No,3,Electrical,7.25,UI/UX Design Certificate,No,69.5,80.48,UI/UX Design,0
+Ishaan Singh,Deep Learning,0,No,3,CSE,8.28,Google UX Design,No,70.34,77.36,Digital Marketing,0
+Karan Patel,"Selenium, Software Testing, ETL",0,No,3,CSE,8.6,Python for Everybody,No,76.08,86.15,Software Testing,0
+Rohit Garg,,2,Yes,5,ECE,8.55,PMP Certification,No,87.62,85.08,Game Development,1
+Kavya Shah,CI/CD,3,Yes,3,ECE,8.0,PMP Certification,No,83.46,81.22,Game Development,0
+Leena Roy,VHDL,2,No,2,Other,7.78,Java Programming Masterclass,No,84.66,84.53,Augmented Reality (AR) / Virtual Reality (VR),1
+Ananya Malhotra,"React, iOS Development",0,No,4,Civil,7.82,Java Programming Masterclass,No,99.0,76.48,Web Development,0
+Maya Kumar,CSS,1,No,4,Other,6.35,Power BI Certification,No,89.65,60.57,Automation,0
+Manish Roy,HTML,1,Yes,2,Other,5.55,Java Programming Masterclass,No,81.02,60.6,Automation,1
+Tara Das,OpenCV,1,No,3,Other,7.59,PMP Certification,No,83.74,71.93,Computer Vision,0
+Arjun Bhatt,NLP,1,No,1,Mechanical,8.16,Data Science Professional Certificate,No,83.2,87.89,Business Intelligence,1
+Leena Das,"Angular, NLP, SEO",2,No,2,IT,6.15,Google IT Support Certificate,No,78.08,75.32,Digital Marketing,1
+Neha Chopra,"CI/CD, Embedded Systems, Python, Tableau",2,Yes,3,Electrical,6.94,"AWS Cloud Practitioner, Coursera ML, Udemy Full Stack",Yes,81.18,64.47,Internet of Things (IoT),1
+Kavya Nair,"Cisco, Java, Networking",2,Yes,4,Civil,6.62,"PMP basics, Coursera Python",No,86.13,79.53,Networking,0
+Ananya Pandey,"Agile, Docker, Project Management, Swift",2,Yes,4,Electrical,8.6,AWS Cloud Practitioner,No,83.23,94.53,Project Management,1
+Sneha Rao,"CSS, Selenium",2,Yes,4,Civil,6.16,"Tableau Certification, Google IT Support, freeCodeCamp Certificate",No,81.99,74.72,Electronics Design,1
+Manish Jain,Python,1,Yes,3,Mechanical,5.28,Power BI Certification,Yes,88.91,59.93,Electronics Design,0
+Vedant Kapoor,Deep Learning,4,No,4,Electrical,8.07,Data Science Professional Certificate,No,84.76,77.61,Computer Vision,0
+Vedant Pandey,Cyber Security,1,Yes,5,ECE,6.81,Java Programming Masterclass,No,74.11,83.95,Embedded Systems,0
+Simran Saxena,,1,No,3,ECE,7.56,CS50 Introduction to CS,No,84.67,80.75,Electronics Design,0
+Neha Patel,"Java, Python, Data Structures, ETL, Kubernetes, C++, Cyber Security",1,Yes,5,Civil,7.16,Kaggle Micro-Course,No,78.43,74.97,Software Development,0
+Leena Saxena,"Embedded Systems, Java, Data Analysis, Solidity",2,Yes,4,CSE,7.74,CS50 Introduction to CS,No,80.68,88.29,Embedded Systems,1
+Karan Joshi,"SQL, Machine Learning",1,Yes,3,CSE,7.13,Certified Ethical Hacker,No,79.51,74.46,Database Management,1
+Sakshi Shah,"Python, Machine Learning",0,Yes,3,Mechanical,8.32,CS50 Certificate,No,79.45,76.54,Machine Learning,1
+Pooja Chopra,"SQL, Machine Learning, Embedded Systems, Data Analysis, Unity, Python",0,Yes,1,Mechanical,8.19,Java Programming Masterclass,No,79.49,86.57,Data Science,1
+Tanvi Chopra,"HTML, Python",0,Yes,3,Electrical,5.24,Deep Learning Specialization,Yes,79.11,59.6,Artificial Intelligence,0
+Pooja Shah,"Deep Learning, Big Data, AWS, ETL",1,No,4,IT,6.53,Deep Learning Specialization,No,74.43,70.29,Data Engineering,0
+Tanvi Gupta,"C++, iOS Development",1,No,2,Other,7.43,AWS Certified Solutions Architect,No,92.5,81.14,Hardware Design,1
+Arjun Jain,SQL,1,No,5,Electrical,5.95,"IBM Data Science Professional Certificate, fast.ai course, Tableau Certification",No,83.77,63.15,Game Development,0
+Prachi Kapoor,,1,Yes,2,IT,6.2,IBM Data Science Professional Certificate,No,80.6,72.27,Augmented Reality (AR) / Virtual Reality (VR),0
+Riya Desai,"JavaScript, Python, VHDL",1,Yes,3,Mechanical,8.43,NPTEL DBMS,No,82.14,90.86,Robotics,1
+Maya Joshi,"Cryptography, Blockchain",0,No,3,IT,5.78,freeCodeCamp Certificate,No,83.65,72.24,Blockchain Technology,0
+Neha Kapoor,"C++, Data Structures",1,No,4,IT,4.89,Certified Ethical Hacker,No,71.7,49.08,Software Development,0
+Vihaan Singh,"Automation, Selenium",1,No,3,Other,7.78,Python for Everybody,No,83.56,81.94,Networking,0
+Kavya Shah,"Cisco, Java, Networking, Network Security",0,No,4,Electrical,8.0,NPTEL DBMS,No,82.0,76.98,Networking,0
+Manish Verma,"Cloud Computing, Linux, Kubernetes",2,No,3,CSE,4.79,Coursera ML,No,87.27,60.68,Cloud Computing,0
+Leena Malhotra,"Agile, Project Management",2,Yes,2,Civil,7.03,"Coursera Python, Azure Fundamentals",No,83.98,77.37,Project Management,1
+Kabir Verma,"Cisco, Networking, Network Security",1,No,4,IT,8.4,CS50 Certificate,No,73.51,82.34,Networking,1
+Vedant Khan,"Python, Kotlin",1,Yes,3,Other,6.98,"Coursera ML, Certified Ethical Hacker",No,87.54,71.6,Robotics,1
+Riya Verma,"Spark, Docker, ETL",1,No,2,CSE,6.02,Python for Everybody,No,82.77,55.88,Cloud Computing,1
+Kabir Shah,"Node.js, Deep Learning, Data Analysis, Machine Learning",1,No,2,CSE,6.51,Udemy Full Stack,No,72.69,66.63,Machine Learning,0
+Rahul Kumar,Arduino,4,Yes,5,Mechanical,7.2,Android Certification,No,84.73,73.57,Automation,0
+Pooja Jain,"Embedded Systems, C/C++, Kubernetes",3,No,2,CSE,6.69,Google IT Support Certificate,No,77.41,71.76,Embedded Systems,1
+Aditya Gupta,VHDL,0,No,3,CSE,8.27,Python for Everybody,No,82.41,82.41,Augmented Reality (AR) / Virtual Reality (VR),1
+Rohit Kapoor,"Embedded Systems, C/C++, Python",2,No,5,Mechanical,7.52,Certified Ethical Hacker,No,81.24,80.13,Internet of Things (IoT),1
+Karan Nair,"JavaScript, Tableau, CSS, HTML",2,Yes,4,ECE,8.89,Google IT Support,No,85.19,85.94,Web Development,1
+Ishaan Kapoor,Database Design,1,Yes,3,Civil,6.67,Google IT Support,No,81.89,71.62,Database Management,0
+Kavya Khan,"JavaScript, React",0,No,4,Mechanical,9.63,Data Science Professional Certificate,No,76.76,99.0,Web Development,1
+Aarav Rao,Agile,3,No,3,IT,8.96,Azure Fundamentals,No,74.74,92.5,Project Management,0
+Neha Kumar,Selenium,0,Yes,4,Civil,7.92,Power BI Certification,No,96.63,80.83,Business Intelligence,1
+Tara Joshi,Automation,0,No,3,Other,8.47,Google IT Support Certificate,No,79.71,93.96,Automation,1
+Simran Saxena,"C++, Selenium",1,Yes,4,Electrical,4.45,Udemy Full Stack,Yes,73.73,60.63,Software Development,0
+Karan Singh,"C++, Java, Python",2,Yes,3,CSE,6.76,"Udemy Full Stack, AWS Cloud Practitioner",No,80.52,76.46,Software Development,1
+Tara Khan,"JavaScript, Linux, Python",4,No,5,Civil,5.13,CS50 Introduction to CS,No,88.75,60.44,Cloud Computing,1
+Aarav Verma,Python,0,No,5,IT,8.09,Coursera ML,No,82.04,78.84,Natural Language Processing (NLP),0
+Vihaan Roy,Arduino,1,Yes,2,CSE,6.06,Java Programming Masterclass,No,86.28,64.79,Software Testing,1
+Simran Khan,"Deep Learning, Docker, Kubernetes",1,No,4,ECE,5.19,Google IT Support Certificate,Yes,90.21,63.67,DevOps,1
+Simran Desai,"Computer Vision, SEO, AWS, Python",1,No,3,CSE,7.75,freeCodeCamp Certificate,No,71.15,75.11,Artificial Intelligence,1
+Vedant Shah,"HTML, Embedded Systems, Control Systems, Python",0,No,2,Mechanical,7.05,Power BI Certification,No,81.8,65.71,Robotics,1
+Rahul Kumar,SEO,1,Yes,4,IT,6.43,"Azure Fundamentals, TensorFlow Specialization",No,72.75,61.78,Digital Marketing,1
+Sakshi Rao,"SQL, Digital Marketing",2,Yes,4,CSE,7.04,"Coursera ML, NPTEL DBMS, Udemy Full Stack",No,89.15,78.18,Digital Marketing,1
+Karan Iyer,"CI/CD, Docker, Kubernetes",0,Yes,4,Civil,6.8,Certified Ethical Hacker,No,85.48,76.78,DevOps,0
+Prachi Desai,"Arduino, Swift",1,No,3,Mechanical,4.64,Udemy Full Stack,Yes,76.26,53.0,Hardware Design,0
+Manish Singh,"C++, PyTorch, Python, Deep Learning",2,No,4,Mechanical,4.9,Deep Learning Specialization,Yes,79.44,57.31,Software Development,1
+Manish Kumar,"JavaScript, CSS, HTML, Solidity",2,Yes,3,Electrical,8.28,"IBM Data Science Professional Certificate, TensorFlow Specialization",No,57.59,74.34,Web Development,1
+Karan Jain,"Selenium, Kotlin",0,No,3,ECE,5.57,AWS Cloud Practitioner,Yes,75.56,60.4,Automation,1
+Kabir Nair,Spark,2,Yes,2,ECE,5.32,"Udemy Full Stack, freeCodeCamp Certificate, IBM Data Science Professional Certificate",Yes,72.45,53.36,Augmented Reality (AR) / Virtual Reality (VR),0
+Kabir Roy,"SQL, Database Design, Networking",2,Yes,3,CSE,6.21,Google IT Support Certificate,No,74.48,72.54,Database Management,0
+Karan Jain,"VHDL, Big Data, Cyber Security, ETL",0,No,1,IT,9.92,Python for Everybody,No,79.36,94.5,Data Engineering,1
+Tanvi Malhotra,CI/CD,1,No,2,CSE,7.85,Data Science Professional Certificate,No,88.01,75.06,DevOps,0
+Isha Kumar,Linux,1,No,3,Mechanical,8.29,Deep Learning Specialization,No,70.1,83.39,Cyber Security,0
+Maya Verma,"TensorFlow, Embedded Systems, OpenCV, C/C++",1,No,3,ECE,6.79,fast.ai course,No,87.75,77.89,Embedded Systems,1
+Kabir Joshi,"Deep Learning, C++, Machine Learning",3,No,4,IT,7.01,Deep Learning Specialization,No,88.95,79.03,Machine Learning,1
+Manish Khan,SQL,1,Yes,2,ECE,8.22,"IBM Data Science Professional Certificate, TensorFlow Specialization",No,87.07,87.61,Data Engineering,1
+Leena Shah,"VHDL, Deep Learning, Machine Learning",1,Yes,3,Electrical,6.62,Cisco CCNA,No,82.89,68.42,Machine Learning,0
+Kabir Nair,"Java, Android Development, Network Security",1,No,3,Other,8.5,Certified Ethical Hacker,No,76.08,83.9,Networking,0
+Rahul Verma,"CSS, HTML, Solidity",0,No,3,CSE,7.21,UI/UX Design Certificate,No,69.54,81.85,Web Development,0
+Tanvi Verma,"Angular, AWS",1,No,2,ECE,7.36,Google UX Design,No,84.31,73.46,DevOps,0
+Ananya Malhotra,"Cloud Computing, OpenCV, Linux",2,No,3,Electrical,10.0,Deep Learning Specialization,No,96.15,89.68,Cloud Computing,1
+Leena Kapoor,React,0,No,5,ECE,6.92,"Udemy Full Stack, TensorFlow Specialization, Google UX Design",No,77.3,72.9,Web Development,0
+Kavya Bhat,PyTorch,0,No,4,ECE,8.57,Data Science Professional Certificate,Yes,89.43,78.54,Business Intelligence,0
+Vihaan Kapoor,"CI/CD, Spark, Linux, Networking",4,Yes,3,Electrical,7.44,AWS Certified Solutions Architect,No,81.73,84.76,Cyber Security,1
+Tara Malhotra,"Java, Machine Learning",0,No,2,IT,9.41,IBM Data Science Professional Certificate,No,71.65,89.66,Mobile Application Development,1
+Prachi Garg,"Big Data, SQL, Arduino, OpenCV, ETL",1,No,3,Mechanical,7.44,Java Programming Masterclass,No,74.85,81.65,Data Engineering,0
+Aditya Khan,,3,Yes,4,Other,7.13,Azure Fundamentals,No,79.94,74.99,Machine Learning,0
+Manish Sharma,"SQL, Machine Learning, Data Analysis, Solidity, Python",1,No,4,Electrical,7.89,UI/UX Design Certificate,No,80.64,87.52,Data Science,0
+Sakshi Pandey,"Deep Learning, PyTorch, Blockchain",2,No,3,Mechanical,9.42,Deep Learning Specialization,No,83.35,92.58,Artificial Intelligence,0
+Aarav Bhatt,"Cloud Computing, Linux",0,Yes,4,Mechanical,6.43,Certified Ethical Hacker,No,79.4,64.47,Cloud Computing,0
+Aditya Shah,"JavaScript, Deep Learning",0,No,3,Civil,7.95,Deep Learning Specialization,No,87.36,76.34,Computer Vision,1
+Karan Gupta,C/C++,0,Yes,3,ECE,8.95,Google IT Support Certificate,No,86.01,92.57,Internet of Things (IoT),0
+Maya Khan,"Swift, Android Development, Kotlin",1,No,2,CSE,6.56,Data Science Professional Certificate,No,77.95,66.81,Mobile Application Development,1
+Simran Bhat,"SQL, Database Design",1,No,3,Civil,7.04,Data Science Professional Certificate,Yes,79.71,76.35,Database Management,1
+Aditya Garg,"Embedded Systems, Python",0,Yes,1,ECE,6.23,Data Science Professional Certificate,No,78.24,70.98,Robotics,0
+Kabir Roy,"AWS, Python",1,No,2,Other,7.18,Google UX Design,No,86.52,76.92,Business Intelligence,1
+Aarav Kapoor,"Agile, Project Management",0,Yes,1,IT,8.53,Python for Everybody,No,85.76,80.47,Project Management,1
+Karan Jain,Embedded Systems,0,Yes,3,ECE,6.99,Java Programming Masterclass,No,72.34,80.37,Internet of Things (IoT),1
+Aarav Joshi,"Tableau, SEO, Digital Marketing",1,Yes,3,Other,6.95,Data Science Professional Certificate,Yes,83.49,65.86,Digital Marketing,1
+Rahul Singh,"Big Data, ETL",0,No,2,Electrical,9.31,Data Science Professional Certificate,No,78.7,94.2,Data Engineering,1
+Karan Das,Machine Learning,1,No,1,CSE,8.59,"IBM Data Science Professional Certificate, Google UX Design",No,93.47,83.66,Electronics Design,1
+Aditya Garg,"Transformers, JavaScript, Python",1,No,3,IT,8.19,Google IT Support Certificate,No,83.74,85.55,Natural Language Processing (NLP),1
+Simran Kapoor,"Deep Learning, Python, Computer Vision, Android Development",0,No,4,IT,6.93,"freeCodeCamp Certificate, Google IT Support, Android Certification",Yes,87.43,70.17,Computer Vision,1
+Aditya Verma,"React, CSS, HTML",1,Yes,2,CSE,5.07,Tableau Certification,Yes,77.19,63.04,Web Development,0
+Leena Iyer,"CI/CD, JavaScript",1,Yes,3,Civil,7.21,Deep Learning Specialization,No,83.44,73.47,DevOps,1
+Pooja Khan,"Automation, Unity, Selenium, Software Testing",2,Yes,2,ECE,6.66,Deep Learning Specialization,No,72.58,68.87,Software Testing,0
+Ananya Malhotra,ETL,0,No,1,IT,8.09,Certified Ethical Hacker,Yes,74.31,74.95,Electronics Design,1
+Sakshi Shah,"Deep Learning, OpenCV, Computer Vision",1,Yes,5,ECE,6.11,TensorFlow Specialization,No,81.48,68.94,Computer Vision,1
+Sneha Das,PyTorch,1,Yes,3,Other,6.69,CS50 Introduction to CS,No,76.15,81.26,Electronics Design,1
+Karan Pandey,Selenium,1,Yes,4,Electrical,7.45,UI/UX Design Certificate,No,79.69,86.11,Game Development,1
+Riya Desai,"Deep Learning, Computer Vision, Python, Machine Learning",1,Yes,4,CSE,6.41,Certified Ethical Hacker,No,66.75,61.4,Artificial Intelligence,0
+Aditya Sharma,"C++, Data Structures",1,No,4,Other,5.65,Java Programming Masterclass,Yes,77.78,61.66,Software Development,1
+Kavya Khan,"Deep Learning, React, iOS Development",0,No,3,ECE,7.7,Power BI Certification,No,64.91,79.57,Database Management,1
+Isha Saxena,CSS,1,No,4,Mechanical,7.22,"AWS Cloud Practitioner, TensorFlow Specialization",No,80.76,74.01,Augmented Reality (AR) / Virtual Reality (VR),1
+Rohit Pandey,"Deep Learning, Python, Machine Learning",2,Yes,1,ECE,6.36,Java Programming Masterclass,No,79.49,64.29,Artificial Intelligence,1
+Riya Mehta,"Linux, Cyber Security, Networking",2,Yes,5,CSE,7.18,CS50 Introduction to CS,No,76.42,71.18,Cyber Security,1
+Vihaan Shah,"Tableau, Java, Python, Data Structures, C++",0,No,4,IT,7.46,Google IT Support,Yes,91.26,78.18,Software Development,1
+Aarav Roy,,0,No,1,Electrical,6.46,PMP Certification,No,85.84,65.81,Digital Marketing,0
+Rohit Roy,"Deep Learning, Selenium, Computer Vision, Machine Learning",3,Yes,2,Electrical,6.67,UI/UX Design Certificate,No,83.6,76.5,Artificial Intelligence,1
+Pooja Khan,"SQL, Data Analysis, Python, Machine Learning",2,Yes,4,Mechanical,4.96,Deep Learning Specialization,No,81.36,54.16,Data Science,0
+Isha Garg,"VHDL, Networking, Docker, Kubernetes, CI/CD, Cloud Computing",1,No,3,Civil,8.79,PMP Certification,No,86.86,88.46,Cloud Computing,1
+Rahul Bhat,"Embedded Systems, Python",2,Yes,4,IT,8.62,Google UX Design,No,80.44,89.06,Internet of Things (IoT),1
+Simran Singh,"Power BI, Computer Vision",1,Yes,4,ECE,6.65,Udemy Full Stack,No,86.27,72.13,Artificial Intelligence,1
+Manish Sharma,OpenCV,1,No,3,Other,7.5,"CS50 Certificate, IBM Data Science Professional Certificate",No,80.59,71.89,Database Management,0
+Isha Saxena,"Embedded Systems, NLP",1,No,5,Other,7.42,PMP basics,No,76.36,70.0,Embedded Systems,0
+Aditya Roy,"Linux, Kubernetes",1,No,4,ECE,7.83,freeCodeCamp Certificate,No,82.12,84.04,Cloud Computing,0
+Neha Rao,"Cloud Computing, SQL, Docker, Linux",2,Yes,5,Mechanical,5.44,Data Science Professional Certificate,Yes,70.92,61.59,Cloud Computing,0
+Arjun Jain,"Node.js, Deep Learning, OpenCV",2,Yes,2,Other,8.86,Python for Everybody,No,82.27,78.01,Computer Vision,1
+Ananya Saxena,CSS,0,No,4,Mechanical,7.83,AWS Certified Solutions Architect,No,72.59,81.3,Web Development,0
+Karan Roy,"Deep Learning, Figma, Python",1,No,1,Electrical,7.71,PMP Certification,No,86.23,80.85,Machine Learning,1
+Ishaan Malhotra,"NLP, Software Testing, Kubernetes",2,Yes,3,CSE,6.09,IBM Data Science Professional Certificate,No,80.58,69.03,Software Testing,0
+Neha Nair,CSS,1,Yes,2,Civil,6.53,Udemy Full Stack,No,73.27,70.34,Electronics Design,0
+Kabir Mehta,"Java, Android Development",1,Yes,2,IT,7.46,Google IT Support,No,73.5,84.77,Software Development,0
+Rahul Gupta,"UI/UX Design, Embedded Systems, Kotlin",1,No,2,IT,9.73,"Coursera Python, Azure Fundamentals",No,81.83,87.75,UI/UX Design,1
+Karan Kumar,"Linux, Cyber Security, Networking",1,No,5,Other,8.32,TensorFlow Specialization,No,92.64,91.68,Cyber Security,1
+Prachi Bhat,Arduino,0,No,3,Mechanical,9.19,Udemy Full Stack,No,85.99,85.28,Automation,0
+Leena Rao,,1,Yes,3,Electrical,7.65,Certified Ethical Hacker,No,75.39,73.35,Game Development,1
+Sakshi Khan,"Unity, Android Development, Swift",1,Yes,5,IT,6.2,Cisco CCNA,No,75.12,66.47,Mobile Application Development,0
+Tanvi Garg,"Machine Learning, Linux, Python, Arduino, Deep Learning, Computer Vision",1,Yes,2,Mechanical,8.54,TensorFlow Specialization,No,71.04,93.55,Artificial Intelligence,0
+Pooja Kapoor,"JavaScript, Deep Learning, HTML",3,Yes,4,Civil,8.5,IBM Data Science Professional Certificate,No,89.85,88.7,Web Development,1
+Ananya Bhatt,"Power BI, Networking",0,No,4,Civil,5.56,Certified Ethical Hacker,No,82.47,71.1,Cyber Security,0
+Simran Joshi,Python,3,No,4,Civil,6.89,fast.ai course,No,77.85,78.27,Robotics,1
+Maya Sharma,Swift,2,No,3,ECE,5.85,Data Science Professional Certificate,Yes,79.58,54.27,Hardware Design,0
+Isha Patel,Digital Marketing,0,No,5,IT,6.49,UI/UX Design Certificate,No,75.29,77.73,Digital Marketing,0
+Arjun Chopra,"Deep Learning, Figma, Computer Vision, Machine Learning",0,No,3,Other,6.04,Deep Learning Specialization,No,73.43,68.02,Artificial Intelligence,0
+Riya Nair,"Data Analysis, Machine Learning",1,No,3,Mechanical,8.6,"Kaggle Micro-Course, Power BI Certification",No,66.76,78.75,Data Science,1
+Arjun Saxena,"Transformers, iOS Development, Python",0,Yes,5,ECE,8.15,NPTEL DBMS,No,86.82,77.39,Natural Language Processing (NLP),0
+Prachi Garg,"C++, Java, Blockchain",0,No,2,IT,7.67,Java Programming Masterclass,No,74.14,83.61,Software Development,0
+Prachi Jain,"Java, ETL",1,Yes,3,Civil,6.87,AWS Certified Solutions Architect,No,76.48,74.77,Data Engineering,1
+Tanvi Nair,,0,No,3,Electrical,8.5,NPTEL DBMS,No,84.12,78.26,Augmented Reality (AR) / Virtual Reality (VR),0
+Sneha Jain,Machine Learning,2,No,4,IT,7.97,UI/UX Design Certificate,No,74.26,75.07,Electronics Design,1
+Sneha Shah,"Deep Learning, Spark",0,No,3,Civil,6.19,PMP Certification,No,85.07,63.46,Artificial Intelligence,0
+Kabir Rao,Cyber Security,2,Yes,3,ECE,7.88,fast.ai course,No,84.35,85.31,Automation,1
+Ananya Malhotra,iOS Development,0,No,2,Electrical,6.98,Google IT Support Certificate,No,91.83,80.64,Electronics Design,0
+Tanvi Desai,Android Development,1,No,3,CSE,5.48,Deep Learning Specialization,No,71.48,71.3,UI/UX Design,1
+Vedant Roy,"Tableau, Docker",1,No,2,Other,5.34,PMP Certification,Yes,67.72,50.81,Robotics,0
+Karan Pandey,"SEO, Digital Marketing",0,No,3,Mechanical,8.21,Data Science Professional Certificate,No,80.56,95.6,Digital Marketing,1
+Sakshi Iyer,"Cloud Computing, Java, Linux, Kubernetes",0,No,4,Electrical,5.87,Certified Ethical Hacker,Yes,79.1,69.1,Cloud Computing,0
+Vedant Bhat,"Python, Deep Learning, CI/CD, Hadoop, Computer Vision",0,No,4,Civil,5.22,Java Programming Masterclass,Yes,67.41,51.07,Artificial Intelligence,0
+Kavya Kumar,"UI/UX Design, Figma, PyTorch",2,Yes,2,Electrical,6.86,"NPTEL DBMS, Udemy Full Stack",No,80.41,83.48,UI/UX Design,0
+Tara Bhatt,"Embedded Systems, Linux",3,Yes,2,ECE,7.02,Python for Everybody,No,74.9,70.55,Robotics,1
+Sneha Chopra,"Embedded Systems, Docker, Kubernetes, Node.js, CI/CD",1,No,4,Electrical,6.03,Google IT Support Certificate,No,67.93,67.27,DevOps,1
+Simran Bhat,"Cisco, Unity, Networking",1,Yes,4,CSE,7.28,"freeCodeCamp Certificate, Tableau Certification",No,85.04,81.3,Networking,1
+Vedant Jain,"SEO, Digital Marketing",0,No,2,Other,6.74,Java Programming Masterclass,No,84.52,65.4,Digital Marketing,0
+Kabir Iyer,"Deep Learning, Data Analysis, Python, Machine Learning",0,Yes,3,Civil,6.49,NPTEL DBMS,No,83.05,74.31,Machine Learning,1
+Neha Rao,,0,No,4,Mechanical,7.48,AWS Certified Solutions Architect,No,74.84,74.3,Business Intelligence,0
+Leena Kumar,"VHDL, Machine Learning",1,No,3,CSE,6.38,Python for Everybody,Yes,82.87,59.12,Data Science,0
+Vihaan Chopra,Deep Learning,0,No,5,Mechanical,6.54,Certified Ethical Hacker,No,76.45,70.43,Business Intelligence,0
+Manish Desai,"NLP, Automation, Software Testing",3,Yes,3,Electrical,7.38,Google IT Support Certificate,Yes,91.09,62.53,Software Testing,1
+Ananya Joshi,"Kotlin, Machine Learning, Data Analysis, Python, Deep Learning",1,No,2,ECE,7.81,AWS Certified Solutions Architect,No,73.46,82.9,Machine Learning,1
+Ananya Sharma,"CSS, Power BI, Linux",0,No,4,IT,5.18,"IBM Data Science Professional Certificate, Udemy Full Stack",No,86.67,60.59,Augmented Reality (AR) / Virtual Reality (VR),1
+Vedant Das,"Embedded Systems, Python",0,No,5,ECE,5.9,PMP Certification,No,86.24,70.9,Robotics,0
+Tanvi Shah,"Machine Learning, Angular, Data Analysis, Java, iOS Development, Solidity, Python, Deep Learning",1,Yes,1,Electrical,9.46,Azure Fundamentals,No,70.5,95.01,Machine Learning,1
+Maya Khan,"Arduino, CSS, SEO, C++, Hardware",0,No,4,Mechanical,6.33,PMP Certification,No,79.48,66.43,Information Technology (IT) Support,1
+Karan Joshi,"Hadoop, Spark",1,Yes,3,ECE,7.0,UI/UX Design Certificate,No,83.3,75.19,Big Data Analytics,1
+Vedant Joshi,"UI/UX Design, Solidity, Machine Learning",3,No,1,Civil,7.5,PMP Certification,No,73.71,76.07,UI/UX Design,1
+Simran Sharma,Java,2,Yes,4,Other,8.62,"Azure Fundamentals, freeCodeCamp Certificate",No,63.5,80.64,Augmented Reality (AR) / Virtual Reality (VR),0
+Maya Patel,"VHDL, Deep Learning, Digital Marketing",0,Yes,3,Electrical,7.87,freeCodeCamp Certificate,No,85.09,79.96,Digital Marketing,1
+Sneha Jain,"SQL, Data Analysis, Machine Learning",1,No,3,Electrical,7.24,CS50 Certificate,No,83.73,78.11,Data Science,1
+Aarav Kapoor,,0,No,3,Mechanical,6.94,CS50 Certificate,No,80.83,73.85,Business Intelligence,0
+Neha Rao,Swift,2,Yes,5,Other,6.57,Certified Ethical Hacker,No,79.86,75.25,Electronics Design,0
+Leena Joshi,"Selenium, Networking, Network Security, Embedded Systems, Linux, CSS",3,No,3,CSE,7.03,AWS Certified Solutions Architect,No,91.36,82.87,Networking,0
+Arjun Jain,"Deep Learning, OpenCV",1,Yes,2,CSE,7.45,Certified Ethical Hacker,No,75.54,68.67,Computer Vision,1
+Kabir Kapoor,"CI/CD, Kubernetes",1,No,4,ECE,8.4,Data Science Professional Certificate,No,70.1,99.0,DevOps,1
+Karan Desai,"React, iOS Development, OpenCV, CSS, Kubernetes, HTML",5,Yes,3,IT,5.41,AWS Certified Solutions Architect,Yes,86.04,68.0,Web Development,0
+Aditya Joshi,Digital Marketing,2,No,3,ECE,8.67,Certified Ethical Hacker,Yes,73.04,82.53,Digital Marketing,0
+Ananya Garg,"Embedded Systems, C/C++, Python",2,Yes,4,IT,7.8,Certified Ethical Hacker,No,81.96,85.72,Internet of Things (IoT),1
+Neha Garg,"UI/UX Design, Java, Networking",1,No,5,Mechanical,4.2,Google IT Support Certificate,Yes,93.1,56.93,UI/UX Design,0
+Pooja Bhat,"Deep Learning, Unity, Azure",1,No,3,Other,5.08,Google IT Support Certificate,Yes,83.39,54.79,Computer Vision,0
+Simran Saxena,NLP,3,Yes,3,Civil,5.4,Certified Ethical Hacker,Yes,75.74,56.4,Information Technology (IT) Support,0
+Vedant Sharma,Android Development,3,No,5,IT,8.12,Google IT Support Certificate,No,76.38,87.33,Automation,1
+Neha Shah,"Transformers, NLP, CI/CD, Python",3,No,5,Mechanical,8.88,Google IT Support Certificate,No,75.14,86.41,Natural Language Processing (NLP),1
+Isha Patel,"Kubernetes, Android Development",2,Yes,2,CSE,4.0,"Cisco CCNA, NPTEL DBMS",Yes,74.2,44.97,DevOps,0
+Tanvi Bhatt,"CI/CD, Data Analysis, HTML",1,Yes,4,Mechanical,7.49,"IBM Data Science Professional Certificate, CS50 Certificate",No,85.44,82.34,Computer Vision,1
+Simran Das,"TensorFlow, Docker",2,Yes,5,Civil,7.26,Cisco CCNA,No,79.19,74.18,Electronics Design,0
+Kavya Patel,"SQL, Data Analysis, Python, Machine Learning",1,No,1,Other,6.84,CS50 Introduction to CS,No,89.77,70.32,Data Science,1
+Prachi Roy,Deep Learning,1,No,3,Civil,6.24,PMP Certification,No,75.58,63.49,Digital Marketing,0
+Ishaan Kapoor,"Digital Marketing, Blockchain",0,No,3,IT,5.91,"PMP basics, Certified Ethical Hacker",Yes,79.06,62.75,Digital Marketing,0
+Karan Patel,C/C++,1,No,3,Other,4.46,Python for Everybody,No,70.66,58.75,Embedded Systems,0
+Isha Rao,"SQL, Database Design",0,No,3,ECE,6.95,"NPTEL DBMS, Google UX Design, Kaggle Micro-Course",No,83.09,70.29,Database Management,1
+Ananya Patel,Deep Learning,0,No,3,Mechanical,7.14,freeCodeCamp Certificate,Yes,71.87,69.88,Computer Vision,1
+Maya Kumar,"Embedded Systems, Blockchain",0,No,4,Other,7.67,"Tableau Certification, IBM Data Science Professional Certificate, Azure Fundamentals",No,76.7,77.89,Embedded Systems,0
+Tara Mehta,"Spark, Selenium",1,Yes,3,Electrical,7.2,Kaggle Micro-Course,No,91.36,77.77,Hardware Design,1
+Sakshi Chopra,"Cryptography, Spark",0,No,3,Other,6.17,PMP Certification,No,91.74,69.79,Blockchain Technology,0
+Leena Jain,"Deep Learning, SQL, ETL, Kotlin",2,Yes,3,IT,7.95,Certified Ethical Hacker,No,81.17,85.23,Data Engineering,1
+Rohit Verma,"Cryptography, Blockchain",0,No,1,Electrical,9.5,UI/UX Design Certificate,No,81.3,99.0,Blockchain Technology,0
+Pooja Malhotra,"Node.js, Automation",0,No,5,ECE,9.51,"freeCodeCamp Certificate, Coursera Python, Google IT Support",No,73.92,97.58,Software Testing,0
+Neha Roy,"JavaScript, Kubernetes",2,Yes,4,Civil,6.43,IBM Data Science Professional Certificate,No,77.54,66.17,Cloud Computing,0
+Sneha Singh,"Database Design, Blockchain",0,No,4,ECE,6.88,Certified Ethical Hacker,No,75.71,62.78,Database Management,1
+Maya Patel,HTML,1,Yes,3,Electrical,6.57,Google UX Design,No,87.01,70.21,Electronics Design,0
+Rahul Sharma,"CI/CD, HTML, Solidity",0,Yes,3,Electrical,4.32,Google IT Support Certificate,Yes,77.41,53.97,DevOps,0
+Leena Kumar,"C/C++, Embedded Systems, Java, Python, Deep Learning",1,No,4,Civil,6.04,Android Certification,No,87.68,65.07,Internet of Things (IoT),0
+Sakshi Singh,"Docker, Kubernetes, Kotlin",0,No,3,Electrical,8.77,PMP Certification,No,86.11,92.83,Cloud Computing,1
+Leena Saxena,"React, Spark, CSS",3,Yes,4,Civil,6.52,Java Programming Masterclass,Yes,84.02,73.84,Automation,0
+Kavya Shah,ETL,5,No,4,Other,7.13,Deep Learning Specialization,No,80.88,61.86,Data Engineering,1
+Tara Patel,"Deep Learning, Machine Learning",0,No,2,Electrical,9.42,freeCodeCamp Certificate,No,95.23,98.94,Artificial Intelligence,1
+Isha Sharma,"CI/CD, C++, Kubernetes",1,No,4,IT,6.06,Deep Learning Specialization,No,75.55,61.88,DevOps,1
+Sneha Das,"Embedded Systems, Java, C/C++, Linux",0,No,3,ECE,7.69,PMP Certification,No,88.18,83.48,Internet of Things (IoT),0
+Arjun Pandey,"Angular, Power BI",1,No,3,Mechanical,8.31,Coursera ML,No,75.08,80.68,Game Development,0
+Leena Nair,Hadoop,1,No,5,Other,8.42,"Google IT Support, Google UX Design, Coursera Python",No,91.44,86.11,Automation,0
+Neha Kapoor,"Hardware, IT Support, Networking",2,Yes,3,Mechanical,7.39,Certified Ethical Hacker,No,81.39,75.59,Information Technology (IT) Support,1
+Aditya Iyer,"TensorFlow, Machine Learning",1,No,3,CSE,5.34,"TensorFlow Specialization, Coursera ML",Yes,68.95,57.73,Augmented Reality (AR) / Virtual Reality (VR),0
+Sakshi Joshi,"SQL, Data Analysis, Networking",2,Yes,4,Mechanical,7.55,UI/UX Design Certificate,No,86.84,66.56,Data Science,0
+Tanvi Rao,"Automation, Selenium, Software Testing",1,Yes,3,Civil,7.17,Python for Everybody,Yes,85.14,63.57,Software Testing,0
+Ishaan Kapoor,"OpenCV, Big Data, SQL",4,No,5,Mechanical,7.73,Google IT Support Certificate,No,83.01,84.04,Data Engineering,0
+Prachi Bhat,"Docker, Linux",0,No,3,Mechanical,7.18,Deep Learning Specialization,No,73.91,72.65,Cloud Computing,0
+Simran Malhotra,SEO,0,Yes,4,Electrical,6.02,Deep Learning Specialization,No,76.06,56.41,Augmented Reality (AR) / Virtual Reality (VR),1
+Kabir Das,"Deep Learning, Computer Vision, Python, Machine Learning",2,Yes,5,Other,5.73,Google IT Support Certificate,No,81.71,65.73,Artificial Intelligence,1
+Vedant Bhatt,Python,1,Yes,4,Civil,8.98,Java Programming Masterclass,No,80.12,96.24,Digital Marketing,0
+Vihaan Patel,"UI/UX Design, Networking, Machine Learning",4,No,3,IT,6.27,Python for Everybody,No,81.29,68.41,UI/UX Design,0
+Isha Joshi,"Transformers, NLP, Python",1,No,3,Mechanical,8.55,Cisco CCNA,Yes,86.3,80.35,Natural Language Processing (NLP),0
+Kabir Bhat,Solidity,1,No,4,IT,6.43,"Google IT Support, Power BI Certification, PMP basics",No,90.07,66.58,Automation,1
+Neha Garg,"CI/CD, Embedded Systems, C/C++",1,No,3,IT,7.65,Power BI Certification,No,90.39,76.94,Internet of Things (IoT),0
+Tara Malhotra,SQL,0,No,3,Mechanical,5.28,"Cisco CCNA, Coursera ML",No,84.27,62.5,Hardware Design,1
+Aarav Iyer,Node.js,1,No,5,IT,7.52,"Certified Ethical Hacker, Kaggle Micro-Course",No,78.0,74.93,Automation,1
+Maya Shah,Figma,2,No,2,Civil,7.31,Certified Ethical Hacker,No,70.12,80.4,Hardware Design,0
+Vihaan Kapoor,"Deep Learning, Figma",1,No,2,ECE,6.39,Google IT Support Certificate,No,68.8,68.94,Robotics,1
+Karan Malhotra,"Transformers, NLP, Python",1,Yes,4,CSE,8.01,CS50 Certificate,No,79.23,86.32,Natural Language Processing (NLP),1
+Vedant Chopra,Kubernetes,1,Yes,2,ECE,6.07,Coursera ML,No,79.51,65.99,DevOps,0
+Ananya Pandey,Power BI,1,No,4,IT,6.94,Coursera Python,No,75.46,83.84,Electronics Design,0
+Karan Verma,"Hadoop, Big Data, Spark",5,Yes,3,CSE,6.79,Python for Everybody,No,75.32,73.62,Big Data Analytics,1
+Neha Iyer,"Hadoop, Spark, Swift",2,Yes,3,Other,7.88,Certified Ethical Hacker,No,87.45,83.24,Big Data Analytics,0
+Leena Joshi,"Angular, Embedded Systems, C/C++, Linux",2,Yes,3,IT,8.9,AWS Certified Solutions Architect,No,79.35,87.86,Embedded Systems,0
+Tanvi Singh,"HTML, Automation",3,Yes,3,Electrical,8.87,Deep Learning Specialization,Yes,91.57,92.46,Information Technology (IT) Support,0
+Arjun Saxena,Docker,1,Yes,3,Civil,6.43,PMP Certification,No,79.71,73.93,Cloud Computing,0
+Aarav Nair,"UI/UX Design, HTML, Figma",1,No,4,ECE,6.17,Python for Everybody,No,72.85,60.81,UI/UX Design,0
+Aditya Iyer,"CSS, Hardware",2,No,5,Mechanical,5.9,PMP Certification,No,79.29,66.8,Information Technology (IT) Support,1
+Prachi Iyer,"Transformers, NLP, Python",2,Yes,4,Electrical,7.48,UI/UX Design Certificate,No,80.56,69.58,Natural Language Processing (NLP),1
+Rohit Rao,"TensorFlow, C++, OpenCV, Computer Vision",1,No,3,IT,7.38,"Udemy Full Stack, PMP basics, IBM Data Science Professional Certificate",No,76.8,69.41,Computer Vision,1
+Riya Bhatt,"Tableau, IT Support, Cyber Security",3,No,1,Other,7.06,Tableau Certification,No,80.98,71.09,Information Technology (IT) Support,0
+Rohit Mehta,"Deep Learning, Data Analysis, Python",1,Yes,3,Civil,7.29,AWS Certified Solutions Architect,No,82.34,67.49,Machine Learning,1
+Simran Khan,"NLP, SQL",1,No,3,ECE,6.42,freeCodeCamp Certificate,No,80.58,70.95,Natural Language Processing (NLP),1
+Maya Desai,"Figma, Power BI, Linux, Networking",0,No,4,IT,5.73,"IBM Data Science Professional Certificate, Tableau Certification, Coursera ML",No,77.05,63.45,Cyber Security,0
+Pooja Rao,"Embedded Systems, C/C++, Kubernetes",5,Yes,5,Electrical,8.21,"Google UX Design, PMP basics, TensorFlow Specialization",No,79.14,82.65,Internet of Things (IoT),1
+Sneha Desai,"Embedded Systems, Java, Control Systems",0,No,3,CSE,8.68,Power BI Certification,No,79.22,85.25,Robotics,1
+Kavya Iyer,"React, CSS, HTML",0,Yes,3,Electrical,6.37,"Google UX Design, fast.ai course",No,87.87,77.5,Web Development,1
+Maya Garg,Agile,1,Yes,4,IT,6.4,Tableau Certification,No,76.53,68.35,Project Management,1
+Vedant Mehta,"UI/UX Design, Automation, Blockchain",2,No,3,ECE,6.75,Tableau Certification,No,76.88,69.77,UI/UX Design,0
+Manish Verma,"SQL, Python, Machine Learning",1,Yes,1,Other,4.52,"Coursera Python, Certified Ethical Hacker, NPTEL DBMS",No,81.99,56.12,Data Science,0
+Kavya Jain,Networking,0,No,2,Other,7.45,IBM Data Science Professional Certificate,No,84.65,73.86,Information Technology (IT) Support,1
+Simran Iyer,"Java, Spark",0,No,2,Mechanical,7.0,Data Science Professional Certificate,No,85.83,73.22,Networking,0
+Tanvi Das,Tableau,1,Yes,4,CSE,8.78,PMP Certification,No,77.88,98.06,Cloud Computing,1
+Neha Rao,"CI/CD, Docker, Kubernetes",1,No,3,Electrical,6.5,CS50 Introduction to CS,No,65.94,64.03,DevOps,1
+Vihaan Kumar,SEO,0,No,3,IT,6.43,Coursera Python,No,88.86,68.14,Electronics Design,0
+Simran Pandey,"Embedded Systems, Solidity",1,No,4,Civil,8.57,CS50 Introduction to CS,No,81.4,88.27,Internet of Things (IoT),1
+Neha Patel,Digital Marketing,0,No,4,ECE,8.4,fast.ai course,Yes,73.5,87.65,Digital Marketing,0
+Prachi Nair,Linux,0,No,2,Civil,6.97,"CS50 Certificate, Google IT Support",No,78.37,82.51,Electronics Design,0
+Tara Das,"C/C++, Unity",2,No,4,Other,6.99,Java Programming Masterclass,No,73.39,64.99,Internet of Things (IoT),1
+Vedant Nair,"Embedded Systems, C/C++",3,No,4,IT,8.74,Google IT Support,No,88.18,99.0,Internet of Things (IoT),1
+Manish Desai,"Linux, Python, Docker, Kubernetes, Cloud Computing",0,Yes,4,Electrical,6.32,TensorFlow Specialization,No,77.06,74.35,Cloud Computing,0
+Rahul Rao,"CSS, HTML, Cyber Security",0,Yes,4,CSE,8.69,"freeCodeCamp Certificate, NPTEL DBMS",No,99.0,84.93,Web Development,1
+Rohit Chopra,"JavaScript, Hadoop, Spark",0,No,3,Civil,8.88,Android Certification,No,80.88,96.6,Big Data Analytics,1
+Kabir Desai,"CSS, Digital Marketing",2,No,2,Civil,7.08,UI/UX Design Certificate,No,79.6,75.61,Digital Marketing,1
+Tanvi Khan,"Linux, Networking",0,No,4,IT,6.18,Certified Ethical Hacker,No,75.35,68.81,Cyber Security,1
+Aditya Mehta,"Automation, CSS",1,Yes,4,Electrical,6.85,Certified Ethical Hacker,No,79.42,76.94,Web Development,1
+Rahul Das,"Blockchain, Machine Learning",4,Yes,5,Civil,8.03,Google UX Design,Yes,76.57,84.15,Artificial Intelligence,1
+Ananya Chopra,Spark,1,No,2,CSE,6.68,Google IT Support Certificate,No,84.83,61.57,Big Data Analytics,0
+Tara Garg,"Machine Learning, Embedded Systems, Data Analysis, Deep Learning, Node.js",1,Yes,4,Mechanical,5.99,Kaggle Micro-Course,Yes,80.55,70.24,Machine Learning,1
+Kabir Sharma,"Android Development, Data Analysis, iOS Development, Java, Swift",3,Yes,3,IT,6.69,"Tableau Certification, Coursera ML, Coursera Python",No,83.74,74.33,Mobile Application Development,1
+Kabir Sharma,"Node.js, Unity, Swift",1,No,4,Electrical,5.05,Deep Learning Specialization,Yes,70.11,62.58,Software Testing,1
+Rohit Roy,,3,Yes,4,Electrical,6.78,Udemy Full Stack,No,73.72,73.46,Automation,0
+Pooja Garg,SEO,0,No,3,ECE,8.15,Java Programming Masterclass,No,74.53,93.09,Digital Marketing,0
+Manish Roy,"Node.js, Embedded Systems, Java, Machine Learning",0,No,4,Mechanical,7.08,PMP Certification,No,75.39,73.87,Game Development,0
+Aarav Garg,"Transformers, Embedded Systems, TensorFlow, Python",1,Yes,2,Civil,7.51,Coursera ML,No,74.39,77.83,Natural Language Processing (NLP),1
+Tanvi Singh,"Java, Linux, Blockchain",2,Yes,5,CSE,6.63,PMP Certification,No,83.19,73.01,Blockchain Technology,0
+Aditya Nair,"Hadoop, Big Data, Spark",0,No,1,Mechanical,6.72,Power BI Certification,No,80.9,75.33,Big Data Analytics,0
+Rahul Garg,"Linux, Digital Marketing",0,No,5,Other,7.43,Certified Ethical Hacker,No,85.43,68.03,Digital Marketing,0
+Isha Bhat,"UI/UX Design, Figma, Solidity",3,No,5,Mechanical,4.85,TensorFlow Specialization,No,72.43,66.28,UI/UX Design,1
+Ananya Shah,"C++, SQL, Database Design, Kotlin",3,Yes,3,Civil,6.9,Coursera ML,No,84.06,80.29,Database Management,0
+Manish Garg,"Transformers, Spark, CI/CD, Python",1,Yes,3,Other,6.62,Java Programming Masterclass,No,85.12,70.13,Natural Language Processing (NLP),1
+Kabir Saxena,Cisco,3,No,2,Mechanical,7.5,Google IT Support Certificate,No,85.49,77.12,Networking,0
+Prachi Nair,"UI/UX Design, Figma",3,No,3,IT,5.51,Tableau Certification,Yes,71.2,63.39,UI/UX Design,0
+Aarav Joshi,"C++, Cisco",2,Yes,2,ECE,8.2,PMP Certification,No,76.83,87.22,Networking,1
+Aarav Joshi,Python,2,No,2,Civil,6.53,Python for Everybody,No,75.24,74.87,Electronics Design,0
+Tanvi Rao,"Kotlin, Network Security",1,No,2,Other,8.6,Power BI Certification,No,75.84,76.58,Networking,0
+Prachi Verma,"React, Power BI, Linux",3,Yes,4,Other,5.9,Java Programming Masterclass,Yes,74.34,74.39,Cloud Computing,1
+Riya Singh,Python,2,Yes,3,Other,6.81,Certified Ethical Hacker,No,92.77,69.38,Electronics Design,0
+Kavya Mehta,"Hardware, IT Support, Networking",0,No,3,ECE,5.89,UI/UX Design Certificate,Yes,79.3,63.42,Information Technology (IT) Support,1
+Maya Shah,C++,0,No,2,Mechanical,6.57,AWS Certified Solutions Architect,No,86.61,66.1,Blockchain Technology,0
+Karan Nair,"Embedded Systems, C/C++",2,No,2,Electrical,6.22,Coursera ML,Yes,88.29,67.88,Embedded Systems,0
+Rohit Iyer,"SQL, Data Analysis, Unity, Linux, Python",2,Yes,4,ECE,8.83,Cisco CCNA,Yes,67.56,88.78,Data Science,1
+Riya Kapoor,"PyTorch, Linux",1,No,2,CSE,8.43,Data Science Professional Certificate,No,77.29,84.11,Cyber Security,1
+Tanvi Nair,"Linux, Kubernetes, Machine Learning",1,No,4,IT,7.68,Coursera Python,No,75.19,79.49,Cloud Computing,1
+Ishaan Mehta,Embedded Systems,0,No,4,IT,6.24,Google IT Support Certificate,No,85.59,65.17,Internet of Things (IoT),0
+Sakshi Kumar,,2,Yes,3,IT,8.83,TensorFlow Specialization,No,69.3,99.0,Automation,0
+Leena Kapoor,"React, Big Data, Deep Learning, Spark, Hadoop",0,Yes,4,Electrical,6.02,Java Programming Masterclass,No,78.34,72.21,Big Data Analytics,0
+Leena Bhat,"Java, Kotlin",0,No,3,ECE,6.16,NPTEL DBMS,No,86.29,68.28,Mobile Application Development,1
+Leena Kumar,"Deep Learning, Android Development",0,No,2,Electrical,7.78,Certified Ethical Hacker,No,73.85,81.65,Game Development,1
+Kavya Desai,"Cloud Computing, Linux",0,No,4,IT,5.59,NPTEL DBMS,Yes,72.82,59.26,Cloud Computing,0
+Vedant Pandey,"React, JavaScript, Unity, CSS, HTML",1,Yes,3,CSE,6.76,Coursera ML,No,87.01,75.3,Web Development,1
+Aditya Singh,"Linux, Cyber Security, Networking",0,No,4,IT,6.88,Deep Learning Specialization,No,80.83,75.99,Cyber Security,0
+Rohit Jain,"Data Analysis, Control Systems, AWS, Python",1,No,2,ECE,7.02,Data Science Professional Certificate,Yes,74.63,80.77,Robotics,0
+Leena Malhotra,"Java, Android Development",4,Yes,5,Civil,6.7,CS50 Certificate,No,68.16,71.7,Mobile Application Development,0
+Kavya Malhotra,Python,3,No,4,Civil,9.54,AWS Cloud Practitioner,No,96.49,88.21,Robotics,1
+Karan Verma,TensorFlow,0,No,1,Mechanical,8.31,TensorFlow Specialization,No,76.94,85.85,Project Management,0
+Tara Kapoor,"Android Development, TensorFlow, Unity, PyTorch, Linux, Docker, Kubernetes, CI/CD, Cloud Computing",1,No,3,Civil,7.39,Deep Learning Specialization,Yes,73.27,78.68,Cloud Computing,0
+Pooja Shah,"C++, SQL, CSS",0,No,2,Mechanical,9.17,freeCodeCamp Certificate,No,77.81,91.26,Web Development,0
+Simran Rao,Java,1,Yes,3,ECE,6.88,Data Science Professional Certificate,No,70.66,75.2,Automation,1
+Vihaan Rao,"Arduino, Python, Data Structures, C++, Cyber Security",1,No,3,ECE,7.73,"Power BI Certification, Certified Ethical Hacker",No,82.78,79.59,Software Development,1
+Aarav Joshi,"VHDL, Solidity, Swift",2,Yes,3,Civil,7.88,"freeCodeCamp Certificate, Google UX Design",No,71.78,88.64,Blockchain Technology,0
+Tara Nair,React,0,No,3,Mechanical,7.96,Deep Learning Specialization,No,74.28,86.96,Hardware Design,0
+Simran Sharma,"iOS Development, Cyber Security, Linux, Kotlin",0,Yes,5,CSE,5.4,PMP Certification,Yes,76.06,61.17,Cyber Security,1
+Maya Joshi,"C++, Docker",0,No,4,CSE,7.63,Android Certification,No,79.52,78.35,DevOps,1
+Ishaan Bhatt,"C/C++, Selenium",1,No,3,Other,7.51,Udemy Full Stack,No,74.96,85.25,Internet of Things (IoT),1
+Vedant Sharma,"Docker, Linux, Kubernetes",0,No,3,Civil,6.92,Java Programming Masterclass,Yes,78.8,71.99,Cloud Computing,0
+Maya Roy,"Agile, Spark",2,No,2,Other,8.41,Certified Ethical Hacker,No,79.96,85.21,Project Management,0
+Sneha Patel,"Networking, Java, Linux, OpenCV, Cyber Security",2,Yes,3,Civil,7.42,Tableau Certification,No,90.7,76.11,Cyber Security,1
+Riya Kumar,Node.js,2,Yes,5,Electrical,7.99,Google IT Support Certificate,No,81.15,79.68,Database Management,0
+Riya Saxena,"Kotlin, Figma, AWS, Kubernetes, UI/UX Design",0,Yes,4,CSE,6.37,AWS Cloud Practitioner,Yes,75.44,72.37,UI/UX Design,1
+Isha Joshi,Kubernetes,2,Yes,4,IT,8.29,NPTEL DBMS,No,90.37,83.6,Automation,0
+Maya Roy,"JavaScript, TensorFlow, HTML",0,No,2,IT,6.27,PMP Certification,No,66.6,71.43,Web Development,0
+Maya Sharma,"Hardware, IT Support, Networking",1,Yes,2,Mechanical,8.73,TensorFlow Specialization,No,80.58,95.34,Information Technology (IT) Support,1
+Karan Roy,"Machine Learning, Python, Deep Learning, Spark, Node.js",1,No,4,Other,7.17,Python for Everybody,No,69.16,83.43,Machine Learning,1
+Riya Desai,"Networking, Data Analysis, Power BI, SEO, Digital Marketing",1,Yes,1,Electrical,7.51,UI/UX Design Certificate,No,75.61,75.83,Digital Marketing,0
+Rohit Verma,ETL,0,No,3,Other,7.62,Google IT Support Certificate,No,82.23,87.78,Automation,1
+Vihaan Das,"C++, Java, ETL, Python",2,Yes,2,CSE,6.97,UI/UX Design Certificate,No,79.1,77.9,Software Development,0
+Aarav Desai,"Docker, Linux",2,Yes,3,ECE,8.14,CS50 Introduction to CS,No,74.49,81.82,Cloud Computing,0
+Ananya Desai,Networking,0,Yes,3,Other,7.02,Coursera Python,No,64.9,66.18,Cyber Security,1
+Riya Chopra,"Deep Learning, OpenCV, Computer Vision",2,No,5,Civil,5.94,"Cisco CCNA, fast.ai course, Power BI Certification",Yes,63.37,69.61,Computer Vision,0
+Rohit Nair,"Networking, Machine Learning, Python, Deep Learning, Computer Vision",0,No,5,Other,7.11,"fast.ai course, Google IT Support",No,82.93,76.77,Artificial Intelligence,0
+Ishaan Chopra,"Docker, Linux, Kubernetes",2,Yes,3,Civil,6.01,UI/UX Design Certificate,No,89.96,69.66,Cloud Computing,0
+Kavya Pandey,"VHDL, Deep Learning, Data Analysis, Kubernetes",1,Yes,1,Electrical,5.96,Java Programming Masterclass,Yes,75.01,60.1,Machine Learning,1
+Riya Pandey,"Embedded Systems, Cisco, Network Security",3,Yes,5,ECE,6.87,Coursera Python,No,70.99,75.79,Networking,1
+Kavya Singh,,2,Yes,3,Mechanical,7.55,freeCodeCamp Certificate,No,83.18,73.32,Networking,0
+Aarav Sharma,Azure,1,No,4,IT,7.45,Python for Everybody,No,79.2,82.45,Augmented Reality (AR) / Virtual Reality (VR),0
+Rahul Malhotra,"CI/CD, Docker, Cyber Security, Kubernetes",3,Yes,4,Electrical,8.77,Google IT Support Certificate,No,89.55,77.77,DevOps,1
+Aditya Malhotra,"Hadoop, Python",2,Yes,2,Mechanical,5.98,Cisco CCNA,Yes,83.77,69.62,Robotics,1
+Arjun Gupta,Docker,2,No,2,Mechanical,5.76,PMP Certification,No,86.79,62.59,Game Development,0
+Sakshi Jain,"Android Development, Kotlin, Java, PyTorch, Cyber Security, Swift",0,No,3,Other,7.44,Data Science Professional Certificate,No,86.51,75.15,Mobile Application Development,1
+Sakshi Bhat,"iOS Development, Linux, Networking, Network Security",1,No,4,Other,8.46,PMP Certification,No,66.71,87.89,Networking,0
+Kavya Roy,Java,4,Yes,4,Mechanical,6.68,"IBM Data Science Professional Certificate, Google UX Design",No,77.72,69.07,Project Management,1
+Aarav Bhatt,"NLP, Python, Kotlin",0,No,3,Electrical,8.32,Google IT Support Certificate,Yes,75.63,81.56,Internet of Things (IoT),0
+Sakshi Jain,"Control Systems, Figma, Python",0,Yes,2,Mechanical,7.55,"Cisco CCNA, freeCodeCamp Certificate",No,84.18,69.66,Robotics,0
+Simran Chopra,"TensorFlow, Android Development",2,No,3,Other,6.93,Data Science Professional Certificate,No,80.35,79.91,Automation,0
+Kavya Kumar,"Selenium, Python, Kotlin",1,Yes,4,Civil,7.34,CS50 Introduction to CS,No,76.55,73.81,Electronics Design,1
+Tara Singh,"Docker, Figma, Kubernetes",2,Yes,4,Electrical,5.78,Java Programming Masterclass,Yes,78.35,57.5,DevOps,0
+Aditya Saxena,"Data Analysis, Kubernetes, Network Security",2,Yes,4,Civil,7.31,Java Programming Masterclass,No,75.85,79.0,Networking,0
+Kabir Gupta,"JavaScript, iOS Development, HTML",1,No,2,Mechanical,8.34,"Coursera Python, Azure Fundamentals, TensorFlow Specialization",No,79.95,93.2,Web Development,1
+Sakshi Saxena,"Automation, Java, Linux, Spark, Kubernetes, Software Testing, Swift",0,No,3,ECE,8.06,Python for Everybody,No,84.07,87.52,Software Testing,1
+Maya Mehta,Selenium,2,No,1,ECE,7.89,PMP Certification,No,81.31,76.75,Software Testing,0
+Prachi Jain,Tableau,0,No,3,ECE,8.82,Java Programming Masterclass,No,72.7,85.69,Augmented Reality (AR) / Virtual Reality (VR),0
+Riya Iyer,,1,No,4,Electrical,5.84,Java Programming Masterclass,Yes,84.79,65.89,Information Technology (IT) Support,0
+Sakshi Das,Selenium,1,No,2,Electrical,6.76,PMP Certification,No,73.05,71.23,Software Testing,0
+Karan Bhat,SEO,2,Yes,4,Electrical,8.48,Deep Learning Specialization,No,82.09,82.78,Digital Marketing,0
+Kabir Sharma,"Figma, Networking, Network Security",2,Yes,5,Civil,7.37,Kaggle Micro-Course,No,82.02,65.64,Networking,1
+Maya Joshi,"NLP, Docker, Python",2,No,3,Civil,8.39,UI/UX Design Certificate,No,81.53,90.7,Natural Language Processing (NLP),1
+Vedant Pandey,"Big Data, Spark",3,Yes,5,Other,5.67,Python for Everybody,Yes,76.65,60.74,Big Data Analytics,0
+Maya Chopra,Docker,1,Yes,3,Other,8.48,"CS50 Certificate, freeCodeCamp Certificate",No,76.52,90.59,Information Technology (IT) Support,1
+Riya Kumar,"Transformers, NLP",1,Yes,4,CSE,7.58,Certified Ethical Hacker,No,83.02,80.65,Natural Language Processing (NLP),0
+Prachi Das,"Hadoop, Data Analysis, Kubernetes, Machine Learning",2,Yes,2,Mechanical,6.72,AWS Certified Solutions Architect,No,78.02,66.74,Machine Learning,0
+Arjun Pandey,"SQL, Data Analysis, SEO, Machine Learning",2,Yes,4,Other,5.61,PMP Certification,No,79.61,75.55,Data Science,1
+Sakshi Patel,"JavaScript, CSS, Kubernetes",1,No,3,IT,7.1,"Tableau Certification, Udemy Full Stack, Android Certification",No,71.44,66.02,Web Development,1
+Tara Desai,"Networking, Angular, iOS Development, Figma, Hardware",2,Yes,3,Electrical,8.15,IBM Data Science Professional Certificate,No,77.02,80.82,Information Technology (IT) Support,1
+Vedant Verma,iOS Development,0,No,4,Mechanical,6.51,Coursera Python,No,91.25,67.35,Robotics,0
+Aditya Desai,Figma,2,Yes,1,Other,8.75,Java Programming Masterclass,No,80.3,99.0,Automation,1
+Karan Das,"JavaScript, Selenium",0,Yes,2,IT,5.38,"Azure Fundamentals, fast.ai course, Coursera ML",Yes,79.77,61.07,Software Testing,0
+Vedant Iyer,Azure,0,No,4,Mechanical,6.28,AWS Certified Solutions Architect,No,88.3,70.67,Augmented Reality (AR) / Virtual Reality (VR),0
+Vedant Khan,"CI/CD, Docker, Power BI",1,Yes,5,IT,8.63,CS50 Introduction to CS,No,85.24,81.31,DevOps,1
+Sakshi Garg,Hadoop,4,No,4,Other,6.24,"freeCodeCamp Certificate, Azure Fundamentals, PMP basics",Yes,83.83,55.56,Augmented Reality (AR) / Virtual Reality (VR),0
+Kavya Pandey,HTML,0,No,4,Civil,6.14,Cisco CCNA,No,75.76,66.75,Hardware Design,1
+Ishaan Iyer,"Machine Learning, Data Analysis, Python, Deep Learning, C++",0,No,5,Electrical,5.47,Deep Learning Specialization,No,92.93,53.74,Machine Learning,1
+Isha Mehta,"Cryptography, Blockchain",0,No,3,Civil,8.6,IBM Data Science Professional Certificate,No,90.7,86.71,Blockchain Technology,0
+Vedant Roy,"CSS, HTML, Kubernetes",2,Yes,2,Civil,6.32,Android Certification,No,75.66,69.92,Web Development,0
+Simran Roy,Swift,3,No,3,Mechanical,8.58,PMP Certification,No,74.52,87.96,Embedded Systems,0
+Vihaan Verma,"VHDL, Embedded Systems",0,No,3,IT,5.23,"Coursera Python, Google IT Support, Certified Ethical Hacker",No,81.32,67.51,Embedded Systems,0
+Tara Desai,Node.js,0,No,5,Other,9.93,Deep Learning Specialization,No,79.2,99.0,Software Testing,0
+Simran Bhatt,ETL,3,Yes,5,CSE,7.32,Kaggle Micro-Course,No,84.34,68.59,Data Engineering,0
+Ananya Mehta,"Cloud Computing, Linux",0,No,3,IT,8.43,Cisco CCNA,Yes,87.11,76.14,Cloud Computing,0
+Neha Singh,CSS,2,Yes,2,Electrical,7.92,Data Science Professional Certificate,No,80.45,81.02,Game Development,1
+Kavya Roy,"CI/CD, Hadoop, Solidity",1,Yes,1,Mechanical,8.9,Deep Learning Specialization,No,76.7,91.33,Blockchain Technology,0
+Maya Patel,"Java, Android Development, Swift",0,No,5,IT,7.04,"Azure Fundamentals, IBM Data Science Professional Certificate, Google UX Design",No,72.18,70.91,Mobile Application Development,0
+Neha Roy,Deep Learning,2,No,3,IT,5.02,Udemy Full Stack,No,87.03,59.16,Electronics Design,1
+Prachi Kumar,"Data Analysis, Python, Machine Learning",3,No,4,CSE,7.43,freeCodeCamp Certificate,No,79.1,80.58,Machine Learning,1
+Tara Saxena,,2,No,3,Mechanical,6.46,CS50 Introduction to CS,No,85.13,60.82,Internet of Things (IoT),1
+Kavya Rao,Transformers,2,No,2,IT,7.08,PMP Certification,No,82.39,80.49,Natural Language Processing (NLP),0
+Vedant Roy,Figma,0,No,4,Civil,6.86,Python for Everybody,No,87.54,63.01,Electronics Design,0
+Sneha Saxena,"C++, Data Structures, Automation, Azure",1,Yes,3,ECE,5.69,freeCodeCamp Certificate,No,83.87,63.33,Software Development,0
+Maya Desai,"CI/CD, Docker",1,No,2,CSE,8.79,Google IT Support Certificate,No,81.77,88.12,DevOps,0
+Rohit Jain,Selenium,2,Yes,3,Other,7.29,"Google UX Design, TensorFlow Specialization",No,82.29,84.77,Software Testing,0
+Sneha Kumar,"Deep Learning, Computer Vision, Spark, Python",2,Yes,4,Mechanical,7.83,Certified Ethical Hacker,No,77.67,75.42,Artificial Intelligence,1
+Tanvi Kumar,"Big Data, SQL, Android Development",1,No,3,CSE,6.72,Data Science Professional Certificate,No,79.39,70.3,Data Engineering,1
+Vihaan Iyer,"Hadoop, Big Data, Figma, Spark",2,No,3,Civil,7.26,UI/UX Design Certificate,No,84.25,70.53,Big Data Analytics,1
+Pooja Khan,"C++, SQL, Database Design",1,Yes,4,IT,7.02,Kaggle Micro-Course,No,78.83,74.6,Database Management,0
+Prachi Joshi,"SQL, Data Analysis, Python, Machine Learning",4,Yes,4,Civil,8.45,fast.ai course,No,70.06,89.99,Data Science,1
+Sakshi Verma,"Agile, C++, Selenium, Project Management",0,Yes,4,Civil,7.56,Android Certification,No,77.2,73.2,Project Management,1
+Aditya Desai,SQL,0,No,3,IT,6.64,Python for Everybody,No,75.13,63.29,Database Management,0
+Rahul Bhat,"NLP, Python",0,Yes,4,Civil,7.05,Power BI Certification,No,65.3,72.37,Natural Language Processing (NLP),1
+Rahul Kumar,Figma,3,No,3,CSE,8.51,AWS Certified Solutions Architect,No,81.37,83.54,UI/UX Design,1
+Isha Bhat,Python,2,Yes,5,ECE,8.81,Power BI Certification,No,81.33,82.65,Game Development,0
+Manish Garg,"OpenCV, NLP",1,No,2,Other,7.3,AWS Cloud Practitioner,No,89.42,75.31,Computer Vision,1
+Vihaan Mehta,Cyber Security,2,No,4,ECE,4.7,Data Science Professional Certificate,Yes,74.88,65.39,Digital Marketing,0
+Simran Verma,"SQL, Python, Networking, ETL",2,No,3,Civil,8.2,UI/UX Design Certificate,No,86.21,78.73,Data Engineering,1
+Riya Pandey,"Angular, Docker, Kubernetes, CI/CD, Hadoop",2,No,2,ECE,8.9,Google IT Support Certificate,No,81.9,88.06,DevOps,0
+Arjun Pandey,"OpenCV, Android Development",2,Yes,4,IT,7.23,Google UX Design,No,81.47,82.27,Augmented Reality (AR) / Virtual Reality (VR),1
+Rohit Khan,"Angular, Kubernetes, Data Analysis, Python",0,No,5,ECE,5.34,PMP Certification,Yes,89.25,68.76,Machine Learning,0
+Sakshi Chopra,"Big Data, SQL",0,Yes,4,Civil,6.22,Google UX Design,No,80.51,47.5,Data Engineering,0
+Karan Iyer,Machine Learning,1,No,3,Electrical,6.96,freeCodeCamp Certificate,No,76.35,67.0,Game Development,1
+Karan Singh,"Angular, Deep Learning, OpenCV, Spark, Tableau",4,No,3,CSE,7.89,Google IT Support Certificate,No,67.71,89.02,Big Data Analytics,0
+Sneha Roy,"CI/CD, Docker",3,Yes,2,IT,8.47,"Google UX Design, Power BI Certification",No,81.92,87.7,DevOps,1
+Neha Khan,Node.js,1,No,2,ECE,7.7,UI/UX Design Certificate,No,72.34,84.27,Business Intelligence,0
+Tara Malhotra,"Angular, Embedded Systems, Unity, C/C++",2,Yes,3,Other,7.67,fast.ai course,No,86.47,71.35,Embedded Systems,1
+Rohit Kumar,"Embedded Systems, Python, Blockchain",3,No,2,IT,5.45,Python for Everybody,No,90.41,59.48,Internet of Things (IoT),0
+Riya Patel,"Agile, Selenium, Project Management, Android Development",3,Yes,5,Mechanical,6.43,Data Science Professional Certificate,No,73.86,81.6,Project Management,1
+Aditya Bhatt,"Swift, Java, Kotlin",1,Yes,3,Mechanical,4.35,freeCodeCamp Certificate,Yes,68.07,64.65,Mobile Application Development,1
+Tara Joshi,SQL,1,No,4,IT,5.99,AWS Certified Solutions Architect,Yes,86.32,61.42,Augmented Reality (AR) / Virtual Reality (VR),0
+Sneha Singh,Android Development,2,Yes,3,CSE,7.94,UI/UX Design Certificate,No,94.18,80.56,Computer Vision,0
+Riya Chopra,"CSS, ETL",2,No,4,Other,6.33,Udemy Full Stack,No,77.38,77.88,Web Development,1
+Kavya Garg,"PyTorch, Docker, Android Development",2,Yes,4,Civil,10.0,Python for Everybody,No,82.64,92.91,DevOps,0
+Ishaan Bhat,CI/CD,3,Yes,4,IT,7.79,AWS Certified Solutions Architect,No,94.84,76.57,Big Data Analytics,1
+Ananya Kumar,"Java, Android Development",2,No,3,IT,7.13,Google IT Support Certificate,No,82.65,70.09,Mobile Application Development,0
+Sneha Bhatt,"Cyber Security, SQL, Data Analysis, Python",2,No,3,IT,6.61,UI/UX Design Certificate,No,81.12,75.3,Data Science,0
+Ishaan Verma,"Selenium, JavaScript, Unity, CSS, HTML",3,Yes,3,Other,7.97,IBM Data Science Professional Certificate,No,91.42,91.68,Web Development,1
+Leena Bhatt,"SQL, Figma, Docker, CSS, CI/CD",2,Yes,3,ECE,7.31,AWS Certified Solutions Architect,No,73.57,77.64,Augmented Reality (AR) / Virtual Reality (VR),1
+Sakshi Kumar,SEO,3,Yes,5,Other,8.11,"IBM Data Science Professional Certificate, PMP basics, Certified Ethical Hacker",No,81.06,78.64,Embedded Systems,0
+Ishaan Rao,"Deep Learning, Power BI",2,Yes,4,ECE,5.86,Google UX Design,Yes,85.15,69.18,Game Development,0
+Kavya Saxena,Embedded Systems,2,Yes,3,Mechanical,7.46,PMP basics,No,73.6,79.62,Business Intelligence,1
+Aditya Bhat,"Embedded Systems, Unity, Hardware",0,No,4,CSE,7.14,Python for Everybody,No,83.62,68.6,Information Technology (IT) Support,1
+Kabir Shah,"Data Analysis, Python",1,No,1,ECE,6.25,PMP basics,No,81.6,69.52,Data Science,1
+Kabir Kapoor,"C++, React, Solidity",0,No,2,Mechanical,4.76,Google IT Support Certificate,Yes,80.8,56.12,Hardware Design,0
+Rohit Gupta,"C++, Linux, Cyber Security, Networking",2,Yes,2,Electrical,8.73,"Udemy Full Stack, CS50 Certificate",No,72.99,82.72,Cyber Security,1
+Vedant Pandey,Java,3,Yes,3,IT,8.87,Java Programming Masterclass,No,83.92,84.38,Augmented Reality (AR) / Virtual Reality (VR),0
+Kavya Chopra,"SQL, Database Design",2,Yes,4,Electrical,5.12,"Power BI Certification, Certified Ethical Hacker, Kaggle Micro-Course",No,82.55,61.8,Database Management,1
+Rahul Malhotra,Solidity,0,Yes,1,Electrical,5.14,CS50 Certificate,No,81.01,65.56,Hardware Design,0
+Neha Malhotra,"Embedded Systems, Data Analysis, C/C++, Figma",3,No,4,IT,7.88,Data Science Professional Certificate,No,74.77,84.16,Internet of Things (IoT),0
+Prachi Nair,Automation,2,No,2,CSE,8.31,Certified Ethical Hacker,No,77.14,75.2,Automation,1
+Pooja Garg,"Spark, Data Analysis",1,Yes,3,Civil,6.67,PMP Certification,No,83.52,77.03,Big Data Analytics,1
+Sneha Patel,"Unity, Cyber Security",0,No,4,CSE,8.45,"PMP basics, Coursera Python",No,79.44,79.67,Software Testing,1
+Rahul Malhotra,"Automation, Python, Android Development",3,Yes,3,ECE,5.88,Google IT Support Certificate,Yes,71.4,65.48,Software Testing,1
+Kavya Saxena,"Linux, Cyber Security, Networking",0,No,4,Electrical,9.0,Java Programming Masterclass,No,75.42,85.14,Cyber Security,0
+Vihaan Patel,"UI/UX Design, Selenium, Data Analysis, Figma",3,No,4,CSE,7.68,Android Certification,No,85.14,79.14,UI/UX Design,1
+Pooja Bhatt,Hardware,2,Yes,5,IT,7.04,AWS Certified Solutions Architect,No,81.81,76.93,Information Technology (IT) Support,0
+Maya Kapoor,"Networking, JavaScript, Linux, Deep Learning, Cyber Security",3,Yes,5,ECE,7.6,UI/UX Design Certificate,No,90.39,75.24,Cyber Security,0
+Leena Malhotra,"C++, Kotlin",1,No,4,Mechanical,7.83,PMP basics,No,88.87,78.42,Data Engineering,0
+Sakshi Malhotra,"C++, Java, Python",3,Yes,2,Civil,6.29,Coursera ML,No,67.08,87.82,Software Development,0

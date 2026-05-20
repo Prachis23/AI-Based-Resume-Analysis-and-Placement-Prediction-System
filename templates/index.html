@@ -1,0 +1,81 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Career Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-image: url('/static/image/home.jpeg'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            min-height: 100vh;
+        }
+
+        .nav-link {
+            transition: transform 0.2s, background-color 0.2s;
+        }
+        .nav-link:hover {
+            transform: translateY(-2px);
+            background-color: #e5e7eb;
+        }
+        .nav-link.active {
+            border-bottom: 2px solid #3b82f6;
+        }
+        .page-content {
+            display: none;
+        }
+        .page-content.active {
+            display: block;
+        }
+
+        /* Glass Background for Main Box */
+        .glass-box {
+            backdrop-filter: blur(10px);
+            background: rgba(255, 255, 255, 0.85);
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col items-center p-4 md:p-8">
+
+    <!-- Main Container -->
+    <div class="glass-box rounded-2xl shadow-xl w-full max-w-5xl p-6 md:p-10 transition-all duration-300">
+        
+        <!-- Navbar -->
+        <nav class="flex flex-col md:flex-row justify-between items-center mb-8 border-b-2 pb-4">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 md:mb-0">
+                AI-Powered Career Hub
+            </h1>
+            <div class="flex flex-wrap justify-center md:space-x-4 space-x-2 text-sm md:text-base font-medium">
+                <a href="/" class="nav-link px-3 py-2 rounded-md text-gray-700 hover:text-blue-600 active">About</a>
+                <a href="/predict" class="nav-link px-3 py-2 rounded-md text-gray-700 hover:text-blue-600">Predict</a>
+                <a href="/resume" class="nav-link px-3 py-2 rounded-md text-gray-700 hover:text-blue-600">Resume</a>
+                <a href="/courses" class="nav-link px-3 py-2 rounded-md text-gray-700 hover:text-blue-600">Courses</a>
+                <a href="/interview" class="nav-link px-3 py-2 rounded-md text-gray-700 hover:text-blue-600">Interview</a>
+            </div>
+        </nav>
+
+        <!-- About Section -->
+        <div id="about-page" class="page-content active transition-opacity duration-500">
+            <div class="p-6 md:p-8 bg-blue-50 rounded-xl shadow-inner text-center">
+                <h2 class="text-2xl md:text-3xl font-bold text-blue-800 mb-4">
+                    Your Placement Success Starts Here!
+                </h2>
+                <p class="text-lg text-blue-700">
+                    The journey to a successful career is a marathon, not a sprint.
+                    Take control of your future. Use our powerful prediction model to understand your strengths
+                    and weaknesses. Your hard work will pay off!
+                </p>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
